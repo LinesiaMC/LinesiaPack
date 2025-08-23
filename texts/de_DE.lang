@@ -1,0 +1,44 @@
+menu.returnToGame=§2§lFortsetzen
+menu.returnToMenu=§4§lServer verlassen
+menu.quit=§4§lServer verlassen
+pauseScreen.quit=§4§lServer verlassen
+menu.settings=§lEinstellungen
+menu.store=§l§dstore.linesia.net
+feedbackScreen.button=§lFeedback
+pauseScreen.invite=§lSpiel einladen
+profileScreen.header=§lProfil
+
+commands.help.header=§d- §fBefehlsliste Seite §1(§d%1$d§f/§d%2$d§e) §d-
+commands.help.footer=§dBenutze /help (Seite), um die Hilfeseite anzuzeigen.
+container.enderchest=§d- §fEndertruhe §d-
+
+#SPEZIELLE GEGENSTÄNDE/BLÖCKE
+tile.sponge.dry.name=Anti-Pearl Block
+tile.end_stone.name=Aufzug
+
+tile.emerald_ore.name=Amethyst-Erz
+tile.gold_ore.name=Rubin-Erz
+tile.iron_ore.name=Onyx-Erz
+tile.copper_ore.name=Zufälliges Onyx-Erz
+tile.coal_ore.name=Zufälliges Rubin-Erz
+
+tile.zombie_generator.name=Zombie-Spawner
+tile.pigman_generator.name=Pigman-Spawner
+tile.whiter_generator.name=Wither-Skelett-Spawner
+
+tile.generator_tier_diamond.name=Diamant-Generator
+tile.generator_tier_or.name=Gold-Generator
+tile.generator_tier_stone.name=Stein-Generator
+
+tile.linesia:generator_tier_diamond.name=Diamant-Generator
+tile.linesia:generator_tier_or.name=Gold-Generator
+tile.linesia:generator_tier_stone.name=Stein-Generator
+
+#GEGENSTÄNDE
+item.egg.name=EggTrap
+item.snowball.name=SwitchBall
+
+#FARM
+item.nether_wart.name=Onyx-Saat
+tile.soul_sand.name=Angereicherte Erde
+
