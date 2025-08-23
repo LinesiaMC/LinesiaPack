@@ -1,0 +1,18 @@
+{
+	"format_version": 2,
+	"header": {
+		"name": "Linesia",
+		"description": "Resource Pack de Linesia V3",
+		"uuid": "67371b6e-ef33-4cbd-81b3-2d0b7e9dd8f0",
+		"version": [1, 0, 0],
+		"min_engine_version": [1, 16, 0]
+	},
+	"modules": [
+		{
+			"description": "Modules Resource Pack de Linesia V3",
+			"type": "resources",
+			"uuid": "5e515f36-484b-4c8c-b93a-1adda13c9b97",
+			"version": [1, 0, 0]
+		}
+	]
+}

@@ -1,0 +1,38 @@
+{
+  "format_version": [1, 1, 0],
+  "generator_tier_or":
+  {
+    "textures": "generator_tier_or",
+    "sound": "stone"
+  },
+  "generator_tier_diamond":
+  {
+    "textures": "generator_tier_diamond",
+    "sound": "stone"
+  },
+  "generator_tier_stone":
+  {
+    "textures": "generator_tier_stone",
+    "sound": "stone"
+  },
+  "zombie_generator":
+  {
+    "textures": "zombie_generator",
+    "sound": "stone"
+  },
+  "pigman_generator":
+  {
+    "textures": "pigman_generator",
+    "sound": "stone"
+  },
+  "whiter_generator":
+  {
+    "textures": "whiter_generator",
+    "sound": "stone"
+  },
+  "worm_dirt":
+  {
+    "textures": "worm_dirt",
+    "sound": "dirt"
+  }
+}

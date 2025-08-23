@@ -1,0 +1,178 @@
+{
+	"resource_pack_name": "Linesia",
+	"texture_name": "atlas.items",
+	"texture_data": {
+		"amethyste_helmet": {
+			"textures": "textures/items/armors/amethyste_helmet"
+		},
+		"amethyste_chestplate": {
+			"textures": "textures/items/armors/amethyste_chestplate"
+		},
+		"amethyste_leggings": {
+			"textures": "textures/items/armors/amethyste_leggings"
+		},
+		"amethyste_boots": {
+			"textures": "textures/items/armors/amethyste_boots"
+		},
+
+		"rubis_helmet": {
+			"textures": "textures/items/armors/rubis_helmet"
+		},
+		"rubis_chestplate": {
+			"textures": "textures/items/armors/rubis_chestplate"
+		},
+		"rubis_leggings": {
+			"textures": "textures/items/armors/rubis_leggings"
+		},
+		"rubis_boots": {
+			"textures": "textures/items/armors/rubis_boots"
+		},
+
+		"onyx_helmet": {
+			"textures": "textures/items/armors/onyx_helmet"
+		},
+		"onyx_chestplate": {
+			"textures": "textures/items/armors/onyx_chestplate"
+		},
+		"onyx_leggings": {
+			"textures": "textures/items/armors/onyx_leggings"
+		},
+		"onyx_boots": {
+			"textures": "textures/items/armors/onyx_boots"
+		},
+
+		"farm_helmet": {
+			"textures": "textures/items/armors/farm_helmet"
+		},
+		"farm_chestplate": {
+			"textures": "textures/items/armors/farm_chestplate"
+		},
+		"farm_leggings": {
+			"textures": "textures/items/armors/farm_leggings"
+		},
+		"farm_boots": {
+			"textures": "textures/items/armors/farm_boots"
+		},
+
+		"amethyste_ingot": {
+			"textures": "textures/items/ingot/amethyste_ingot"
+		},
+		"rubis_fragement": {
+			"textures": "textures/items/ingot/rubis_fragement"
+		},
+		"onyx_fragement": {
+			"textures": "textures/items/ingot/onyx_fragement"
+		},
+		"rubis_ingot": {
+			"textures": "textures/items/ingot/rubis_ingot"
+		},
+		"onyx_ingot": {
+			"textures": "textures/items/ingot/onyx_ingot"
+		},
+		"onyx_brisure": {
+			"textures": "textures/items/ingot/onyx_brisure"
+		},
+
+		"amethyste_sword": {
+			"textures": "textures/items/sword/amethyste_sword"
+		},
+		"rubis_sword": {
+			"textures": "textures/items/sword/rubis_sword"
+		},
+		"onyx_sword": {
+			"textures": "textures/items/sword/onyx_sword"
+		},
+
+		"event_key": {
+			"textures": "textures/items/key/event_key"
+		},
+		"iron_key": {
+			"textures": "textures/items/key/iron_key"
+		},
+		"item_key": {
+			"textures": "textures/items/key/item_key"
+		},
+		"vote_key": {
+			"textures": "textures/items/key/vote_key"
+		},
+		"irl_key": {
+			"textures": "textures/items/key/irl_key"
+		},
+		"chronos_key": {
+			"textures": "textures/items/key/chronos_key"
+		},
+
+		"view_stick": {
+			"textures": "textures/items/stick/view_stick"
+		},
+		"antibuild_stick": {
+			"textures": "textures/items/stick/antibuild_stick"
+		},
+		"antiitem_stick": {
+			"textures": "textures/items/stick/antiitem_stick"
+		},
+		"antipearl_stick": {
+			"textures": "textures/items/stick/antipearl_stick"
+		},
+		"bump": {
+			"textures": "textures/items/stick/bump"
+		},
+		"effects_stick": {
+			"textures": "textures/items/stick/effects_stick"
+		},
+		"freeze_stick": {
+			"textures": "textures/items/stick/freeze_stick"
+		},
+		"god_of_stick": {
+			"textures": "textures/items/stick/god_of_stick"
+		},
+		"repair_stick": {
+			"textures": "textures/items/stick/repair_stick"
+		},
+		"tp_stick": {
+			"textures": "textures/items/stick/tp_stick"
+		},
+		
+		"seedplanter": {
+			"textures": "textures/items/item/seedplanter"
+		},
+		"cash": {
+			"textures": "textures/items/item/cash"
+		},
+		"cash_token": {
+			"textures": "textures/items/item/cash_token"
+		},
+		"healing_heart": {
+			"textures": "textures/items/item/healing_heart"
+		},
+
+		"zombie_gemme": {
+			"textures": "textures/items/item/zombie_gemme"
+		},
+		"pigman_gemme": {
+			"textures": "textures/items/item/pigman_gemme"
+		},
+		"wither_gemme": {
+			"textures": "textures/items/item/wither_gemme"
+		},
+
+		"carp": {
+			"textures": "textures/items/fish/carp"
+		},
+		"goldfish": {
+			"textures": "textures/items/fish/goldfish"
+		},
+		"perch": {
+			"textures": "textures/items/fish/perch"
+		},
+		"piranha": {
+			"textures": "textures/items/fish/piranha"
+		},
+		"red_shrooma": {
+			"textures": "textures/items/fish/red_shrooma"
+		},
+		"worm": {
+			"textures": "textures/items/fish/worm"
+		}
+	}
+}

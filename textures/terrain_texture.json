@@ -1,0 +1,29 @@
+{
+  "num_mip_levels": 4,
+  "padding": 8,
+  "resource_pack_name": "vanilla",
+  "texture_data": {
+    "generator_tier_diamond": {
+      "textures": "textures/blocks/generator_tier_diamond"
+    },
+    "generator_tier_or": {
+      "textures": "textures/blocks/generator_tier_or"
+    },
+    "generator_tier_stone": {
+      "textures": "textures/blocks/generator_tier_stone"
+    },
+    "zombie_generator": {
+      "textures": "textures/blocks/zombie_generator"
+    },
+    "pigman_generator": {
+      "textures": "textures/blocks/pigman_generator"
+    },
+    "whiter_generator": {
+      "textures": "textures/blocks/whiter_generator"
+    },
+    "worm_dirt": {
+      "textures": "textures/blocks/worm_dirt"
+    }
+  },
+  "texture_name": "atlas.terrain"
+}

@@ -1,0 +1,43 @@
+menu.returnToGame=§2§lRiprendi
+menu.returnToMenu=§4§lLascia il server
+menu.quit=§4§lLascia il server
+pauseScreen.quit=§4§lLascia il server
+menu.settings=§lImpostazioni
+menu.store=§l§dstore.linesia.net
+feedbackScreen.button=§lFeedback
+pauseScreen.invite=§lInvita al gioco
+profileScreen.header=§lProfilo
+
+commands.help.header=§d- §fElenco comandi pagina §1(§d%1$d§f/§d%2$d§e) §d-
+commands.help.footer=§dUsa /help (pagina) per visualizzare la pagina di aiuto.
+container.enderchest=§d- §fEnder Chest §d-
+
+#OGGETTI/BLOCCHI SPECIALI
+tile.sponge.dry.name=Blocco Anti-Pearl
+tile.end_stone.name=Ascensore
+
+tile.emerald_ore.name=Minerale di Ametista
+tile.gold_ore.name=Minerale di Rubino
+tile.iron_ore.name=Minerale di Onice
+tile.copper_ore.name=Minerale Casuale di Onice
+tile.coal_ore.name=Minerale Casuale di Rubino
+
+tile.zombie_generator.name=Spawner di Zombie
+tile.pigman_generator.name=Spawner di Pigman
+tile.whiter_generator.name=Spawner di Scheletro Wither
+
+tile.generator_tier_diamond.name=Generatore in Diamante
+tile.generator_tier_or.name=Generatore in Oro
+tile.generator_tier_stone.name=Generatore in Pietra
+
+tile.linesia:generator_tier_diamond.name=Generatore in Diamante
+tile.linesia:generator_tier_or.name=Generatore in Oro
+tile.linesia:generator_tier_stone.name=Generatore in Pietra
+
+#OGGETTI
+item.egg.name=EggTrap
+item.snowball.name=SwitchBall
+
+#FATTORIA
+item.nether_wart.name=Seme di Onice
+tile.soul_sand.name=Terra Arricchita

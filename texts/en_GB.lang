@@ -1,0 +1,43 @@
+menu.returnToGame=§2§lResume
+menu.returnToMenu=§4§lLeave Server
+menu.quit=§4§lLeave Server
+pauseScreen.quit=§4§lLeave Server
+menu.settings=§lSettings
+menu.store=§l§dstore.linesia.net
+feedbackScreen.button=§lFeedback
+pauseScreen.invite=§lInvite to Game
+profileScreen.header=§lProfile
+
+commands.help.header=§d- §fCommand list page §1(§d%1$d§f/§d%2$d§e) §d-
+commands.help.footer=§dUse /help (page) to display the help page.
+container.enderchest=§d- §fEnder Chest §d-
+
+#SPECIAL ITEMS/BLOCKS
+tile.sponge.dry.name=Anti-Pearl Block
+tile.end_stone.name=Elevator
+
+tile.emerald_ore.name=Amethyst Ore
+tile.gold_ore.name=Ruby Ore
+tile.iron_ore.name=Onyx Ore
+tile.copper_ore.name=Random Onyx Ore
+tile.coal_ore.name=Random Ruby Ore
+
+tile.zombie_generator.name=Zombie Spawner
+tile.pigman_generator.name=Pigman Spawner
+tile.whiter_generator.name=Wither Skeleton Spawner
+
+tile.generator_tier_diamond.name=Diamond Generator
+tile.generator_tier_or.name=Gold Generator
+tile.generator_tier_stone.name=Stone Generator
+
+tile.linesia:generator_tier_diamond.name=Diamond Generator
+tile.linesia:generator_tier_or.name=Gold Generator
+tile.linesia:generator_tier_stone.name=Stone Generator
+
+#ITEM
+item.egg.name=EggTrap
+item.snowball.name=SwitchBall
+
+#FARM
+item.nether_wart.name=Onyx Seed
+tile.soul_sand.name=Enriched Soil
