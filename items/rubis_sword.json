@@ -1,0 +1,11 @@
+{
+  "format_version": "1.12.0",
+  "minecraft:item": {
+    "description": {
+      "identifier": "minecraft:rubis_sword"
+    },
+    "components": {
+      "minecraft:icon": "rubis_sword"
+    }
+  }
+}
