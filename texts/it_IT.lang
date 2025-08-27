@@ -34,6 +34,11 @@ tile.linesia:generator_tier_diamond.name=Generatore in Diamante
 tile.linesia:generator_tier_or.name=Generatore in Oro
 tile.linesia:generator_tier_stone.name=Generatore in Pietra
 
+item.amethyste_sword.name=Amethyst Sword
+item.rubis_sword.name=Rubis Sword
+item.onyx_sword.name=Onyx Sword
+item.healing_heart.name=Healing Heart
+
 #OGGETTI
 item.egg.name=EggTrap
 item.snowball.name=SwitchBall
