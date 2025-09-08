@@ -28,6 +28,33 @@
 			"textures": "textures/items/armors/rubis_boots"
 		},
 
+		"ice_helmet": {
+			"textures": "textures/items/armors/ice_helmet"
+		},
+		"ice_chestplate": {
+			"textures": "textures/items/armors/ice_chestplate"
+		},
+		"ice_leggings": {
+			"textures": "textures/items/armors/ice_leggings"
+		},
+		"ice_boots": {
+			"textures": "textures/items/armors/ice_boots"
+		},
+
+
+		"fire_helmet": {
+			"textures": "textures/items/armors/fire_helmet"
+		},
+		"fire_chestplate": {
+			"textures": "textures/items/armors/fire_chestplate"
+		},
+		"fire_leggings": {
+			"textures": "textures/items/armors/fire_leggings"
+		},
+		"fire_boots": {
+			"textures": "textures/items/armors/fire_boots"
+		},
+
 		"onyx_helmet": {
 			"textures": "textures/items/armors/onyx_helmet"
 		},
@@ -73,6 +100,35 @@
 			"textures": "textures/items/ingot/onyx_brisure"
 		},
 
+		"amethyste_brut": {
+			"textures": "textures/items/ingot/amethyste_brut"
+		},
+		"rubis_brut": {
+			"textures": "textures/items/ingot/rubis_brut"
+		},
+		"onyx_brut": {
+			"textures": "textures/items/ingot/onyx_brut"
+		},
+
+		"ice_brut": {
+			"textures": "textures/items/ingot/ice_brut"
+		},
+		"ice_quartz": {
+			"textures": "textures/items/ingot/ice_quartz"
+		},
+		"ice_stone": {
+			"textures": "textures/items/ingot/ice_stone"
+		},
+		"crystal_ice": {
+			"textures": "textures/items/ingot/ice_brut"
+		},
+		"titane": {
+			"textures": "textures/items/ingot/titane"
+		},
+		"fire": {
+			"textures": "textures/items/ingot/fire"
+		},
+
 		"amethyste_sword": {
 			"textures": "textures/items/sword/amethyste_sword"
 		},
@@ -83,23 +139,61 @@
 			"textures": "textures/items/sword/onyx_sword"
 		},
 
-		"event_key": {
-			"textures": "textures/items/key/event_key"
+		"amethyste_hoe": {
+			"textures": "textures/items/sword/amethyste_hoe"
 		},
-		"iron_key": {
-			"textures": "textures/items/key/iron_key"
+		"rubis_hoe": {
+			"textures": "textures/items/sword/rubis_hoe"
 		},
-		"item_key": {
-			"textures": "textures/items/key/item_key"
+		"onyx_hoe": {
+			"textures": "textures/items/sword/onyx_hoe"
 		},
-		"vote_key": {
-			"textures": "textures/items/key/vote_key"
+
+		"amethyste_pickaxe": {
+			"textures": "textures/items/sword/amethyste_pickaxe"
 		},
-		"irl_key": {
-			"textures": "textures/items/key/irl_key"
+		"rubis_pickaxe": {
+			"textures": "textures/items/sword/rubis_pickaxe"
 		},
-		"chronos_key": {
-			"textures": "textures/items/key/chronos_key"
+		"onyx_pickaxe": {
+			"textures": "textures/items/sword/onyx_pickaxe"
+		},
+
+
+		"amethyste_axe": {
+			"textures": "textures/items/sword/amethyste_axe"
+		},
+		"rubis_axe": {
+			"textures": "textures/items/sword/rubis_axe"
+		},
+		"onyx_axe": {
+			"textures": "textures/items/sword/onyx_axe"
+		},
+
+		"amethyste_shovel": {
+			"textures": "textures/items/sword/amethyste_shovel"
+		},
+		"rubis_shovel": {
+			"textures": "textures/items/sword/rubis_shovel"
+		},
+		"onyx_shovel": {
+			"textures": "textures/items/sword/onyx_shovel"
+		},
+
+		"key_commun": {
+			"textures": "textures/items/key/key_commun"
+		},
+		"key_farm": {
+			"textures": "textures/items/key/key_farm"
+		},
+		"key_ice": {
+			"textures": "textures/items/key/key_ice"
+		},
+		"key_fire": {
+			"textures": "textures/items/key/key_fire"
+		},
+		"key_legendary": {
+			"textures": "textures/items/key/key_legendary"
 		},
 
 		"view_stick": {
@@ -131,6 +225,12 @@
 		},
 		"tp_stick": {
 			"textures": "textures/items/stick/tp_stick"
+		},
+		"foudre_stick": {
+			"textures": "textures/items/stick/foudre_stick"
+		},
+		"size_stick": {
+			"textures": "textures/items/stick/size_stick"
 		},
 		
 		"seedplanter": {
