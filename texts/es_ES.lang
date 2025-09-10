@@ -39,6 +39,8 @@ item.rubis_sword.name=Rubis Sword
 item.onyx_sword.name=Onyx Sword
 item.healing_heart.name=Healing Heart
 
+effect.villageHero=Potion de Double XP
+
 #OBJETOS
 item.egg.name=EggTrap
 item.snowball.name=SwitchBall

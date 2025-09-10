@@ -246,6 +246,13 @@
 			"textures": "textures/items/item/healing_heart"
 		},
 
+		"glider": {
+			"textures": "textures/items/item/glider"
+		},
+		"grappling": {
+			"textures": "textures/items/item/grappling"
+		},
+
 		"zombie_gemme": {
 			"textures": "textures/items/item/zombie_gemme"
 		},
