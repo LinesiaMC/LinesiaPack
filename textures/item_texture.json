@@ -120,7 +120,7 @@
 			"textures": "textures/items/ingot/ice_stone"
 		},
 		"crystal_ice": {
-			"textures": "textures/items/ingot/ice_brut"
+			"textures": "textures/items/ingot/crystal_ice"
 		},
 		"titane": {
 			"textures": "textures/items/ingot/titane"
@@ -140,44 +140,44 @@
 		},
 
 		"amethyste_hoe": {
-			"textures": "textures/items/sword/amethyste_hoe"
+			"textures": "textures/items/tools/amethyste_hoe"
 		},
 		"rubis_hoe": {
-			"textures": "textures/items/sword/rubis_hoe"
+			"textures": "textures/items/tools/rubis_hoe"
 		},
 		"onyx_hoe": {
-			"textures": "textures/items/sword/onyx_hoe"
+			"textures": "textures/items/tools/onyx_hoe"
 		},
 
 		"amethyste_pickaxe": {
-			"textures": "textures/items/sword/amethyste_pickaxe"
+			"textures": "textures/items/tools/amethyste_pickaxe"
 		},
 		"rubis_pickaxe": {
-			"textures": "textures/items/sword/rubis_pickaxe"
+			"textures": "textures/items/tools/rubis_pickaxe"
 		},
 		"onyx_pickaxe": {
-			"textures": "textures/items/sword/onyx_pickaxe"
+			"textures": "textures/items/tools/onyx_pickaxe"
 		},
 
 
 		"amethyste_axe": {
-			"textures": "textures/items/sword/amethyste_axe"
+			"textures": "textures/items/tools/amethyste_axe"
 		},
 		"rubis_axe": {
-			"textures": "textures/items/sword/rubis_axe"
+			"textures": "textures/items/tools/rubis_axe"
 		},
 		"onyx_axe": {
-			"textures": "textures/items/sword/onyx_axe"
+			"textures": "textures/items/tools/onyx_axe"
 		},
 
 		"amethyste_shovel": {
-			"textures": "textures/items/sword/amethyste_shovel"
+			"textures": "textures/items/tools/amethyste_shovel"
 		},
 		"rubis_shovel": {
-			"textures": "textures/items/sword/rubis_shovel"
+			"textures": "textures/items/tools/rubis_shovel"
 		},
 		"onyx_shovel": {
-			"textures": "textures/items/sword/onyx_shovel"
+			"textures": "textures/items/tools/onyx_shovel"
 		},
 
 		"key_commun": {
