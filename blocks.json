@@ -34,5 +34,25 @@
   {
     "textures": "worm_dirt",
     "sound": "dirt"
+  },
+  "linesia:obsidian2": {
+    "sound": "stone",
+    "textures": "obsidian2"
+  },
+  "linesia:obsidian_trapdoor": {
+    "sound": "stone",
+    "textures": "obsidian_trapdoor"
+  },
+  "linesia:obsidian_door": {
+    "sound": "stone",
+    "textures": "obsidian_door"
+  },
+  "linesia:obsidian_fence": {
+    "sound": "stone",
+    "textures": "obsidian_fence"
+  },
+  "linesia:obsidian_fence_gate": {
+    "sound": "stone",
+    "textures": "obsidian_fence_gate"
   }
 }
