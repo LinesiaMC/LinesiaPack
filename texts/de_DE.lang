@@ -49,3 +49,10 @@ item.snowball.name=SwitchBall
 item.nether_wart.name=Onyx-Saat
 tile.soul_sand.name=Angereicherte Erde
 
+# OBSI
+tile.linesia:obsidian2.name=Obsidienne
+tile.linesia:obsidian_fence.name=Clôture en obsidienne
+tile.linesia:obsidian_fence_gate.name=Portail en obsidienne
+item.linesia:obsidian_door.name=Porte en obsidienne
+tile.linesia:obsidian_trapdoor.name=Trappe en obsidienne
+

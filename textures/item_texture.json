@@ -205,6 +205,9 @@
 		"antiitem_stick": {
 			"textures": "textures/items/stick/antiitem_stick"
 		},
+		"antiback_stick": {
+			"textures": "textures/items/stick/antiback_stick"
+		},
 		"antipearl_stick": {
 			"textures": "textures/items/stick/antipearl_stick"
 		},
@@ -280,6 +283,10 @@
 		},
 		"worm": {
 			"textures": "textures/items/fish/worm"
+		},
+
+		"obsidian_door": { 
+			"textures": "textures/blocks/obsidian_door" 
 		}
 	}
 }

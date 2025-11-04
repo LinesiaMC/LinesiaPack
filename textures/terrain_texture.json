@@ -3,14 +3,14 @@
   "padding": 8,
   "resource_pack_name": "vanilla",
   "texture_data": {
-    "generator_tier_diamond": {
-      "textures": "textures/blocks/generator_tier_diamond"
+    "block_amethyste_ore": {
+      "textures": "textures/blocks/block_amethyste_ore"
     },
-    "generator_tier_or": {
-      "textures": "textures/blocks/generator_tier_or"
+    "block_rubis_ore": {
+      "textures": "textures/blocks/block_rubis_ore"
     },
-    "generator_tier_stone": {
-      "textures": "textures/blocks/generator_tier_stone"
+    "block_titane_ore": {
+      "textures": "textures/blocks/block_titane_ore"
     },
     "zombie_generator": {
       "textures": "textures/blocks/zombie_generator"
@@ -23,6 +23,60 @@
     },
     "worm_dirt": {
       "textures": "textures/blocks/worm_dirt"
+    },
+    "obsidian2": {
+      "textures": "textures/blocks/obsidian"
+    },
+    "obsidian2_1": {
+      "textures": "textures/blocks/obsidian_1"
+    },
+    "obsidian2_2": {
+      "textures": "textures/blocks/obsidian_2"
+    },
+    "obsidian_fence": {
+      "textures": "textures/blocks/obsidian"
+    },
+    "obsidian_fence_1": {
+      "textures": "textures/blocks/obsidian_1"
+    },
+    "obsidian_fence_2": {
+      "textures": "textures/blocks/obsidian_2"
+    },
+    "obsidian_fence_gate": {
+      "textures": "textures/blocks/obsidian"
+    },
+    "obsidian_fence_gate_1": {
+      "textures": "textures/blocks/obsidian_1"
+    },
+    "obsidian_fence_gate_2": {
+      "textures": "textures/blocks/obsidian_2"
+    },
+    "obsidian_trapdoor": {
+      "textures": "textures/blocks/obsidian_trapdoor"
+    },
+    "obsidian_trapdoor_1": {
+      "textures": "textures/blocks/obsidian_trapdoor_1"
+    },
+    "obsidian_trapdoor_2": {
+      "textures": "textures/blocks/obsidian_trapdoor_2"
+    },
+    "obsidian_door_upper": {
+      "textures": "textures/blocks/obsidian_door_upper"
+    },
+    "obsidian_door_1_upper": {
+      "textures": "textures/blocks/obsidian_1_door_upper"
+    },
+    "obsidian_door_2_upper": {
+      "textures": "textures/blocks/obsidian_2_door_upper"
+    },
+    "obsidian_door_lower": {
+      "textures": "textures/blocks/obsidian"
+    },
+    "obsidian_door_1_lower": {
+      "textures": "textures/blocks/obsidian_1"
+    },
+    "obsidian_door_2_lower": {
+      "textures": "textures/blocks/obsidian_2"
     }
   },
   "texture_name": "atlas.terrain"

@@ -48,3 +48,10 @@ item.snowball.name=SwitchBall
 #FARM
 item.nether_wart.name=Graine d'onyx
 tile.soul_sand.name=Terre Enrichie
+
+# OBSI
+tile.linesia:obsidian2.name=Obsidienne
+tile.linesia:obsidian_fence.name=Clôture en obsidienne
+tile.linesia:obsidian_fence_gate.name=Portail en obsidienne
+item.linesia:obsidian_door.name=Porte en obsidienne
+tile.linesia:obsidian_trapdoor.name=Trappe en obsidienne

@@ -48,3 +48,10 @@ item.snowball.name=SwitchBall
 #FATTORIA
 item.nether_wart.name=Seme di Onice
 tile.soul_sand.name=Terra Arricchita
+
+# OBSI
+tile.linesia:obsidian2.name=Obsidienne
+tile.linesia:obsidian_fence.name=Clôture en obsidienne
+tile.linesia:obsidian_fence_gate.name=Portail en obsidienne
+item.linesia:obsidian_door.name=Porte en obsidienne
+tile.linesia:obsidian_trapdoor.name=Trappe en obsidienne
