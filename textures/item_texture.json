@@ -41,7 +41,6 @@
 			"textures": "textures/items/armors/ice_boots"
 		},
 
-
 		"fire_helmet": {
 			"textures": "textures/items/armors/fire_helmet"
 		},
@@ -100,18 +99,18 @@
 			"textures": "textures/items/ingot/onyx_brisure"
 		},
 
-		"amethyste_brut": {
-			"textures": "textures/items/ingot/amethyste_brut"
+		"amethyste_raw": {
+			"textures": "textures/items/ingot/amethyste_raw"
 		},
-		"rubis_brut": {
-			"textures": "textures/items/ingot/rubis_brut"
+		"rubis_raw": {
+			"textures": "textures/items/ingot/rubis_raw"
 		},
-		"onyx_brut": {
-			"textures": "textures/items/ingot/onyx_brut"
+		"onyx_raw": {
+			"textures": "textures/items/ingot/onyx_raw"
 		},
 
-		"ice_brut": {
-			"textures": "textures/items/ingot/ice_brut"
+		"ice_raw": {
+			"textures": "textures/items/ingot/ice_raw"
 		},
 		"ice_quartz": {
 			"textures": "textures/items/ingot/ice_quartz"
@@ -194,6 +193,22 @@
 		},
 		"key_legendary": {
 			"textures": "textures/items/key/key_legendary"
+		},
+
+        "pocket_box": {
+			"textures": "textures/items/pocketbox/pocket_box"
+		},
+        "pocket_box_commun": {
+			"textures": "textures/items/pocketbox/pocket_box_commun"
+		},
+        "pocket_box_inhabituel": {
+			"textures": "textures/items/pocketbox/pocket_box_inhabituel"
+		},
+        "pocket_box_rare": {
+			"textures": "textures/items/pocketbox/pocket_box_rare"
+		},
+        "pocket_box_legendary": {
+			"textures": "textures/items/pocketbox/pocket_box_legendary"
 		},
 
 		"view_stick": {
@@ -283,6 +298,13 @@
 		},
 		"worm": {
 			"textures": "textures/items/fish/worm"
+		},
+	
+		"dynamite": {
+			"textures": "textures/items/item/dynamite"
+		},
+		"dynamite_upgrade": {
+			"textures": "textures/items/item/dynamite_upgrade"
 		},
 
 		"obsidian_door": { 
