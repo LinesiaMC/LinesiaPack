@@ -1,20 +1,4 @@
 {
-  "format_version": [1, 1, 0],
-  "generator_tier_or":
-  {
-    "textures": "generator_tier_or",
-    "sound": "stone"
-  },
-  "generator_tier_diamond":
-  {
-    "textures": "generator_tier_diamond",
-    "sound": "stone"
-  },
-  "generator_tier_stone":
-  {
-    "textures": "generator_tier_stone",
-    "sound": "stone"
-  },
   "zombie_generator":
   {
     "textures": "zombie_generator",
@@ -34,6 +18,21 @@
   {
     "textures": "worm_dirt",
     "sound": "dirt"
+  },
+  "block_amethyste_ore":
+  {
+    "textures": "block_amethyste_ore",
+    "sound": "stone"
+  },
+  "block_rubis_ore":
+  {
+    "textures": "block_rubis_ore",
+    "sound": "stone"
+  },
+  "block_titane_ore":
+  {
+    "textures": "block_titane_ore",
+    "sound": "stone"
   },
   "linesia:obsidian2": {
     "sound": "stone",
