@@ -128,6 +128,22 @@
 			"textures": "textures/items/ingot/fire"
 		},
 
+		"brown_eagle_feather": {
+			"textures": "textures/items/loots/brown_eagle_feather"
+		},
+		"eagle_feather": {
+			"textures": "textures/items/loots/eagle_feather"
+		},
+		"meat_boar": {
+			"textures": "textures/items/loots/meat_boar"
+		},
+		"meat_deer": {
+			"textures": "textures/items/loots/meat_deer"
+		},
+		"tooth_wolf": {
+			"textures": "textures/items/loots/tooth_wolf"
+		},
+
 		"amethyste_sword": {
 			"textures": "textures/items/sword/amethyste_sword"
 		},
