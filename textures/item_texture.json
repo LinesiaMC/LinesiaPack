@@ -323,6 +323,10 @@
 			"textures": "textures/items/item/dynamite_upgrade"
 		},
 
+		"monolith": { 
+			"textures": "textures/items/item/monolith" 
+		},
+
 		"obsidian_door": { 
 			"textures": "textures/blocks/obsidian_door" 
 		}
