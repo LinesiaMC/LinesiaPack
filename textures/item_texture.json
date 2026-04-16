@@ -327,8 +327,25 @@
 			"textures": "textures/items/item/monolith" 
 		},
 
-		"obsidian_door": { 
-			"textures": "textures/blocks/obsidian_door" 
-		}
+		"obsidian_door": {
+			"textures": "textures/blocks/obsidian_door"
+		},
+
+		"afzelia_bark":     { "textures": "textures/items/wood_bark/afzelia_bark" },
+		"ash_bark":         { "textures": "textures/items/wood_bark/ash_bark" },
+		"cassia_bark":      { "textures": "textures/items/wood_bark/cassia_bark" },
+		"casuarina_bark":   { "textures": "textures/items/wood_bark/casuarina_bark" },
+		"cedar_bark":       { "textures": "textures/items/wood_bark/cedar_bark" },
+		"eucalyptus_bark":  { "textures": "textures/items/wood_bark/eucalyptus_bark" },
+		"hickory_bark":     { "textures": "textures/items/wood_bark/hickory_bark" },
+		"mahogany_bark":    { "textures": "textures/items/wood_bark/mahogany_bark" },
+		"maple_bark":       { "textures": "textures/items/wood_bark/maple_bark" },
+		"pterocarpus_bark": { "textures": "textures/items/wood_bark/pterocarpus_bark" },
+		"rain_tree_bark":   { "textures": "textures/items/wood_bark/rain_tree_bark" },
+		"rosewood_bark":    { "textures": "textures/items/wood_bark/rosewood_bark" },
+		"softwood_bark":    { "textures": "textures/items/wood_bark/softwood_bark" },
+		"teak_bark":        { "textures": "textures/items/wood_bark/teak_bark" },
+		"walnut_bark":      { "textures": "textures/items/wood_bark/walnut_bark" },
+		"xylia_bark":       { "textures": "textures/items/wood_bark/xylia_bark" }
 	}
 }
