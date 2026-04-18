@@ -3,6 +3,9 @@
   "padding": 8,
   "resource_pack_name": "vanilla",
   "texture_data": {
+    "sapling_oak": {
+      "textures": "textures/blocks/sapling_oak"
+    },
     "block_amethyste_ore": {
       "textures": "textures/blocks/block_amethyste_ore"
     },
