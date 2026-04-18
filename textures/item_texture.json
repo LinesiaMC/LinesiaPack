@@ -2,6 +2,9 @@
 	"resource_pack_name": "Linesia",
 	"texture_name": "atlas.items",
 	"texture_data": {
+		"sapling_oak": {
+			"textures": "textures/blocks/sapling_oak"
+		},
 		"amethyste_helmet": {
 			"textures": "textures/items/armors/amethyste_helmet"
 		},
