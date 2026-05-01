@@ -12,8 +12,8 @@
     "block_rubis_ore": {
       "textures": "textures/blocks/block_rubis_ore"
     },
-    "block_titane_ore": {
-      "textures": "textures/blocks/block_titane_ore"
+    "block_onyx_ore": {
+      "textures": "textures/blocks/block_onyx_ore"
     },
     "zombie_generator": {
       "textures": "textures/blocks/zombie_generator"

@@ -1,57 +1,27 @@
 {
-  "zombie_generator":
-  {
+  "format_version": [1, 1, 0],
+  "linesia:zombie_generator": {
     "textures": "zombie_generator",
     "sound": "stone"
   },
-  "pigman_generator":
-  {
+  "linesia:pigman_generator": {
     "textures": "pigman_generator",
     "sound": "stone"
   },
-  "whiter_generator":
-  {
+  "linesia:whiter_generator": {
     "textures": "whiter_generator",
     "sound": "stone"
   },
-  "worm_dirt":
-  {
-    "textures": "worm_dirt",
-    "sound": "dirt"
-  },
-  "block_amethyste_ore":
-  {
+  "linesia:block_amethyste_ore": {
     "textures": "block_amethyste_ore",
     "sound": "stone"
   },
-  "block_rubis_ore":
-  {
+  "linesia:block_rubis_ore": {
     "textures": "block_rubis_ore",
     "sound": "stone"
   },
-  "block_titane_ore":
-  {
-    "textures": "block_titane_ore",
+  "linesia:block_onyx_ore": {
+    "textures": "block_onyx_ore",
     "sound": "stone"
-  },
-  "linesia:obsidian2": {
-    "sound": "stone",
-    "textures": "obsidian2"
-  },
-  "linesia:obsidian_trapdoor": {
-    "sound": "stone",
-    "textures": "obsidian_trapdoor"
-  },
-  "linesia:obsidian_door": {
-    "sound": "stone",
-    "textures": "obsidian_door"
-  },
-  "linesia:obsidian_fence": {
-    "sound": "stone",
-    "textures": "obsidian_fence"
-  },
-  "linesia:obsidian_fence_gate": {
-    "sound": "stone",
-    "textures": "obsidian_fence_gate"
   }
 }
