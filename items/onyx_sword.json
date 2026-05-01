@@ -2,7 +2,7 @@
   "format_version": "1.12.0",
   "minecraft:item": {
     "description": {
-      "identifier": "minecraft:onyx_sword"
+      "identifier": "linesia:onyx_sword"
     },
     "components": {
       "minecraft:icon": "onyx_sword"
