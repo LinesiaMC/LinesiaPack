@@ -3,7 +3,7 @@
   "minecraft:geometry": [
     {
       "description": {
-        "identifier": "geometry.linesia_vertical_slab",
+        "identifier": "geometry.linesia_vertical_slab_north",
         "texture_width": 16,
         "texture_height": 16,
         "visible_bounds_width": 2,
@@ -22,9 +22,99 @@
                 "north": { "uv": [0, 0], "uv_size": [16, 16] },
                 "south": { "uv": [0, 0], "uv_size": [16, 16] },
                 "east":  { "uv": [0, 0], "uv_size": [8, 16] },
-                "west":  { "uv": [8, 0], "uv_size": [8, 16] },
+                "west":  { "uv": [0, 0], "uv_size": [8, 16] },
                 "up":    { "uv": [0, 0], "uv_size": [16, 8] },
-                "down":  { "uv": [0, 8], "uv_size": [16, 8] }
+                "down":  { "uv": [0, 0], "uv_size": [16, 8] }
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "description": {
+        "identifier": "geometry.linesia_vertical_slab_south",
+        "texture_width": 16,
+        "texture_height": 16,
+        "visible_bounds_width": 2,
+        "visible_bounds_height": 2,
+        "visible_bounds_offset": [0, 0.5, 0]
+      },
+      "bones": [
+        {
+          "name": "slab",
+          "pivot": [0, 0, 0],
+          "cubes": [
+            {
+              "origin": [-8, 0, 0],
+              "size": [16, 16, 8],
+              "uv": {
+                "north": { "uv": [0, 0], "uv_size": [16, 16] },
+                "south": { "uv": [0, 0], "uv_size": [16, 16] },
+                "east":  { "uv": [0, 0], "uv_size": [8, 16] },
+                "west":  { "uv": [0, 0], "uv_size": [8, 16] },
+                "up":    { "uv": [0, 0], "uv_size": [16, 8] },
+                "down":  { "uv": [0, 0], "uv_size": [16, 8] }
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "description": {
+        "identifier": "geometry.linesia_vertical_slab_west",
+        "texture_width": 16,
+        "texture_height": 16,
+        "visible_bounds_width": 2,
+        "visible_bounds_height": 2,
+        "visible_bounds_offset": [0, 0.5, 0]
+      },
+      "bones": [
+        {
+          "name": "slab",
+          "pivot": [0, 0, 0],
+          "cubes": [
+            {
+              "origin": [-8, 0, -8],
+              "size": [8, 16, 16],
+              "uv": {
+                "north": { "uv": [0, 0], "uv_size": [8, 16] },
+                "south": { "uv": [0, 0], "uv_size": [8, 16] },
+                "east":  { "uv": [0, 0], "uv_size": [16, 16] },
+                "west":  { "uv": [0, 0], "uv_size": [16, 16] },
+                "up":    { "uv": [0, 0], "uv_size": [8, 16] },
+                "down":  { "uv": [0, 0], "uv_size": [8, 16] }
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "description": {
+        "identifier": "geometry.linesia_vertical_slab_east",
+        "texture_width": 16,
+        "texture_height": 16,
+        "visible_bounds_width": 2,
+        "visible_bounds_height": 2,
+        "visible_bounds_offset": [0, 0.5, 0]
+      },
+      "bones": [
+        {
+          "name": "slab",
+          "pivot": [0, 0, 0],
+          "cubes": [
+            {
+              "origin": [0, 0, -8],
+              "size": [8, 16, 16],
+              "uv": {
+                "north": { "uv": [0, 0], "uv_size": [8, 16] },
+                "south": { "uv": [0, 0], "uv_size": [8, 16] },
+                "east":  { "uv": [0, 0], "uv_size": [16, 16] },
+                "west":  { "uv": [0, 0], "uv_size": [16, 16] },
+                "up":    { "uv": [0, 0], "uv_size": [8, 16] },
+                "down":  { "uv": [0, 0], "uv_size": [8, 16] }
               }
             }
           ]
