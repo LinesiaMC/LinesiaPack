@@ -4,7 +4,7 @@
 		"name": "Linesia",
 		"description": "Resource Pack de Linesia V4",
 		"uuid": "468c9804-90ec-43d6-aa82-7b4fe8558fd9",
-		"version": [2, 2, 0],
+		"version": [2, 3, 0],
 		"min_engine_version": [1, 16, 0]
 	},
 	"modules": [
@@ -12,7 +12,7 @@
 			"description": "Modules Resource Pack de Linesia V4",
 			"type": "resources",
 			"uuid": "31c64f2d-8187-47e8-9094-f700dc55d1af",
-			"version": [2, 2, 0]
+			"version": [2, 3, 0]
 		}
 	]
 }
