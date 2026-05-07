@@ -204,11 +204,11 @@
 		"key_farm": {
 			"textures": "textures/items/key/key_farm"
 		},
-		"key_ice": {
-			"textures": "textures/items/key/key_ice"
+		"key_rare": {
+			"textures": "textures/items/key/key_rare"
 		},
-		"key_fire": {
-			"textures": "textures/items/key/key_fire"
+		"key_epic": {
+			"textures": "textures/items/key/key_epic"
 		},
 		"key_legendary": {
 			"textures": "textures/items/key/key_legendary"
@@ -216,18 +216,6 @@
 
         "pocket_box": {
 			"textures": "textures/items/pocketbox/pocket_box"
-		},
-        "pocket_box_commun": {
-			"textures": "textures/items/pocketbox/pocket_box_commun"
-		},
-        "pocket_box_inhabituel": {
-			"textures": "textures/items/pocketbox/pocket_box_inhabituel"
-		},
-        "pocket_box_rare": {
-			"textures": "textures/items/pocketbox/pocket_box_rare"
-		},
-        "pocket_box_legendary": {
-			"textures": "textures/items/pocketbox/pocket_box_legendary"
 		},
 
 		"view_stick": {
