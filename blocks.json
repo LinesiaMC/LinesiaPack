@@ -23,5 +23,17 @@
   "linesia:block_onyx_ore": {
     "textures": "block_onyx_ore",
     "sound": "stone"
+  },
+  "linesia:ore_generator_t1": {
+    "textures": "ore_generator_t1",
+    "sound": "stone"
+  },
+  "linesia:ore_generator_t2": {
+    "textures": "ore_generator_t2",
+    "sound": "stone"
+  },
+  "linesia:ore_generator_t3": {
+    "textures": "ore_generator_t3",
+    "sound": "stone"
   }
 }
