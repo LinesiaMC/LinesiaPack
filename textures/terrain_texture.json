@@ -6,14 +6,20 @@
     "sapling_oak": {
       "textures": "textures/blocks/sapling_oak"
     },
-    "block_amethyste_ore": {
-      "textures": "textures/blocks/block_amethyste_ore"
+    "amethyste_ore": {
+      "textures": "textures/blocks/amethyste_ore"
     },
-    "block_rubis_ore": {
-      "textures": "textures/blocks/block_rubis_ore"
+    "rubis_ore": {
+      "textures": "textures/blocks/rubis_ore"
     },
-    "block_onyx_ore": {
-      "textures": "textures/blocks/block_onyx_ore"
+    "onyx_ore": {
+      "textures": "textures/blocks/onyx_ore"
+    },
+    "rubis_random_ore": {
+      "textures": "textures/blocks/rubis_random_ore"
+    },
+    "onyx_random_ore": {
+      "textures": "textures/blocks/onyx_random_ore"
     },
     "block_elevator": {
       "textures": "textures/blocks/block_elevator"
