@@ -12,16 +12,24 @@
     "textures": "whiter_generator",
     "sound": "stone"
   },
-  "linesia:block_amethyste_ore": {
-    "textures": "block_amethyste_ore",
+  "linesia:amethyste_ore": {
+    "textures": "amethyste_ore",
     "sound": "stone"
   },
-  "linesia:block_rubis_ore": {
-    "textures": "block_rubis_ore",
+  "linesia:rubis_ore": {
+    "textures": "rubis_ore",
     "sound": "stone"
   },
-  "linesia:block_onyx_ore": {
-    "textures": "block_onyx_ore",
+  "linesia:onyx_ore": {
+    "textures": "onyx_ore",
+    "sound": "stone"
+  },
+  "linesia:rubis_random_ore": {
+    "textures": "rubis_random_ore",
+    "sound": "stone"
+  },
+  "linesia:onyx_random_ore": {
+    "textures": "onyx_random_ore",
     "sound": "stone"
   },
   "linesia:ore_generator_t1": {
