@@ -17,7 +17,6 @@
 		"amethyste_boots": {
 			"textures": "textures/items/armors/amethyste_boots"
 		},
-
 		"rubis_helmet": {
 			"textures": "textures/items/armors/rubis_helmet"
 		},
@@ -30,7 +29,6 @@
 		"rubis_boots": {
 			"textures": "textures/items/armors/rubis_boots"
 		},
-
 		"ice_helmet": {
 			"textures": "textures/items/armors/ice_helmet"
 		},
@@ -43,7 +41,6 @@
 		"ice_boots": {
 			"textures": "textures/items/armors/ice_boots"
 		},
-
 		"fire_helmet": {
 			"textures": "textures/items/armors/fire_helmet"
 		},
@@ -56,7 +53,6 @@
 		"fire_boots": {
 			"textures": "textures/items/armors/fire_boots"
 		},
-
 		"onyx_helmet": {
 			"textures": "textures/items/armors/onyx_helmet"
 		},
@@ -69,7 +65,6 @@
 		"onyx_boots": {
 			"textures": "textures/items/armors/onyx_boots"
 		},
-
 		"farm_helmet": {
 			"textures": "textures/items/armors/farm_helmet"
 		},
@@ -82,7 +77,6 @@
 		"farm_boots": {
 			"textures": "textures/items/armors/farm_boots"
 		},
-
 		"amethyste_ingot": {
 			"textures": "textures/items/ingot/amethyste_ingot"
 		},
@@ -101,7 +95,6 @@
 		"onyx_brisure": {
 			"textures": "textures/items/ingot/onyx_brisure"
 		},
-
 		"amethyste_raw": {
 			"textures": "textures/items/ingot/amethyste_raw"
 		},
@@ -111,7 +104,6 @@
 		"onyx_raw": {
 			"textures": "textures/items/ingot/onyx_raw"
 		},
-
 		"ice_raw": {
 			"textures": "textures/items/ingot/ice_raw"
 		},
@@ -130,7 +122,6 @@
 		"fire": {
 			"textures": "textures/items/ingot/fire"
 		},
-
 		"brown_eagle_feather": {
 			"textures": "textures/items/loots/brown_eagle_feather"
 		},
@@ -146,7 +137,6 @@
 		"tooth_wolf": {
 			"textures": "textures/items/loots/tooth_wolf"
 		},
-
 		"amethyste_sword": {
 			"textures": "textures/items/sword/amethyste_sword"
 		},
@@ -156,7 +146,6 @@
 		"onyx_sword": {
 			"textures": "textures/items/sword/onyx_sword"
 		},
-
 		"amethyste_hoe": {
 			"textures": "textures/items/tools/amethyste_hoe"
 		},
@@ -166,7 +155,6 @@
 		"onyx_hoe": {
 			"textures": "textures/items/tools/onyx_hoe"
 		},
-
 		"amethyste_pickaxe": {
 			"textures": "textures/items/tools/amethyste_pickaxe"
 		},
@@ -176,8 +164,6 @@
 		"onyx_pickaxe": {
 			"textures": "textures/items/tools/onyx_pickaxe"
 		},
-
-
 		"amethyste_axe": {
 			"textures": "textures/items/tools/amethyste_axe"
 		},
@@ -187,7 +173,6 @@
 		"onyx_axe": {
 			"textures": "textures/items/tools/onyx_axe"
 		},
-
 		"amethyste_shovel": {
 			"textures": "textures/items/tools/amethyste_shovel"
 		},
@@ -197,7 +182,6 @@
 		"onyx_shovel": {
 			"textures": "textures/items/tools/onyx_shovel"
 		},
-
 		"key_commun": {
 			"textures": "textures/items/key/key_commun"
 		},
@@ -213,11 +197,9 @@
 		"key_legendary": {
 			"textures": "textures/items/key/key_legendary"
 		},
-
-        "pocket_box": {
+		"pocket_box": {
 			"textures": "textures/items/pocketbox/pocket_box"
 		},
-
 		"view_stick": {
 			"textures": "textures/items/stick/view_stick"
 		},
@@ -257,7 +239,6 @@
 		"size_stick": {
 			"textures": "textures/items/stick/size_stick"
 		},
-		
 		"seedplanter": {
 			"textures": "textures/items/item/seedplanter"
 		},
@@ -270,14 +251,12 @@
 		"healing_heart": {
 			"textures": "textures/items/item/healing_heart"
 		},
-
 		"glider": {
 			"textures": "textures/items/item/glider"
 		},
 		"grappling": {
 			"textures": "textures/items/item/grappling"
 		},
-
 		"zombie_gemme": {
 			"textures": "textures/items/item/zombie_gemme"
 		},
@@ -287,7 +266,6 @@
 		"wither_gemme": {
 			"textures": "textures/items/item/wither_gemme"
 		},
-
 		"carp": {
 			"textures": "textures/items/fish/carp"
 		},
@@ -306,37 +284,95 @@
 		"worm": {
 			"textures": "textures/items/fish/worm"
 		},
-	
 		"dynamite": {
 			"textures": "textures/items/item/dynamite"
 		},
 		"dynamite_upgrade": {
 			"textures": "textures/items/item/dynamite_upgrade"
 		},
-
-		"monolith": { 
-			"textures": "textures/items/item/monolith" 
+		"monolith": {
+			"textures": "textures/items/item/monolith"
 		},
-
 		"obsidian_door": {
 			"textures": "textures/blocks/obsidian_door"
 		},
-
-		"afzelia_bark":     { "textures": "textures/items/wood_bark/afzelia_bark" },
-		"ash_bark":         { "textures": "textures/items/wood_bark/ash_bark" },
-		"cassia_bark":      { "textures": "textures/items/wood_bark/cassia_bark" },
-		"casuarina_bark":   { "textures": "textures/items/wood_bark/casuarina_bark" },
-		"cedar_bark":       { "textures": "textures/items/wood_bark/cedar_bark" },
-		"eucalyptus_bark":  { "textures": "textures/items/wood_bark/eucalyptus_bark" },
-		"hickory_bark":     { "textures": "textures/items/wood_bark/hickory_bark" },
-		"mahogany_bark":    { "textures": "textures/items/wood_bark/mahogany_bark" },
-		"maple_bark":       { "textures": "textures/items/wood_bark/maple_bark" },
-		"pterocarpus_bark": { "textures": "textures/items/wood_bark/pterocarpus_bark" },
-		"rain_tree_bark":   { "textures": "textures/items/wood_bark/rain_tree_bark" },
-		"rosewood_bark":    { "textures": "textures/items/wood_bark/rosewood_bark" },
-		"softwood_bark":    { "textures": "textures/items/wood_bark/softwood_bark" },
-		"teak_bark":        { "textures": "textures/items/wood_bark/teak_bark" },
-		"walnut_bark":      { "textures": "textures/items/wood_bark/walnut_bark" },
-		"xylia_bark":       { "textures": "textures/items/wood_bark/xylia_bark" }
+		"afzelia_bark": {
+			"textures": "textures/items/wood_bark/afzelia_bark"
+		},
+		"ash_bark": {
+			"textures": "textures/items/wood_bark/ash_bark"
+		},
+		"cassia_bark": {
+			"textures": "textures/items/wood_bark/cassia_bark"
+		},
+		"casuarina_bark": {
+			"textures": "textures/items/wood_bark/casuarina_bark"
+		},
+		"cedar_bark": {
+			"textures": "textures/items/wood_bark/cedar_bark"
+		},
+		"eucalyptus_bark": {
+			"textures": "textures/items/wood_bark/eucalyptus_bark"
+		},
+		"hickory_bark": {
+			"textures": "textures/items/wood_bark/hickory_bark"
+		},
+		"mahogany_bark": {
+			"textures": "textures/items/wood_bark/mahogany_bark"
+		},
+		"maple_bark": {
+			"textures": "textures/items/wood_bark/maple_bark"
+		},
+		"pterocarpus_bark": {
+			"textures": "textures/items/wood_bark/pterocarpus_bark"
+		},
+		"rain_tree_bark": {
+			"textures": "textures/items/wood_bark/rain_tree_bark"
+		},
+		"rosewood_bark": {
+			"textures": "textures/items/wood_bark/rosewood_bark"
+		},
+		"softwood_bark": {
+			"textures": "textures/items/wood_bark/softwood_bark"
+		},
+		"teak_bark": {
+			"textures": "textures/items/wood_bark/teak_bark"
+		},
+		"walnut_bark": {
+			"textures": "textures/items/wood_bark/walnut_bark"
+		},
+		"xylia_bark": {
+			"textures": "textures/items/wood_bark/xylia_bark"
+		},
+		"diamant": {
+			"textures": "textures/items/diamond"
+		},
+		"diamant_helmet": {
+			"textures": "textures/items/diamond_helmet"
+		},
+		"diamant_chestplate": {
+			"textures": "textures/items/diamond_chestplate"
+		},
+		"diamant_leggings": {
+			"textures": "textures/items/diamond_leggings"
+		},
+		"diamant_boots": {
+			"textures": "textures/items/diamond_boots"
+		},
+		"diamant_sword": {
+			"textures": "textures/items/diamond_sword"
+		},
+		"diamant_pickaxe": {
+			"textures": "textures/items/diamond_pickaxe"
+		},
+		"diamant_axe": {
+			"textures": "textures/items/diamond_axe"
+		},
+		"diamant_shovel": {
+			"textures": "textures/items/diamond_shovel"
+		},
+		"diamant_hoe": {
+			"textures": "textures/items/diamond_hoe"
+		}
 	}
 }
