@@ -30,6 +30,15 @@
     "whiter_generator": {
       "textures": "textures/blocks/whiter_generator"
     },
+    "ore_generator_t1": {
+      "textures": "textures/blocks/ore_generator_t1"
+    },
+    "ore_generator_t2": {
+      "textures": "textures/blocks/ore_generator_t2"
+    },
+    "ore_generator_t3": {
+      "textures": "textures/blocks/ore_generator_t3"
+    },
     "worm_dirt": {
       "textures": "textures/blocks/worm_dirt"
     },

@@ -89,6 +89,9 @@
 		"rubis_ingot": {
 			"textures": "textures/items/ingot/rubis_ingot"
 		},
+		"steel_ingot": {
+			"textures": "textures/items/ingot/steel_ingot"
+		},
 		"onyx_ingot": {
 			"textures": "textures/items/ingot/onyx_ingot"
 		},
