@@ -8,7 +8,7 @@
         "enchanted": "armor_enchanted"
       },
       "textures": {
-        "default": "textures/models/armor/amethyste_2",
+        "default": "textures/models/armor/amethyste_1",
         "enchanted": "textures/misc/enchanted_actor_glint"
       },
       "geometry": {
@@ -18,7 +18,7 @@
         "parent_setup": "variable.boot_layer_visible = 0.0;"
       },
       "render_controllers": [
-        "controller.render.armor.v2"
+        "controller.render.armor"
       ]
     }
   }
