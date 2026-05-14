@@ -9,7 +9,7 @@
       },
       "textures": {
         "default": "textures/models/armor/amethyste_1",
-        "enchanted": "textures/misc/enchanted_item_glint"
+        "enchanted": "textures/misc/enchanted_actor_glint"
       },
       "geometry": {
         "default": "geometry.humanoid.armor.helmet"
@@ -18,7 +18,7 @@
         "parent_setup": "variable.helmet_layer_visible = 0.0;"
       },
       "render_controllers": [
-        "controller.render.armor"
+        "controller.render.armor.v2"
       ]
     }
   }
