@@ -18,7 +18,7 @@
         "parent_setup": "variable.leg_layer_visible = 0.0;"
       },
       "render_controllers": [
-        "controller.render.armor.v2"
+        "controller.render.armor"
       ]
     }
   }
