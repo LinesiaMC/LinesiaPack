@@ -218,6 +218,12 @@
 		"antipearl_stick": {
 			"textures": "textures/items/stick/antipearl_stick"
 		},
+		"switch_ball": {
+			"textures": "textures/items/switch_ball"
+		},
+		"web_trap": {
+			"textures": "textures/items/web_trap"
+		},
 		"bump": {
 			"textures": "textures/items/stick/bump"
 		},
@@ -347,9 +353,6 @@
 		"xylia_bark": {
 			"textures": "textures/items/wood_bark/xylia_bark"
 		},
-		"diamant": {
-			"textures": "textures/items/diamond"
-		},
 		"diamant_helmet": {
 			"textures": "textures/items/diamond_helmet"
 		},
@@ -376,6 +379,150 @@
 		},
 		"diamant_hoe": {
 			"textures": "textures/items/diamond_hoe"
+		},
+		"diamant_helmet_royal": {
+			"textures": "textures/items/armors/diamant_helmet_royal"
+		},
+		"diamant_helmet_tenebreux": {
+			"textures": "textures/items/armors/diamant_helmet_tenebreux"
+		},
+		"diamant_helmet_lumineux": {
+			"textures": "textures/items/armors/diamant_helmet_lumineux"
+		},
+		"diamant_chestplate_royal": {
+			"textures": "textures/items/armors/diamant_chestplate_royal"
+		},
+		"diamant_chestplate_tenebreux": {
+			"textures": "textures/items/armors/diamant_chestplate_tenebreux"
+		},
+		"diamant_chestplate_lumineux": {
+			"textures": "textures/items/armors/diamant_chestplate_lumineux"
+		},
+		"diamant_leggings_royal": {
+			"textures": "textures/items/armors/diamant_leggings_royal"
+		},
+		"diamant_leggings_tenebreux": {
+			"textures": "textures/items/armors/diamant_leggings_tenebreux"
+		},
+		"diamant_leggings_lumineux": {
+			"textures": "textures/items/armors/diamant_leggings_lumineux"
+		},
+		"diamant_boots_royal": {
+			"textures": "textures/items/armors/diamant_boots_royal"
+		},
+		"diamant_boots_tenebreux": {
+			"textures": "textures/items/armors/diamant_boots_tenebreux"
+		},
+		"diamant_boots_lumineux": {
+			"textures": "textures/items/armors/diamant_boots_lumineux"
+		},
+		"amethyste_helmet_royal": {
+			"textures": "textures/items/armors/amethyste_helmet_royal"
+		},
+		"amethyste_helmet_tenebreux": {
+			"textures": "textures/items/armors/amethyste_helmet_tenebreux"
+		},
+		"amethyste_helmet_lumineux": {
+			"textures": "textures/items/armors/amethyste_helmet_lumineux"
+		},
+		"amethyste_chestplate_royal": {
+			"textures": "textures/items/armors/amethyste_chestplate_royal"
+		},
+		"amethyste_chestplate_tenebreux": {
+			"textures": "textures/items/armors/amethyste_chestplate_tenebreux"
+		},
+		"amethyste_chestplate_lumineux": {
+			"textures": "textures/items/armors/amethyste_chestplate_lumineux"
+		},
+		"amethyste_leggings_royal": {
+			"textures": "textures/items/armors/amethyste_leggings_royal"
+		},
+		"amethyste_leggings_tenebreux": {
+			"textures": "textures/items/armors/amethyste_leggings_tenebreux"
+		},
+		"amethyste_leggings_lumineux": {
+			"textures": "textures/items/armors/amethyste_leggings_lumineux"
+		},
+		"amethyste_boots_royal": {
+			"textures": "textures/items/armors/amethyste_boots_royal"
+		},
+		"amethyste_boots_tenebreux": {
+			"textures": "textures/items/armors/amethyste_boots_tenebreux"
+		},
+		"amethyste_boots_lumineux": {
+			"textures": "textures/items/armors/amethyste_boots_lumineux"
+		},
+		"rubis_helmet_royal": {
+			"textures": "textures/items/armors/rubis_helmet_royal"
+		},
+		"rubis_helmet_tenebreux": {
+			"textures": "textures/items/armors/rubis_helmet_tenebreux"
+		},
+		"rubis_helmet_lumineux": {
+			"textures": "textures/items/armors/rubis_helmet_lumineux"
+		},
+		"rubis_chestplate_royal": {
+			"textures": "textures/items/armors/rubis_chestplate_royal"
+		},
+		"rubis_chestplate_tenebreux": {
+			"textures": "textures/items/armors/rubis_chestplate_tenebreux"
+		},
+		"rubis_chestplate_lumineux": {
+			"textures": "textures/items/armors/rubis_chestplate_lumineux"
+		},
+		"rubis_leggings_royal": {
+			"textures": "textures/items/armors/rubis_leggings_royal"
+		},
+		"rubis_leggings_tenebreux": {
+			"textures": "textures/items/armors/rubis_leggings_tenebreux"
+		},
+		"rubis_leggings_lumineux": {
+			"textures": "textures/items/armors/rubis_leggings_lumineux"
+		},
+		"rubis_boots_royal": {
+			"textures": "textures/items/armors/rubis_boots_royal"
+		},
+		"rubis_boots_tenebreux": {
+			"textures": "textures/items/armors/rubis_boots_tenebreux"
+		},
+		"rubis_boots_lumineux": {
+			"textures": "textures/items/armors/rubis_boots_lumineux"
+		},
+		"onyx_helmet_royal": {
+			"textures": "textures/items/armors/onyx_helmet_royal"
+		},
+		"onyx_helmet_tenebreux": {
+			"textures": "textures/items/armors/onyx_helmet_tenebreux"
+		},
+		"onyx_helmet_lumineux": {
+			"textures": "textures/items/armors/onyx_helmet_lumineux"
+		},
+		"onyx_chestplate_royal": {
+			"textures": "textures/items/armors/onyx_chestplate_royal"
+		},
+		"onyx_chestplate_tenebreux": {
+			"textures": "textures/items/armors/onyx_chestplate_tenebreux"
+		},
+		"onyx_chestplate_lumineux": {
+			"textures": "textures/items/armors/onyx_chestplate_lumineux"
+		},
+		"onyx_leggings_royal": {
+			"textures": "textures/items/armors/onyx_leggings_royal"
+		},
+		"onyx_leggings_tenebreux": {
+			"textures": "textures/items/armors/onyx_leggings_tenebreux"
+		},
+		"onyx_leggings_lumineux": {
+			"textures": "textures/items/armors/onyx_leggings_lumineux"
+		},
+		"onyx_boots_royal": {
+			"textures": "textures/items/armors/onyx_boots_royal"
+		},
+		"onyx_boots_tenebreux": {
+			"textures": "textures/items/armors/onyx_boots_tenebreux"
+		},
+		"onyx_boots_lumineux": {
+			"textures": "textures/items/armors/onyx_boots_lumineux"
 		}
 	}
 }
