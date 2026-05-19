@@ -293,6 +293,15 @@
 		"worm": {
 			"textures": "textures/items/fish/worm"
 		},
+		"rock_fish": {
+			"textures": "textures/items/fish/rock_fish"
+		},
+		"magma_fish": {
+			"textures": "textures/items/fish/magma_fish"
+		},
+		"rubis_fishing_rod": {
+			"textures": "textures/items/rubis_fishing_rod"
+		},
 		"dynamite": {
 			"textures": "textures/items/item/dynamite"
 		},
