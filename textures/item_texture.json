@@ -269,11 +269,8 @@
 		"zombie_gemme": {
 			"textures": "textures/items/item/zombie_gemme"
 		},
-		"pigman_gemme": {
-			"textures": "textures/items/item/pigman_gemme"
-		},
-		"wither_gemme": {
-			"textures": "textures/items/item/wither_gemme"
+		"enderman_gemme": {
+			"textures": "textures/items/item/enderman_gemme"
 		},
 		"carp": {
 			"textures": "textures/items/fish/carp"

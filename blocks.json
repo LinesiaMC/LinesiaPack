@@ -12,6 +12,10 @@
     "textures": "whiter_generator",
     "sound": "stone"
   },
+  "linesia:enderman_generator": {
+    "textures": "enderman_generator",
+    "sound": "stone"
+  },
   "linesia:amethyste_ore": {
     "textures": "amethyste_ore",
     "sound": "stone"
