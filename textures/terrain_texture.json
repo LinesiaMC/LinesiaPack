@@ -36,6 +36,9 @@
     "whiter_generator": {
       "textures": "textures/blocks/whiter_generator"
     },
+    "enderman_generator": {
+      "textures": "textures/blocks/enderman_generator"
+    },
     "ore_generator_t1": {
       "textures": "textures/blocks/ore_generator_t1"
     },
