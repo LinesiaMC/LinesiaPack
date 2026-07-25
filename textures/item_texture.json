@@ -219,10 +219,10 @@
 			"textures": "textures/items/stick/antipearl_stick"
 		},
 		"switch_ball": {
-			"textures": "textures/items/switch_ball"
+			"textures": "textures/items/item/switch_ball"
 		},
 		"web_trap": {
-			"textures": "textures/items/web_trap"
+			"textures": "textures/items/item/web_trap"
 		},
 		"bump": {
 			"textures": "textures/items/stick/bump"
