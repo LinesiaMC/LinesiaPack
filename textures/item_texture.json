@@ -29,30 +29,6 @@
 		"rubis_boots": {
 			"textures": "textures/items/armors/rubis_boots"
 		},
-		"ice_helmet": {
-			"textures": "textures/items/armors/ice_helmet"
-		},
-		"ice_chestplate": {
-			"textures": "textures/items/armors/ice_chestplate"
-		},
-		"ice_leggings": {
-			"textures": "textures/items/armors/ice_leggings"
-		},
-		"ice_boots": {
-			"textures": "textures/items/armors/ice_boots"
-		},
-		"fire_helmet": {
-			"textures": "textures/items/armors/fire_helmet"
-		},
-		"fire_chestplate": {
-			"textures": "textures/items/armors/fire_chestplate"
-		},
-		"fire_leggings": {
-			"textures": "textures/items/armors/fire_leggings"
-		},
-		"fire_boots": {
-			"textures": "textures/items/armors/fire_boots"
-		},
 		"onyx_helmet": {
 			"textures": "textures/items/armors/onyx_helmet"
 		},
@@ -97,48 +73,6 @@
 		},
 		"onyx_brisure": {
 			"textures": "textures/items/ingot/onyx_brisure"
-		},
-		"amethyste_raw": {
-			"textures": "textures/items/ingot/amethyste_raw"
-		},
-		"rubis_raw": {
-			"textures": "textures/items/ingot/rubis_raw"
-		},
-		"onyx_raw": {
-			"textures": "textures/items/ingot/onyx_raw"
-		},
-		"ice_raw": {
-			"textures": "textures/items/ingot/ice_raw"
-		},
-		"ice_quartz": {
-			"textures": "textures/items/ingot/ice_quartz"
-		},
-		"ice_stone": {
-			"textures": "textures/items/ingot/ice_stone"
-		},
-		"crystal_ice": {
-			"textures": "textures/items/ingot/crystal_ice"
-		},
-		"titane": {
-			"textures": "textures/items/ingot/titane"
-		},
-		"fire": {
-			"textures": "textures/items/ingot/fire"
-		},
-		"brown_eagle_feather": {
-			"textures": "textures/items/loots/brown_eagle_feather"
-		},
-		"eagle_feather": {
-			"textures": "textures/items/loots/eagle_feather"
-		},
-		"meat_boar": {
-			"textures": "textures/items/loots/meat_boar"
-		},
-		"meat_deer": {
-			"textures": "textures/items/loots/meat_deer"
-		},
-		"tooth_wolf": {
-			"textures": "textures/items/loots/tooth_wolf"
 		},
 		"amethyste_sword": {
 			"textures": "textures/items/sword/amethyste_sword"
@@ -260,12 +194,6 @@
 		"healing_heart": {
 			"textures": "textures/items/item/healing_heart"
 		},
-		"glider": {
-			"textures": "textures/items/item/glider"
-		},
-		"grappling": {
-			"textures": "textures/items/item/grappling"
-		},
 		"zombie_gemme": {
 			"textures": "textures/items/item/zombie_gemme"
 		},
@@ -299,17 +227,8 @@
 		"rubis_fishing_rod": {
 			"textures": "textures/items/rubis_fishing_rod"
 		},
-		"dynamite": {
-			"textures": "textures/items/item/dynamite"
-		},
-		"dynamite_upgrade": {
-			"textures": "textures/items/item/dynamite_upgrade"
-		},
 		"monolith": {
 			"textures": "textures/items/item/monolith"
-		},
-		"obsidian_door": {
-			"textures": "textures/blocks/obsidian_door"
 		},
 		"afzelia_bark": {
 			"textures": "textures/items/wood_bark/afzelia_bark"
