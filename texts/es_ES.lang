@@ -13,7 +13,14 @@ commands.help.footer=§dUsa /help (página) para ver la página de ayuda.
 container.enderchest=§d- §fEnder Chest §d-
 
 #OBJETOS/BLOQUES ESPECIALES
+tile.sponge.dry.name=Bloque Anti-Pearl
+tile.end_stone.name=Elevador
 
+tile.emerald_ore.name=Mena de Amatista
+tile.gold_ore.name=Mena de Rubí
+tile.iron_ore.name=Mena de Ónix
+tile.copper_ore.name=Mena Aleatoria de Ónix
+tile.coal_ore.name=Mena Aleatoria de Rubí
 
 tile.zombie_generator.name=Spawner de Zombis
 tile.pigman_generator.name=Spawner de Pigman
@@ -33,10 +40,6 @@ item.onyx_sword.name=Onyx Sword
 item.healing_heart.name=Healing Heart
 
 effect.villageHero=Potion de Double XP
-
-#OBJETOS
-item.egg.name=EggTrap
-item.snowball.name=SwitchBall
 
 #GRANJA
 item.nether_wart.name=Semilla de Ónix
