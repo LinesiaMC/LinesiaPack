@@ -59,15 +59,19 @@ tile.linesia:obsidian_trapdoor.name=Trappe en obsidienne
 craftingScreen.tab.equipment=
 
 # Modifier line formats (vanilla : "+%d %s", arg1 = nombre, arg2 = nom).
-# Vider la clé NE marche PAS : le client rejette un format sans placeholder
-# et retombe sur le vanilla, d'où le "+2" résiduel. On ne rend que l'arg 2,
-# vidé juste en dessous → ligne vide au lieu de "+2 Armure".
-attribute.modifier.plus.0=%2$s
-attribute.modifier.plus.1=%2$s
-attribute.modifier.plus.2=%2$s
-attribute.modifier.take.0=%2$s
-attribute.modifier.take.1=%2$s
-attribute.modifier.take.2=%2$s
+# IMPOSSIBLE à neutraliser : vider la clé fait retomber le client sur le
+# vanilla, et les specs positionnels (%2$s) ne sont pas supportés — Bedrock
+# est bâti sur le runtime MSVC, dont printf ignore %n$. Tout format valide
+# doit donc consommer le %d et afficher le nombre.
+# → réglé côté serveur : LArmor ne déclare plus minecraft:wearable.protection,
+#   donc plus aucun bloc de stats, et la barre de boucliers est redessinée
+#   par hud_screen.json (linesia_armor_bar_panel).
+attribute.modifier.plus.0=
+attribute.modifier.plus.1=
+attribute.modifier.plus.2=
+attribute.modifier.take.0=
+attribute.modifier.take.1=
+attribute.modifier.take.2=
 # Slot headers : "Sur les pieds :", "Sur le torse :", etc.
 slot.armor.head.when_equipped=
 slot.armor.chest.when_equipped=
