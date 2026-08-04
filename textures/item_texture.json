@@ -68,6 +68,15 @@
 		"steel_ingot": {
 			"textures": "textures/items/ingot/steel_ingot"
 		},
+		"fly_paper_10m": {
+			"textures": "textures/items/flypaper/fly_paper_10m"
+		},
+		"fly_paper_30m": {
+			"textures": "textures/items/flypaper/fly_paper_30m"
+		},
+		"fly_paper_1h": {
+			"textures": "textures/items/flypaper/fly_paper_1h"
+		},
 		"onyx_ingot": {
 			"textures": "textures/items/ingot/onyx_ingot"
 		},
