@@ -51,6 +51,9 @@
     "block_anti_pearl": {
       "textures": "textures/blocks/block_anti_pearl"
     },
+    "block_anti_pearl_glass": {
+      "textures": "textures/blocks/block_anti_pearl_glass"
+    },
     "zombie_generator": {
       "textures": "textures/blocks/zombie_generator"
     },
