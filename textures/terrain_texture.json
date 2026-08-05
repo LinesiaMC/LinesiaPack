@@ -3,6 +3,30 @@
   "padding": 8,
   "resource_pack_name": "vanilla",
   "texture_data": {
+    "ash_sapling": {
+      "textures": "textures/blocks/sapling/ash_sapling"
+    },
+    "cedar_sapling": {
+      "textures": "textures/blocks/sapling/cedar_sapling"
+    },
+    "mahogany_sapling": {
+      "textures": "textures/blocks/sapling/mahogany_sapling"
+    },
+    "maple_sapling": {
+      "textures": "textures/blocks/sapling/maple_sapling"
+    },
+    "rain_tree_sapling": {
+      "textures": "textures/blocks/sapling/rain_tree_sapling"
+    },
+    "rosewood_sapling": {
+      "textures": "textures/blocks/sapling/rosewood_sapling"
+    },
+    "teak_sapling": {
+      "textures": "textures/blocks/sapling/teak_sapling"
+    },
+    "walnut_sapling": {
+      "textures": "textures/blocks/sapling/walnut_sapling"
+    },
     "sapling_oak": {
       "textures": "textures/blocks/sapling_oak"
     },

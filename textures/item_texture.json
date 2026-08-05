@@ -68,6 +68,48 @@
 		"steel_ingot": {
 			"textures": "textures/items/ingot/steel_ingot"
 		},
+		"ash_sapling": {
+			"textures": "textures/blocks/sapling/ash_sapling"
+		},
+		"cedar_sapling": {
+			"textures": "textures/blocks/sapling/cedar_sapling"
+		},
+		"mahogany_sapling": {
+			"textures": "textures/blocks/sapling/mahogany_sapling"
+		},
+		"maple_sapling": {
+			"textures": "textures/blocks/sapling/maple_sapling"
+		},
+		"rain_tree_sapling": {
+			"textures": "textures/blocks/sapling/rain_tree_sapling"
+		},
+		"rosewood_sapling": {
+			"textures": "textures/blocks/sapling/rosewood_sapling"
+		},
+		"teak_sapling": {
+			"textures": "textures/blocks/sapling/teak_sapling"
+		},
+		"walnut_sapling": {
+			"textures": "textures/blocks/sapling/walnut_sapling"
+		},
+		"double_xp_potion": {
+			"textures": "textures/items/doublexp/double_xp_potion"
+		},
+		"double_xp_potion_farmeur": {
+			"textures": "textures/items/doublexp/double_xp_potion_farmeur"
+		},
+		"double_xp_potion_mineur": {
+			"textures": "textures/items/doublexp/double_xp_potion_mineur"
+		},
+		"double_xp_potion_guerrier": {
+			"textures": "textures/items/doublexp/double_xp_potion_guerrier"
+		},
+		"double_xp_potion_bucheron": {
+			"textures": "textures/items/doublexp/double_xp_potion_bucheron"
+		},
+		"double_xp_potion_pecheur": {
+			"textures": "textures/items/doublexp/double_xp_potion_pecheur"
+		},
 		"fly_paper_10m": {
 			"textures": "textures/items/flypaper/fly_paper_10m"
 		},
