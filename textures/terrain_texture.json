@@ -299,6 +299,822 @@
     },
     "chorus_root_cut": {
       "textures": "textures/blocks/end/chorus_root_cut"
+    },
+    "linesia_ghost_block": {
+      "textures": "textures/blocks/ghost_block"
+    },
+    "linesia_ghostskin_amethyst_block": {
+      "textures": "textures/blocks/amethyst_block"
+    },
+    "linesia_ghostskin_ancient_debris_side": {
+      "textures": "textures/blocks/ancient_debris_side"
+    },
+    "linesia_ghostskin_ancient_debris_top": {
+      "textures": "textures/blocks/ancient_debris_top"
+    },
+    "linesia_ghostskin_bamboo_block": {
+      "textures": "textures/blocks/bamboo_block"
+    },
+    "linesia_ghostskin_bamboo_block_top": {
+      "textures": "textures/blocks/bamboo_block_top"
+    },
+    "linesia_ghostskin_bamboo_planks": {
+      "textures": "textures/blocks/bamboo_planks"
+    },
+    "linesia_ghostskin_basalt_side": {
+      "textures": "textures/blocks/basalt_side"
+    },
+    "linesia_ghostskin_basalt_top": {
+      "textures": "textures/blocks/basalt_top"
+    },
+    "linesia_ghostskin_bedrock": {
+      "textures": "textures/blocks/bedrock"
+    },
+    "linesia_ghostskin_blackstone": {
+      "textures": "textures/blocks/blackstone"
+    },
+    "linesia_ghostskin_blackstone_top": {
+      "textures": "textures/blocks/blackstone_top"
+    },
+    "linesia_ghostskin_blue_ice": {
+      "textures": "textures/blocks/blue_ice"
+    },
+    "linesia_ghostskin_bone_block_side": {
+      "textures": "textures/blocks/bone_block_side"
+    },
+    "linesia_ghostskin_bone_block_top": {
+      "textures": "textures/blocks/bone_block_top"
+    },
+    "linesia_ghostskin_bookshelf": {
+      "textures": "textures/blocks/bookshelf"
+    },
+    "linesia_ghostskin_brick": {
+      "textures": "textures/blocks/brick"
+    },
+    "linesia_ghostskin_budding_amethyst": {
+      "textures": "textures/blocks/budding_amethyst"
+    },
+    "linesia_ghostskin_calcite": {
+      "textures": "textures/blocks/calcite"
+    },
+    "linesia_ghostskin_cherry_log_side": {
+      "textures": "textures/blocks/cherry_log_side"
+    },
+    "linesia_ghostskin_cherry_log_top": {
+      "textures": "textures/blocks/cherry_log_top"
+    },
+    "linesia_ghostskin_cherry_planks": {
+      "textures": "textures/blocks/cherry_planks"
+    },
+    "linesia_ghostskin_chiseled_deepslate": {
+      "textures": "textures/blocks/deepslate/chiseled_deepslate"
+    },
+    "linesia_ghostskin_chiseled_nether_bricks": {
+      "textures": "textures/blocks/chiseled_nether_bricks"
+    },
+    "linesia_ghostskin_chiseled_polished_blackstone": {
+      "textures": "textures/blocks/chiseled_polished_blackstone"
+    },
+    "linesia_ghostskin_clay": {
+      "textures": "textures/blocks/clay"
+    },
+    "linesia_ghostskin_coal_block": {
+      "textures": "textures/blocks/coal_block"
+    },
+    "linesia_ghostskin_coal_ore": {
+      "textures": "textures/blocks/coal_ore"
+    },
+    "linesia_ghostskin_coarse_dirt": {
+      "textures": "textures/blocks/coarse_dirt"
+    },
+    "linesia_ghostskin_cobbled_deepslate": {
+      "textures": "textures/blocks/deepslate/cobbled_deepslate"
+    },
+    "linesia_ghostskin_cobblestone": {
+      "textures": "textures/blocks/cobblestone"
+    },
+    "linesia_ghostskin_cobblestone_mossy": {
+      "textures": "textures/blocks/cobblestone_mossy"
+    },
+    "linesia_ghostskin_concrete_black": {
+      "textures": "textures/blocks/concrete_black"
+    },
+    "linesia_ghostskin_concrete_blue": {
+      "textures": "textures/blocks/concrete_blue"
+    },
+    "linesia_ghostskin_concrete_brown": {
+      "textures": "textures/blocks/concrete_brown"
+    },
+    "linesia_ghostskin_concrete_cyan": {
+      "textures": "textures/blocks/concrete_cyan"
+    },
+    "linesia_ghostskin_concrete_gray": {
+      "textures": "textures/blocks/concrete_gray"
+    },
+    "linesia_ghostskin_concrete_green": {
+      "textures": "textures/blocks/concrete_green"
+    },
+    "linesia_ghostskin_concrete_light_blue": {
+      "textures": "textures/blocks/concrete_light_blue"
+    },
+    "linesia_ghostskin_concrete_lime": {
+      "textures": "textures/blocks/concrete_lime"
+    },
+    "linesia_ghostskin_concrete_magenta": {
+      "textures": "textures/blocks/concrete_magenta"
+    },
+    "linesia_ghostskin_concrete_orange": {
+      "textures": "textures/blocks/concrete_orange"
+    },
+    "linesia_ghostskin_concrete_pink": {
+      "textures": "textures/blocks/concrete_pink"
+    },
+    "linesia_ghostskin_concrete_purple": {
+      "textures": "textures/blocks/concrete_purple"
+    },
+    "linesia_ghostskin_concrete_red": {
+      "textures": "textures/blocks/concrete_red"
+    },
+    "linesia_ghostskin_concrete_silver": {
+      "textures": "textures/blocks/concrete_silver"
+    },
+    "linesia_ghostskin_concrete_white": {
+      "textures": "textures/blocks/concrete_white"
+    },
+    "linesia_ghostskin_concrete_yellow": {
+      "textures": "textures/blocks/concrete_yellow"
+    },
+    "linesia_ghostskin_copper_block": {
+      "textures": "textures/blocks/copper_block"
+    },
+    "linesia_ghostskin_copper_ore": {
+      "textures": "textures/blocks/copper_ore"
+    },
+    "linesia_ghostskin_cracked_deepslate_bricks": {
+      "textures": "textures/blocks/deepslate/cracked_deepslate_bricks"
+    },
+    "linesia_ghostskin_cracked_deepslate_tiles": {
+      "textures": "textures/blocks/deepslate/cracked_deepslate_tiles"
+    },
+    "linesia_ghostskin_cracked_nether_bricks": {
+      "textures": "textures/blocks/cracked_nether_bricks"
+    },
+    "linesia_ghostskin_cracked_polished_blackstone_bricks": {
+      "textures": "textures/blocks/cracked_polished_blackstone_bricks"
+    },
+    "linesia_ghostskin_crimson_log_side": {
+      "textures": "textures/blocks/huge_fungus/crimson_log_side"
+    },
+    "linesia_ghostskin_crimson_log_top": {
+      "textures": "textures/blocks/huge_fungus/crimson_log_top"
+    },
+    "linesia_ghostskin_crimson_planks": {
+      "textures": "textures/blocks/huge_fungus/crimson_planks"
+    },
+    "linesia_ghostskin_crying_obsidian": {
+      "textures": "textures/blocks/crying_obsidian"
+    },
+    "linesia_ghostskin_deepslate": {
+      "textures": "textures/blocks/deepslate/deepslate"
+    },
+    "linesia_ghostskin_deepslate_bricks": {
+      "textures": "textures/blocks/deepslate/deepslate_bricks"
+    },
+    "linesia_ghostskin_deepslate_coal_ore": {
+      "textures": "textures/blocks/deepslate/deepslate_coal_ore"
+    },
+    "linesia_ghostskin_deepslate_copper_ore": {
+      "textures": "textures/blocks/deepslate/deepslate_copper_ore"
+    },
+    "linesia_ghostskin_deepslate_diamond_ore": {
+      "textures": "textures/blocks/deepslate/deepslate_diamond_ore"
+    },
+    "linesia_ghostskin_deepslate_emerald_ore": {
+      "textures": "textures/blocks/deepslate/deepslate_emerald_ore"
+    },
+    "linesia_ghostskin_deepslate_gold_ore": {
+      "textures": "textures/blocks/deepslate/deepslate_gold_ore"
+    },
+    "linesia_ghostskin_deepslate_iron_ore": {
+      "textures": "textures/blocks/deepslate/deepslate_iron_ore"
+    },
+    "linesia_ghostskin_deepslate_lapis_ore": {
+      "textures": "textures/blocks/deepslate/deepslate_lapis_ore"
+    },
+    "linesia_ghostskin_deepslate_redstone_ore": {
+      "textures": "textures/blocks/deepslate/deepslate_redstone_ore"
+    },
+    "linesia_ghostskin_deepslate_tiles": {
+      "textures": "textures/blocks/deepslate/deepslate_tiles"
+    },
+    "linesia_ghostskin_deepslate_top": {
+      "textures": "textures/blocks/deepslate/deepslate_top"
+    },
+    "linesia_ghostskin_diamond_block": {
+      "textures": "textures/blocks/diamond_block"
+    },
+    "linesia_ghostskin_diamond_ore": {
+      "textures": "textures/blocks/diamond_ore"
+    },
+    "linesia_ghostskin_dirt": {
+      "textures": "textures/blocks/dirt"
+    },
+    "linesia_ghostskin_dirt_podzol_side": {
+      "textures": "textures/blocks/dirt_podzol_side"
+    },
+    "linesia_ghostskin_dirt_podzol_top": {
+      "textures": "textures/blocks/dirt_podzol_top"
+    },
+    "linesia_ghostskin_dripstone_block": {
+      "textures": "textures/blocks/dripstone_block"
+    },
+    "linesia_ghostskin_emerald_block": {
+      "textures": "textures/blocks/emerald_block"
+    },
+    "linesia_ghostskin_emerald_ore": {
+      "textures": "textures/blocks/emerald_ore"
+    },
+    "linesia_ghostskin_end_bricks": {
+      "textures": "textures/blocks/end_bricks"
+    },
+    "linesia_ghostskin_end_stone": {
+      "textures": "textures/blocks/end_stone"
+    },
+    "linesia_ghostskin_exposed_copper": {
+      "textures": "textures/blocks/exposed_copper"
+    },
+    "linesia_ghostskin_gilded_blackstone": {
+      "textures": "textures/blocks/gilded_blackstone"
+    },
+    "linesia_ghostskin_glowstone": {
+      "textures": "textures/blocks/glowstone"
+    },
+    "linesia_ghostskin_gold_block": {
+      "textures": "textures/blocks/gold_block"
+    },
+    "linesia_ghostskin_gold_ore": {
+      "textures": "textures/blocks/gold_ore"
+    },
+    "linesia_ghostskin_gravel": {
+      "textures": "textures/blocks/gravel"
+    },
+    "linesia_ghostskin_hardened_clay": {
+      "textures": "textures/blocks/hardened_clay"
+    },
+    "linesia_ghostskin_hardened_clay_stained_black": {
+      "textures": "textures/blocks/hardened_clay_stained_black"
+    },
+    "linesia_ghostskin_hardened_clay_stained_blue": {
+      "textures": "textures/blocks/hardened_clay_stained_blue"
+    },
+    "linesia_ghostskin_hardened_clay_stained_brown": {
+      "textures": "textures/blocks/hardened_clay_stained_brown"
+    },
+    "linesia_ghostskin_hardened_clay_stained_cyan": {
+      "textures": "textures/blocks/hardened_clay_stained_cyan"
+    },
+    "linesia_ghostskin_hardened_clay_stained_gray": {
+      "textures": "textures/blocks/hardened_clay_stained_gray"
+    },
+    "linesia_ghostskin_hardened_clay_stained_green": {
+      "textures": "textures/blocks/hardened_clay_stained_green"
+    },
+    "linesia_ghostskin_hardened_clay_stained_light_blue": {
+      "textures": "textures/blocks/hardened_clay_stained_light_blue"
+    },
+    "linesia_ghostskin_hardened_clay_stained_lime": {
+      "textures": "textures/blocks/hardened_clay_stained_lime"
+    },
+    "linesia_ghostskin_hardened_clay_stained_magenta": {
+      "textures": "textures/blocks/hardened_clay_stained_magenta"
+    },
+    "linesia_ghostskin_hardened_clay_stained_orange": {
+      "textures": "textures/blocks/hardened_clay_stained_orange"
+    },
+    "linesia_ghostskin_hardened_clay_stained_pink": {
+      "textures": "textures/blocks/hardened_clay_stained_pink"
+    },
+    "linesia_ghostskin_hardened_clay_stained_purple": {
+      "textures": "textures/blocks/hardened_clay_stained_purple"
+    },
+    "linesia_ghostskin_hardened_clay_stained_red": {
+      "textures": "textures/blocks/hardened_clay_stained_red"
+    },
+    "linesia_ghostskin_hardened_clay_stained_silver": {
+      "textures": "textures/blocks/hardened_clay_stained_silver"
+    },
+    "linesia_ghostskin_hardened_clay_stained_white": {
+      "textures": "textures/blocks/hardened_clay_stained_white"
+    },
+    "linesia_ghostskin_hardened_clay_stained_yellow": {
+      "textures": "textures/blocks/hardened_clay_stained_yellow"
+    },
+    "linesia_ghostskin_hay_block_side": {
+      "textures": "textures/blocks/hay_block_side"
+    },
+    "linesia_ghostskin_hay_block_top": {
+      "textures": "textures/blocks/hay_block_top"
+    },
+    "linesia_ghostskin_honey_bottom": {
+      "textures": "textures/blocks/honey_bottom"
+    },
+    "linesia_ghostskin_honey_side": {
+      "textures": "textures/blocks/honey_side"
+    },
+    "linesia_ghostskin_honey_top": {
+      "textures": "textures/blocks/honey_top"
+    },
+    "linesia_ghostskin_honeycomb": {
+      "textures": "textures/blocks/honeycomb"
+    },
+    "linesia_ghostskin_ice": {
+      "textures": "textures/blocks/ice"
+    },
+    "linesia_ghostskin_ice_packed": {
+      "textures": "textures/blocks/ice_packed"
+    },
+    "linesia_ghostskin_iron_block": {
+      "textures": "textures/blocks/iron_block"
+    },
+    "linesia_ghostskin_iron_ore": {
+      "textures": "textures/blocks/iron_ore"
+    },
+    "linesia_ghostskin_lapis_block": {
+      "textures": "textures/blocks/lapis_block"
+    },
+    "linesia_ghostskin_lapis_ore": {
+      "textures": "textures/blocks/lapis_ore"
+    },
+    "linesia_ghostskin_log_acacia": {
+      "textures": "textures/blocks/log_acacia"
+    },
+    "linesia_ghostskin_log_acacia_top": {
+      "textures": "textures/blocks/log_acacia_top"
+    },
+    "linesia_ghostskin_log_big_oak": {
+      "textures": "textures/blocks/log_big_oak"
+    },
+    "linesia_ghostskin_log_big_oak_top": {
+      "textures": "textures/blocks/log_big_oak_top"
+    },
+    "linesia_ghostskin_log_birch": {
+      "textures": "textures/blocks/log_birch"
+    },
+    "linesia_ghostskin_log_birch_top": {
+      "textures": "textures/blocks/log_birch_top"
+    },
+    "linesia_ghostskin_log_jungle": {
+      "textures": "textures/blocks/log_jungle"
+    },
+    "linesia_ghostskin_log_jungle_top": {
+      "textures": "textures/blocks/log_jungle_top"
+    },
+    "linesia_ghostskin_log_oak": {
+      "textures": "textures/blocks/log_oak"
+    },
+    "linesia_ghostskin_log_oak_top": {
+      "textures": "textures/blocks/log_oak_top"
+    },
+    "linesia_ghostskin_log_spruce": {
+      "textures": "textures/blocks/log_spruce"
+    },
+    "linesia_ghostskin_log_spruce_top": {
+      "textures": "textures/blocks/log_spruce_top"
+    },
+    "linesia_ghostskin_magma": {
+      "textures": "textures/blocks/magma"
+    },
+    "linesia_ghostskin_mangrove_log_side": {
+      "textures": "textures/blocks/mangrove_log_side"
+    },
+    "linesia_ghostskin_mangrove_log_top": {
+      "textures": "textures/blocks/mangrove_log_top"
+    },
+    "linesia_ghostskin_mangrove_planks": {
+      "textures": "textures/blocks/mangrove_planks"
+    },
+    "linesia_ghostskin_melon_side": {
+      "textures": "textures/blocks/melon_side"
+    },
+    "linesia_ghostskin_melon_top": {
+      "textures": "textures/blocks/melon_top"
+    },
+    "linesia_ghostskin_moss_block": {
+      "textures": "textures/blocks/moss_block"
+    },
+    "linesia_ghostskin_mud": {
+      "textures": "textures/blocks/mud"
+    },
+    "linesia_ghostskin_mud_bricks": {
+      "textures": "textures/blocks/mud_bricks"
+    },
+    "linesia_ghostskin_mycelium_side": {
+      "textures": "textures/blocks/mycelium_side"
+    },
+    "linesia_ghostskin_mycelium_top": {
+      "textures": "textures/blocks/mycelium_top"
+    },
+    "linesia_ghostskin_nether_brick": {
+      "textures": "textures/blocks/nether_brick"
+    },
+    "linesia_ghostskin_nether_gold_ore": {
+      "textures": "textures/blocks/nether_gold_ore"
+    },
+    "linesia_ghostskin_nether_wart_block": {
+      "textures": "textures/blocks/nether_wart_block"
+    },
+    "linesia_ghostskin_netherite_block": {
+      "textures": "textures/blocks/netherite_block"
+    },
+    "linesia_ghostskin_netherrack": {
+      "textures": "textures/blocks/netherrack"
+    },
+    "linesia_ghostskin_noteblock": {
+      "textures": "textures/blocks/noteblock"
+    },
+    "linesia_ghostskin_obsidian": {
+      "textures": "textures/blocks/obsidian"
+    },
+    "linesia_ghostskin_oxidized_copper": {
+      "textures": "textures/blocks/oxidized_copper"
+    },
+    "linesia_ghostskin_packed_mud": {
+      "textures": "textures/blocks/packed_mud"
+    },
+    "linesia_ghostskin_pale_oak_log_side": {
+      "textures": "textures/blocks/pale_oak_log_side"
+    },
+    "linesia_ghostskin_pale_oak_log_top": {
+      "textures": "textures/blocks/pale_oak_log_top"
+    },
+    "linesia_ghostskin_pale_oak_planks": {
+      "textures": "textures/blocks/pale_oak_planks"
+    },
+    "linesia_ghostskin_planks_acacia": {
+      "textures": "textures/blocks/planks_acacia"
+    },
+    "linesia_ghostskin_planks_big_oak": {
+      "textures": "textures/blocks/planks_big_oak"
+    },
+    "linesia_ghostskin_planks_birch": {
+      "textures": "textures/blocks/planks_birch"
+    },
+    "linesia_ghostskin_planks_jungle": {
+      "textures": "textures/blocks/planks_jungle"
+    },
+    "linesia_ghostskin_planks_oak": {
+      "textures": "textures/blocks/planks_oak"
+    },
+    "linesia_ghostskin_planks_spruce": {
+      "textures": "textures/blocks/planks_spruce"
+    },
+    "linesia_ghostskin_polished_basalt_side": {
+      "textures": "textures/blocks/polished_basalt_side"
+    },
+    "linesia_ghostskin_polished_basalt_top": {
+      "textures": "textures/blocks/polished_basalt_top"
+    },
+    "linesia_ghostskin_polished_blackstone": {
+      "textures": "textures/blocks/polished_blackstone"
+    },
+    "linesia_ghostskin_polished_blackstone_bricks": {
+      "textures": "textures/blocks/polished_blackstone_bricks"
+    },
+    "linesia_ghostskin_polished_deepslate": {
+      "textures": "textures/blocks/deepslate/polished_deepslate"
+    },
+    "linesia_ghostskin_polished_tuff": {
+      "textures": "textures/blocks/polished_tuff"
+    },
+    "linesia_ghostskin_prismarine_bricks": {
+      "textures": "textures/blocks/prismarine_bricks"
+    },
+    "linesia_ghostskin_prismarine_dark": {
+      "textures": "textures/blocks/prismarine_dark"
+    },
+    "linesia_ghostskin_prismarine_rough": {
+      "textures": "textures/blocks/prismarine_rough"
+    },
+    "linesia_ghostskin_purpur_block": {
+      "textures": "textures/blocks/purpur_block"
+    },
+    "linesia_ghostskin_purpur_pillar": {
+      "textures": "textures/blocks/purpur_pillar"
+    },
+    "linesia_ghostskin_purpur_pillar_top": {
+      "textures": "textures/blocks/purpur_pillar_top"
+    },
+    "linesia_ghostskin_quartz_block_bottom": {
+      "textures": "textures/blocks/quartz_block_bottom"
+    },
+    "linesia_ghostskin_quartz_block_chiseled": {
+      "textures": "textures/blocks/quartz_block_chiseled"
+    },
+    "linesia_ghostskin_quartz_block_chiseled_top": {
+      "textures": "textures/blocks/quartz_block_chiseled_top"
+    },
+    "linesia_ghostskin_quartz_block_lines": {
+      "textures": "textures/blocks/quartz_block_lines"
+    },
+    "linesia_ghostskin_quartz_block_lines_top": {
+      "textures": "textures/blocks/quartz_block_lines_top"
+    },
+    "linesia_ghostskin_quartz_block_side": {
+      "textures": "textures/blocks/quartz_block_side"
+    },
+    "linesia_ghostskin_quartz_block_top": {
+      "textures": "textures/blocks/quartz_block_top"
+    },
+    "linesia_ghostskin_quartz_bricks": {
+      "textures": "textures/blocks/quartz_bricks"
+    },
+    "linesia_ghostskin_quartz_ore": {
+      "textures": "textures/blocks/quartz_ore"
+    },
+    "linesia_ghostskin_raw_copper_block": {
+      "textures": "textures/blocks/raw_copper_block"
+    },
+    "linesia_ghostskin_raw_gold_block": {
+      "textures": "textures/blocks/raw_gold_block"
+    },
+    "linesia_ghostskin_raw_iron_block": {
+      "textures": "textures/blocks/raw_iron_block"
+    },
+    "linesia_ghostskin_red_nether_brick": {
+      "textures": "textures/blocks/red_nether_brick"
+    },
+    "linesia_ghostskin_red_sand": {
+      "textures": "textures/blocks/red_sand"
+    },
+    "linesia_ghostskin_red_sandstone_bottom": {
+      "textures": "textures/blocks/red_sandstone_bottom"
+    },
+    "linesia_ghostskin_red_sandstone_carved": {
+      "textures": "textures/blocks/red_sandstone_carved"
+    },
+    "linesia_ghostskin_red_sandstone_normal": {
+      "textures": "textures/blocks/red_sandstone_normal"
+    },
+    "linesia_ghostskin_red_sandstone_smooth": {
+      "textures": "textures/blocks/red_sandstone_smooth"
+    },
+    "linesia_ghostskin_red_sandstone_top": {
+      "textures": "textures/blocks/red_sandstone_top"
+    },
+    "linesia_ghostskin_redstone_block": {
+      "textures": "textures/blocks/redstone_block"
+    },
+    "linesia_ghostskin_redstone_ore": {
+      "textures": "textures/blocks/redstone_ore"
+    },
+    "linesia_ghostskin_reinforced_deepslate_bottom": {
+      "textures": "textures/blocks/reinforced_deepslate_bottom"
+    },
+    "linesia_ghostskin_reinforced_deepslate_side": {
+      "textures": "textures/blocks/reinforced_deepslate_side"
+    },
+    "linesia_ghostskin_reinforced_deepslate_top": {
+      "textures": "textures/blocks/reinforced_deepslate_top"
+    },
+    "linesia_ghostskin_sand": {
+      "textures": "textures/blocks/sand"
+    },
+    "linesia_ghostskin_sandstone_bottom": {
+      "textures": "textures/blocks/sandstone_bottom"
+    },
+    "linesia_ghostskin_sandstone_carved": {
+      "textures": "textures/blocks/sandstone_carved"
+    },
+    "linesia_ghostskin_sandstone_normal": {
+      "textures": "textures/blocks/sandstone_normal"
+    },
+    "linesia_ghostskin_sandstone_smooth": {
+      "textures": "textures/blocks/sandstone_smooth"
+    },
+    "linesia_ghostskin_sandstone_top": {
+      "textures": "textures/blocks/sandstone_top"
+    },
+    "linesia_ghostskin_sculk": {
+      "textures": "textures/blocks/sculk"
+    },
+    "linesia_ghostskin_sea_lantern": {
+      "textures": "textures/blocks/sea_lantern"
+    },
+    "linesia_ghostskin_shroomlight": {
+      "textures": "textures/blocks/shroomlight"
+    },
+    "linesia_ghostskin_slime": {
+      "textures": "textures/blocks/slime"
+    },
+    "linesia_ghostskin_smooth_basalt": {
+      "textures": "textures/blocks/smooth_basalt"
+    },
+    "linesia_ghostskin_snow": {
+      "textures": "textures/blocks/snow"
+    },
+    "linesia_ghostskin_soul_sand": {
+      "textures": "textures/blocks/soul_sand"
+    },
+    "linesia_ghostskin_soul_soil": {
+      "textures": "textures/blocks/soul_soil"
+    },
+    "linesia_ghostskin_sponge": {
+      "textures": "textures/blocks/sponge"
+    },
+    "linesia_ghostskin_sponge_wet": {
+      "textures": "textures/blocks/sponge_wet"
+    },
+    "linesia_ghostskin_stone": {
+      "textures": "textures/blocks/stone"
+    },
+    "linesia_ghostskin_stone_andesite": {
+      "textures": "textures/blocks/stone_andesite"
+    },
+    "linesia_ghostskin_stone_andesite_smooth": {
+      "textures": "textures/blocks/stone_andesite_smooth"
+    },
+    "linesia_ghostskin_stone_diorite": {
+      "textures": "textures/blocks/stone_diorite"
+    },
+    "linesia_ghostskin_stone_diorite_smooth": {
+      "textures": "textures/blocks/stone_diorite_smooth"
+    },
+    "linesia_ghostskin_stone_granite": {
+      "textures": "textures/blocks/stone_granite"
+    },
+    "linesia_ghostskin_stone_granite_smooth": {
+      "textures": "textures/blocks/stone_granite_smooth"
+    },
+    "linesia_ghostskin_stone_slab_top": {
+      "textures": "textures/blocks/stone_slab_top"
+    },
+    "linesia_ghostskin_stonebrick": {
+      "textures": "textures/blocks/stonebrick"
+    },
+    "linesia_ghostskin_stonebrick_carved": {
+      "textures": "textures/blocks/stonebrick_carved"
+    },
+    "linesia_ghostskin_stonebrick_cracked": {
+      "textures": "textures/blocks/stonebrick_cracked"
+    },
+    "linesia_ghostskin_stonebrick_mossy": {
+      "textures": "textures/blocks/stonebrick_mossy"
+    },
+    "linesia_ghostskin_stripped_acacia_log": {
+      "textures": "textures/blocks/stripped_acacia_log"
+    },
+    "linesia_ghostskin_stripped_acacia_log_top": {
+      "textures": "textures/blocks/stripped_acacia_log_top"
+    },
+    "linesia_ghostskin_stripped_bamboo_block": {
+      "textures": "textures/blocks/stripped_bamboo_block"
+    },
+    "linesia_ghostskin_stripped_bamboo_block_top": {
+      "textures": "textures/blocks/stripped_bamboo_block_top"
+    },
+    "linesia_ghostskin_stripped_birch_log": {
+      "textures": "textures/blocks/stripped_birch_log"
+    },
+    "linesia_ghostskin_stripped_birch_log_top": {
+      "textures": "textures/blocks/stripped_birch_log_top"
+    },
+    "linesia_ghostskin_stripped_cherry_log_side": {
+      "textures": "textures/blocks/stripped_cherry_log_side"
+    },
+    "linesia_ghostskin_stripped_cherry_log_top": {
+      "textures": "textures/blocks/stripped_cherry_log_top"
+    },
+    "linesia_ghostskin_stripped_crimson_stem_side": {
+      "textures": "textures/blocks/huge_fungus/stripped_crimson_stem_side"
+    },
+    "linesia_ghostskin_stripped_crimson_stem_top": {
+      "textures": "textures/blocks/huge_fungus/stripped_crimson_stem_top"
+    },
+    "linesia_ghostskin_stripped_dark_oak_log": {
+      "textures": "textures/blocks/stripped_dark_oak_log"
+    },
+    "linesia_ghostskin_stripped_dark_oak_log_top": {
+      "textures": "textures/blocks/stripped_dark_oak_log_top"
+    },
+    "linesia_ghostskin_stripped_jungle_log": {
+      "textures": "textures/blocks/stripped_jungle_log"
+    },
+    "linesia_ghostskin_stripped_jungle_log_top": {
+      "textures": "textures/blocks/stripped_jungle_log_top"
+    },
+    "linesia_ghostskin_stripped_mangrove_log_side": {
+      "textures": "textures/blocks/stripped_mangrove_log_side"
+    },
+    "linesia_ghostskin_stripped_mangrove_log_top": {
+      "textures": "textures/blocks/stripped_mangrove_log_top"
+    },
+    "linesia_ghostskin_stripped_oak_log": {
+      "textures": "textures/blocks/stripped_oak_log"
+    },
+    "linesia_ghostskin_stripped_oak_log_top": {
+      "textures": "textures/blocks/stripped_oak_log_top"
+    },
+    "linesia_ghostskin_stripped_pale_oak_log_side": {
+      "textures": "textures/blocks/stripped_pale_oak_log_side"
+    },
+    "linesia_ghostskin_stripped_pale_oak_log_top": {
+      "textures": "textures/blocks/stripped_pale_oak_log_top"
+    },
+    "linesia_ghostskin_stripped_spruce_log": {
+      "textures": "textures/blocks/stripped_spruce_log"
+    },
+    "linesia_ghostskin_stripped_spruce_log_top": {
+      "textures": "textures/blocks/stripped_spruce_log_top"
+    },
+    "linesia_ghostskin_stripped_warped_stem_side": {
+      "textures": "textures/blocks/huge_fungus/stripped_warped_stem_side"
+    },
+    "linesia_ghostskin_stripped_warped_stem_top": {
+      "textures": "textures/blocks/huge_fungus/stripped_warped_stem_top"
+    },
+    "linesia_ghostskin_target_side": {
+      "textures": "textures/blocks/target_side"
+    },
+    "linesia_ghostskin_target_top": {
+      "textures": "textures/blocks/target_top"
+    },
+    "linesia_ghostskin_tnt_bottom": {
+      "textures": "textures/blocks/tnt_bottom"
+    },
+    "linesia_ghostskin_tnt_side": {
+      "textures": "textures/blocks/tnt_side"
+    },
+    "linesia_ghostskin_tnt_top": {
+      "textures": "textures/blocks/tnt_top"
+    },
+    "linesia_ghostskin_tuff": {
+      "textures": "textures/blocks/tuff"
+    },
+    "linesia_ghostskin_tuff_bricks": {
+      "textures": "textures/blocks/tuff_bricks"
+    },
+    "linesia_ghostskin_warped_planks": {
+      "textures": "textures/blocks/huge_fungus/warped_planks"
+    },
+    "linesia_ghostskin_warped_stem_side": {
+      "textures": "textures/blocks/huge_fungus/warped_stem_side"
+    },
+    "linesia_ghostskin_warped_stem_top": {
+      "textures": "textures/blocks/huge_fungus/warped_stem_top"
+    },
+    "linesia_ghostskin_warped_wart_block": {
+      "textures": "textures/blocks/warped_wart_block"
+    },
+    "linesia_ghostskin_weathered_copper": {
+      "textures": "textures/blocks/weathered_copper"
+    },
+    "linesia_ghostskin_wool_colored_black": {
+      "textures": "textures/blocks/wool_colored_black"
+    },
+    "linesia_ghostskin_wool_colored_blue": {
+      "textures": "textures/blocks/wool_colored_blue"
+    },
+    "linesia_ghostskin_wool_colored_brown": {
+      "textures": "textures/blocks/wool_colored_brown"
+    },
+    "linesia_ghostskin_wool_colored_cyan": {
+      "textures": "textures/blocks/wool_colored_cyan"
+    },
+    "linesia_ghostskin_wool_colored_gray": {
+      "textures": "textures/blocks/wool_colored_gray"
+    },
+    "linesia_ghostskin_wool_colored_green": {
+      "textures": "textures/blocks/wool_colored_green"
+    },
+    "linesia_ghostskin_wool_colored_light_blue": {
+      "textures": "textures/blocks/wool_colored_light_blue"
+    },
+    "linesia_ghostskin_wool_colored_lime": {
+      "textures": "textures/blocks/wool_colored_lime"
+    },
+    "linesia_ghostskin_wool_colored_magenta": {
+      "textures": "textures/blocks/wool_colored_magenta"
+    },
+    "linesia_ghostskin_wool_colored_orange": {
+      "textures": "textures/blocks/wool_colored_orange"
+    },
+    "linesia_ghostskin_wool_colored_pink": {
+      "textures": "textures/blocks/wool_colored_pink"
+    },
+    "linesia_ghostskin_wool_colored_purple": {
+      "textures": "textures/blocks/wool_colored_purple"
+    },
+    "linesia_ghostskin_wool_colored_red": {
+      "textures": "textures/blocks/wool_colored_red"
+    },
+    "linesia_ghostskin_wool_colored_silver": {
+      "textures": "textures/blocks/wool_colored_silver"
+    },
+    "linesia_ghostskin_wool_colored_white": {
+      "textures": "textures/blocks/wool_colored_white"
+    },
+    "linesia_ghostskin_wool_colored_yellow": {
+      "textures": "textures/blocks/wool_colored_yellow"
     }
   },
   "texture_name": "atlas.terrain"
