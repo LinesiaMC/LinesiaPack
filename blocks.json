@@ -1,5 +1,9 @@
 {
-  "format_version": [1, 1, 0],
+  "format_version": [
+    1,
+    1,
+    0
+  ],
   "linesia:zombie_generator": {
     "textures": "zombie_generator",
     "sound": "stone"
@@ -43,6 +47,18 @@
     "sound": "stone"
   },
   "linesia:ore_generator_t3": {
+    "sound": "stone"
+  },
+  "linesia:nether_rubis_random_ore": {
+    "textures": "nether_rubis_random_ore",
+    "sound": "stone"
+  },
+  "linesia:nether_rubis_ore": {
+    "textures": "nether_rubis_ore",
+    "sound": "stone"
+  },
+  "linesia:nether_onyx_random_ore": {
+    "textures": "nether_onyx_random_ore",
     "sound": "stone"
   }
 }
