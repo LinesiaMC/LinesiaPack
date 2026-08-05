@@ -523,6 +523,27 @@
     },
     "magma_larva": {
       "textures": "textures/items/fish/magma_larva"
+    },
+    "seedplanter_2": {
+      "textures": "textures/items/item/seedplanter_2"
+    },
+    "seedplanter_3": {
+      "textures": "textures/items/item/seedplanter_3"
+    },
+    "seedplanter_4": {
+      "textures": "textures/items/item/seedplanter_4"
+    },
+    "seedplanter_5": {
+      "textures": "textures/items/item/seedplanter_5"
+    },
+    "seedplanter_6": {
+      "textures": "textures/items/item/seedplanter_6"
+    },
+    "seedplanter_7": {
+      "textures": "textures/items/item/seedplanter_7"
+    },
+    "seedplanter_8": {
+      "textures": "textures/items/item/seedplanter_8"
     }
   }
 }
