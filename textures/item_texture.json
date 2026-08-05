@@ -544,6 +544,9 @@
     },
     "seedplanter_8": {
       "textures": "textures/items/item/seedplanter_8"
+    },
+    "enderman_eye": {
+      "textures": "textures/items/item/enderman_eye"
     }
   }
 }
