@@ -524,6 +524,15 @@
     "magma_larva": {
       "textures": "textures/items/fish/magma_larva"
     },
+    "amethyste_apple": {
+      "textures": "textures/items/apple/amethyste_apple"
+    },
+    "rubis_apple": {
+      "textures": "textures/items/apple/rubis_apple"
+    },
+    "onyx_apple": {
+      "textures": "textures/items/apple/onyx_apple"
+    },
     "seedplanter_2": {
       "textures": "textures/items/item/seedplanter_2"
     },
