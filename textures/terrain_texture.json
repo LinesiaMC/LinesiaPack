@@ -648,11 +648,11 @@
     "linesia_ghostskin_gold_ore": {
       "textures": "textures/blocks/gold_ore"
     },
-    "linesia_ghostskin_grass_carried": {
-      "textures": "textures/blocks/grass_carried"
+    "linesia_ghostskin_grass_side": {
+      "textures": "textures/blocks/ghost/grass_side"
     },
-    "linesia_ghostskin_grass_side_carried": {
-      "textures": "textures/blocks/grass_side_carried"
+    "linesia_ghostskin_grass_top": {
+      "textures": "textures/blocks/ghost/grass_top"
     },
     "linesia_ghostskin_gravel": {
       "textures": "textures/blocks/gravel"
