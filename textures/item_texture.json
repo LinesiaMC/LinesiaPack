@@ -550,6 +550,9 @@
     },
     "disc_werenoi": {
       "textures": "textures/items/record/disc_werenoi"
+    },
+    "kart": {
+      "textures": "textures/items/item/kart"
     }
   }
 }
