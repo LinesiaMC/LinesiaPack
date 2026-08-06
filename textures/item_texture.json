@@ -562,6 +562,9 @@
     },
     "kart": {
       "textures": "textures/items/item/kart"
+    },
+    "football": {
+      "textures": "textures/items/item/football"
     }
   }
 }
