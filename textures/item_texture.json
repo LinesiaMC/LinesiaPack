@@ -547,6 +547,9 @@
     },
     "enderman_eye": {
       "textures": "textures/items/item/enderman_eye"
+    },
+    "disc_werenoi": {
+      "textures": "textures/items/record/disc_werenoi"
     }
   }
 }
