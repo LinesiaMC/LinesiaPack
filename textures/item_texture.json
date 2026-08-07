@@ -275,6 +275,9 @@
     "magma_fish": {
       "textures": "textures/items/fish/magma_fish"
     },
+    "golden_fish": {
+      "textures": "textures/items/fish/golden_fish"
+    },
     "rubis_fishing_rod": {
       "textures": "textures/items/rubis_fishing_rod"
     },
