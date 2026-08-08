@@ -568,6 +568,30 @@
     },
     "football": {
       "textures": "textures/items/item/football"
+    },
+    "onyx_tree_sapling": {
+      "textures": "textures/blocks/sapling/onyx_tree_sapling"
+    },
+    "rubis_tree_sapling": {
+      "textures": "textures/blocks/sapling/rubis_tree_sapling"
+    },
+    "key_tree_sapling": {
+      "textures": "textures/blocks/sapling/key_tree_sapling"
+    },
+    "linesia_humus": {
+      "textures": "textures/blocks/soil/humus"
+    },
+    "linesia_terreau_sylvestre": {
+      "textures": "textures/blocks/soil/terreau_sylvestre"
+    },
+    "linesia_terre_ancienne": {
+      "textures": "textures/blocks/soil/terre_ancienne"
+    },
+    "linesia_terre_primordiale": {
+      "textures": "textures/blocks/soil/terre_primordiale"
+    },
+    "linesia_composteur": {
+      "textures": "textures/blocks/composteur"
     }
   }
 }
