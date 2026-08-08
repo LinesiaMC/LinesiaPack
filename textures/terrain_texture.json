@@ -1290,8 +1290,14 @@
     "linesia_terre_primordiale": {
       "textures": "textures/blocks/soil/terre_primordiale"
     },
-    "linesia_composteur": {
-      "textures": "textures/blocks/composteur"
+    "linesia_composteur_top": {
+      "textures": "textures/blocks/composter_top"
+    },
+    "linesia_composteur_side": {
+      "textures": "textures/blocks/composter_side"
+    },
+    "linesia_composteur_bottom": {
+      "textures": "textures/blocks/composter_bottom"
     }
   },
   "texture_name": "atlas.terrain"
