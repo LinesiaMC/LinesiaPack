@@ -78,7 +78,11 @@
     "sound": "gravel"
   },
   "linesia:composteur": {
-    "textures": "linesia_composteur",
+    "textures": {
+      "up": "linesia_composteur_top",
+      "down": "linesia_composteur_bottom",
+      "side": "linesia_composteur_side"
+    },
     "sound": "wood"
   }
 }
