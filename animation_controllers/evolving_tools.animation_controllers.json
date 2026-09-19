@@ -1,0 +1,82 @@
+{
+  "format_version": "1.10.0",
+  "animation_controllers": {
+    "controller.animation.linesia_evo_tool.wield": {
+      "initial_state": "first_person",
+      "states": {
+        "first_person": {
+          "animations": [
+            "wield_first_person"
+          ],
+          "transitions": [
+            {
+              "third_person": "!c.is_first_person"
+            }
+          ]
+        },
+        "third_person": {
+          "animations": [
+            "wield_third_person"
+          ],
+          "transitions": [
+            {
+              "first_person": "c.is_first_person"
+            }
+          ]
+        }
+      }
+    },
+    "controller.animation.linesia_evo_tool.wield_fx_9": {
+      "initial_state": "first_person",
+      "states": {
+        "first_person": {
+          "animations": [
+            "wield_first_person"
+          ],
+          "transitions": [
+            {
+              "third_person": "!c.is_first_person"
+            }
+          ]
+        },
+        "third_person": {
+          "animations": [
+            "wield_third_person",
+            "fx"
+          ],
+          "transitions": [
+            {
+              "first_person": "c.is_first_person"
+            }
+          ]
+        }
+      }
+    },
+    "controller.animation.linesia_evo_tool.wield_fx_10": {
+      "initial_state": "first_person",
+      "states": {
+        "first_person": {
+          "animations": [
+            "wield_first_person"
+          ],
+          "transitions": [
+            {
+              "third_person": "!c.is_first_person"
+            }
+          ]
+        },
+        "third_person": {
+          "animations": [
+            "wield_third_person",
+            "fx"
+          ],
+          "transitions": [
+            {
+              "first_person": "c.is_first_person"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

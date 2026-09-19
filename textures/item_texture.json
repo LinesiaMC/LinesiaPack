@@ -589,6 +589,132 @@
     },
     "linesia_terre_primordiale": {
       "textures": "textures/blocks/soil/terre_primordiale"
+    },
+    "evolving_pickaxe_1": {
+      "textures": "textures/items/evolving/pickaxe_1"
+    },
+    "evolving_pickaxe_2": {
+      "textures": "textures/items/evolving/pickaxe_2"
+    },
+    "evolving_pickaxe_3": {
+      "textures": "textures/items/evolving/pickaxe_3"
+    },
+    "evolving_pickaxe_4": {
+      "textures": "textures/items/evolving/pickaxe_4"
+    },
+    "evolving_pickaxe_5": {
+      "textures": "textures/items/evolving/pickaxe_5"
+    },
+    "evolving_pickaxe_6": {
+      "textures": "textures/items/evolving/pickaxe_6"
+    },
+    "evolving_pickaxe_7": {
+      "textures": "textures/items/evolving/pickaxe_7"
+    },
+    "evolving_pickaxe_8": {
+      "textures": "textures/items/evolving/pickaxe_8"
+    },
+    "evolving_pickaxe_9": {
+      "textures": "textures/items/evolving/pickaxe_9"
+    },
+    "evolving_pickaxe_10": {
+      "textures": "textures/items/evolving/pickaxe_10"
+    },
+    "evolving_axe_1": {
+      "textures": "textures/items/evolving/axe_1"
+    },
+    "evolving_axe_2": {
+      "textures": "textures/items/evolving/axe_2"
+    },
+    "evolving_axe_3": {
+      "textures": "textures/items/evolving/axe_3"
+    },
+    "evolving_axe_4": {
+      "textures": "textures/items/evolving/axe_4"
+    },
+    "evolving_axe_5": {
+      "textures": "textures/items/evolving/axe_5"
+    },
+    "evolving_axe_6": {
+      "textures": "textures/items/evolving/axe_6"
+    },
+    "evolving_axe_7": {
+      "textures": "textures/items/evolving/axe_7"
+    },
+    "evolving_axe_8": {
+      "textures": "textures/items/evolving/axe_8"
+    },
+    "evolving_axe_9": {
+      "textures": "textures/items/evolving/axe_9"
+    },
+    "evolving_axe_10": {
+      "textures": "textures/items/evolving/axe_10"
+    },
+    "evolving_shovel_1": {
+      "textures": "textures/items/evolving/shovel_1"
+    },
+    "evolving_shovel_2": {
+      "textures": "textures/items/evolving/shovel_2"
+    },
+    "evolving_shovel_3": {
+      "textures": "textures/items/evolving/shovel_3"
+    },
+    "evolving_shovel_4": {
+      "textures": "textures/items/evolving/shovel_4"
+    },
+    "evolving_shovel_5": {
+      "textures": "textures/items/evolving/shovel_5"
+    },
+    "evolving_shovel_6": {
+      "textures": "textures/items/evolving/shovel_6"
+    },
+    "evolving_shovel_7": {
+      "textures": "textures/items/evolving/shovel_7"
+    },
+    "evolving_shovel_8": {
+      "textures": "textures/items/evolving/shovel_8"
+    },
+    "evolving_shovel_9": {
+      "textures": "textures/items/evolving/shovel_9"
+    },
+    "evolving_shovel_10": {
+      "textures": "textures/items/evolving/shovel_10"
+    },
+    "seedplanter_9": {
+      "textures": "textures/items/item/seedplanter_9"
+    },
+    "seedplanter_10": {
+      "textures": "textures/items/item/seedplanter_10"
+    },
+    "evolving_fishing_rod_1": {
+      "textures": "textures/items/evolving/fishing_rod_1"
+    },
+    "evolving_fishing_rod_2": {
+      "textures": "textures/items/evolving/fishing_rod_2"
+    },
+    "evolving_fishing_rod_3": {
+      "textures": "textures/items/evolving/fishing_rod_3"
+    },
+    "evolving_fishing_rod_4": {
+      "textures": "textures/items/evolving/fishing_rod_4"
+    },
+    "evolving_fishing_rod_5": {
+      "textures": "textures/items/evolving/fishing_rod_5"
+    },
+    "evolving_fishing_rod_6": {
+      "textures": "textures/items/evolving/fishing_rod_6"
+    },
+    "evolving_fishing_rod_7": {
+      "textures": "textures/items/evolving/fishing_rod_7"
+    },
+    "evolving_fishing_rod_8": {
+      "textures": "textures/items/evolving/fishing_rod_8"
+    },
+    "evolving_fishing_rod_9": {
+      "textures": "textures/items/evolving/fishing_rod_9"
+    },
+    "evolving_fishing_rod_10": {
+      "textures": "textures/items/evolving/fishing_rod_10"
     }
   }
 }
