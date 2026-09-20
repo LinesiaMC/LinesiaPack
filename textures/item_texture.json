@@ -715,6 +715,36 @@
     },
     "evolving_fishing_rod_10": {
       "textures": "textures/items/evolving/fishing_rod_10"
+    },
+    "evolving_sword_1": {
+      "textures": "textures/items/evolving/sword_1"
+    },
+    "evolving_sword_2": {
+      "textures": "textures/items/evolving/sword_2"
+    },
+    "evolving_sword_3": {
+      "textures": "textures/items/evolving/sword_3"
+    },
+    "evolving_sword_4": {
+      "textures": "textures/items/evolving/sword_4"
+    },
+    "evolving_sword_5": {
+      "textures": "textures/items/evolving/sword_5"
+    },
+    "evolving_sword_6": {
+      "textures": "textures/items/evolving/sword_6"
+    },
+    "evolving_sword_7": {
+      "textures": "textures/items/evolving/sword_7"
+    },
+    "evolving_sword_8": {
+      "textures": "textures/items/evolving/sword_8"
+    },
+    "evolving_sword_9": {
+      "textures": "textures/items/evolving/sword_9"
+    },
+    "evolving_sword_10": {
+      "textures": "textures/items/evolving/sword_10"
     }
   }
 }
