@@ -41,7 +41,7 @@
       "bones": {
         "rod_tip": {
           "rotation": [
-            "6 + math.sin(q.life_time * 55) * 2",
+            "13 + math.sin(q.life_time * 55) * 2.5",
             0,
             0
           ]
@@ -89,7 +89,7 @@
       "bones": {
         "rod_tip": {
           "rotation": [
-            "17 + math.sin(q.life_time * 230) * 10",
+            "21 + math.sin(q.life_time * 230) * 10",
             "math.sin(q.life_time * 170) * 5",
             "math.sin(q.life_time * 200) * 6"
           ]
