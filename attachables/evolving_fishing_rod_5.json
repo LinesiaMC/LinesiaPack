@@ -17,11 +17,17 @@
       "animations": {
         "wield": "controller.animation.linesia_evo_tool.wield",
         "wield_first_person": "animation.linesia_evo_tool.wield_first_person",
-        "wield_third_person": "animation.linesia_evo_tool.wield_third_person"
+        "wield_third_person": "animation.linesia_evo_tool.wield_third_person",
+        "rod": "controller.animation.linesia_evo_rod.state",
+        "rod_cast": "animation.linesia_evo_rod.cast",
+        "rod_bite": "animation.linesia_evo_rod.bite",
+        "rod_fight": "animation.linesia_evo_rod.fight",
+        "rod_strain": "animation.linesia_evo_rod.strain"
       },
       "scripts": {
         "animate": [
-          "wield"
+          "wield",
+          "rod"
         ]
       },
       "render_controllers": [

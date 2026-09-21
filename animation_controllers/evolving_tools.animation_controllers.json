@@ -26,6 +26,103 @@
         }
       }
     },
+    "controller.animation.linesia_evo_rod.state": {
+      "initial_state": "idle",
+      "states": {
+        "idle": {
+          "transitions": [
+            {
+              "cast": "q.mark_variant == 1"
+            },
+            {
+              "bite": "q.mark_variant == 2"
+            },
+            {
+              "fight": "q.mark_variant == 3"
+            },
+            {
+              "strain": "q.mark_variant == 4"
+            }
+          ]
+        },
+        "cast": {
+          "animations": [
+            "rod_cast"
+          ],
+          "transitions": [
+            {
+              "bite": "q.mark_variant == 2"
+            },
+            {
+              "fight": "q.mark_variant == 3"
+            },
+            {
+              "strain": "q.mark_variant == 4"
+            },
+            {
+              "idle": "q.mark_variant == 0"
+            }
+          ]
+        },
+        "bite": {
+          "animations": [
+            "rod_bite"
+          ],
+          "transitions": [
+            {
+              "cast": "q.mark_variant == 1"
+            },
+            {
+              "fight": "q.mark_variant == 3"
+            },
+            {
+              "strain": "q.mark_variant == 4"
+            },
+            {
+              "idle": "q.mark_variant == 0"
+            }
+          ]
+        },
+        "fight": {
+          "animations": [
+            "rod_fight"
+          ],
+          "transitions": [
+            {
+              "cast": "q.mark_variant == 1"
+            },
+            {
+              "bite": "q.mark_variant == 2"
+            },
+            {
+              "strain": "q.mark_variant == 4"
+            },
+            {
+              "idle": "q.mark_variant == 0"
+            }
+          ]
+        },
+        "strain": {
+          "animations": [
+            "rod_strain"
+          ],
+          "transitions": [
+            {
+              "cast": "q.mark_variant == 1"
+            },
+            {
+              "bite": "q.mark_variant == 2"
+            },
+            {
+              "fight": "q.mark_variant == 3"
+            },
+            {
+              "idle": "q.mark_variant == 0"
+            }
+          ]
+        }
+      }
+    },
     "controller.animation.linesia_evo_tool.wield_fx_9": {
       "initial_state": "first_person",
       "states": {

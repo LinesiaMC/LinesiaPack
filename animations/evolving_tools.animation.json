@@ -6,14 +6,14 @@
       "bones": {
         "tool": {
           "position": [
-            8.0,
-            24.0,
-            8.0
+            -7.0,
+            -3.0,
+            -2.0
           ],
           "rotation": [
-            160.0,
-            20.0,
-            45.0
+            152.0,
+            50.0,
+            25.0
           ]
         }
       }
@@ -23,14 +23,115 @@
       "bones": {
         "tool": {
           "position": [
-            0.0,
-            23.0,
-            3.0
+            1.5,
+            -2.5,
+            -10.5
           ],
           "rotation": [
-            90.0,
-            0.0,
-            90.0
+            97.0,
+            -1.5,
+            -49.0
+          ]
+        }
+      }
+    },
+    "animation.linesia_evo_rod.cast": {
+      "loop": true,
+      "animation_length": 3.0,
+      "bones": {
+        "tool": {
+          "rotation": [
+            "-5 + math.sin(q.life_time * 55) * 1.5",
+            0,
+            0
+          ]
+        }
+      }
+    },
+    "animation.linesia_evo_rod.bite": {
+      "loop": "hold_on_last_frame",
+      "animation_length": 0.45,
+      "bones": {
+        "tool": {
+          "rotation": {
+            "0.0": [
+              0,
+              0,
+              0
+            ],
+            "0.07": [
+              -32,
+              0,
+              -6
+            ],
+            "0.18": [
+              -6,
+              0,
+              2
+            ],
+            "0.30": [
+              -20,
+              0,
+              -3
+            ],
+            "0.45": [
+              -14,
+              0,
+              0
+            ]
+          },
+          "position": {
+            "0.0": [
+              0,
+              0,
+              0
+            ],
+            "0.07": [
+              0,
+              -1.5,
+              -1.5
+            ],
+            "0.45": [
+              0,
+              -0.5,
+              -0.5
+            ]
+          }
+        }
+      }
+    },
+    "animation.linesia_evo_rod.fight": {
+      "loop": true,
+      "animation_length": 1.2,
+      "bones": {
+        "tool": {
+          "rotation": [
+            "-14 + math.sin(q.life_time * 230) * 9",
+            "math.sin(q.life_time * 170) * 4",
+            "math.sin(q.life_time * 200) * 5"
+          ],
+          "position": [
+            0,
+            "-0.6 + math.sin(q.life_time * 230) * 0.4",
+            -1.0
+          ]
+        }
+      }
+    },
+    "animation.linesia_evo_rod.strain": {
+      "loop": true,
+      "animation_length": 0.5,
+      "bones": {
+        "tool": {
+          "rotation": [
+            "-27 + math.sin(q.life_time * 900) * 8",
+            "math.sin(q.life_time * 760) * 6",
+            "-4 + math.sin(q.life_time * 1100) * 7"
+          ],
+          "position": [
+            "math.sin(q.life_time * 1100) * 0.3",
+            -1.2,
+            "-1.6 + math.sin(q.life_time * 900) * 0.3"
           ]
         }
       }
