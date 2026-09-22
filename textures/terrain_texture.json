@@ -3,50 +3,14 @@
   "padding": 8,
   "resource_pack_name": "vanilla",
   "texture_data": {
-    "ash_sapling": {
-      "textures": "textures/blocks/sapling/ash_sapling"
-    },
-    "cedar_sapling": {
-      "textures": "textures/blocks/sapling/cedar_sapling"
-    },
-    "mahogany_sapling": {
-      "textures": "textures/blocks/sapling/mahogany_sapling"
-    },
-    "maple_sapling": {
-      "textures": "textures/blocks/sapling/maple_sapling"
-    },
-    "rain_tree_sapling": {
-      "textures": "textures/blocks/sapling/rain_tree_sapling"
-    },
-    "rosewood_sapling": {
-      "textures": "textures/blocks/sapling/rosewood_sapling"
-    },
-    "teak_sapling": {
-      "textures": "textures/blocks/sapling/teak_sapling"
-    },
-    "walnut_sapling": {
-      "textures": "textures/blocks/sapling/walnut_sapling"
-    },
-    "sapling_oak": {
-      "textures": "textures/blocks/sapling_oak"
-    },
     "amethyste_ore": {
       "textures": "textures/blocks/amethyste_ore"
     },
-    "rubis_ore": {
-      "textures": "textures/blocks/rubis_ore"
+    "ash_sapling": {
+      "textures": "textures/blocks/sapling/ash_sapling"
     },
-    "onyx_ore": {
-      "textures": "textures/blocks/onyx_ore"
-    },
-    "rubis_random_ore": {
-      "textures": "textures/blocks/rubis_random_ore"
-    },
-    "onyx_random_ore": {
-      "textures": "textures/blocks/onyx_random_ore"
-    },
-    "block_elevator": {
-      "textures": "textures/blocks/block_elevator"
+    "astral_sapling": {
+      "textures": "textures/blocks/sapling/astral_sapling"
     },
     "block_anti_pearl": {
       "textures": "textures/blocks/block_anti_pearl"
@@ -54,239 +18,17 @@
     "block_anti_pearl_glass": {
       "textures": "textures/blocks/block_anti_pearl_glass"
     },
-    "zombie_generator": {
-      "textures": "textures/blocks/zombie_generator"
+    "block_elevator": {
+      "textures": "textures/blocks/block_elevator"
     },
-    "pigman_generator": {
-      "textures": "textures/blocks/pigman_generator"
+    "cedar_sapling": {
+      "textures": "textures/blocks/sapling/cedar_sapling"
     },
-    "whiter_generator": {
-      "textures": "textures/blocks/whiter_generator"
+    "chorus_root": {
+      "textures": "textures/blocks/end/chorus_root"
     },
-    "enderman_generator": {
-      "textures": "textures/blocks/enderman_generator"
-    },
-    "ore_generator_t1": {
-      "textures": "textures/blocks/ore_generator_t1"
-    },
-    "ore_generator_t2": {
-      "textures": "textures/blocks/ore_generator_t2"
-    },
-    "ore_generator_t3": {
-      "textures": "textures/blocks/ore_generator_t3"
-    },
-    "worm_dirt": {
-      "textures": "textures/blocks/worm_dirt"
-    },
-    "obsidian2": {
-      "textures": "textures/blocks/obsidian"
-    },
-    "obsidian2_1": {
-      "textures": "textures/blocks/obsidian_1"
-    },
-    "obsidian2_2": {
-      "textures": "textures/blocks/obsidian_2"
-    },
-    "obsidian_fence": {
-      "textures": "textures/blocks/obsidian"
-    },
-    "obsidian_fence_1": {
-      "textures": "textures/blocks/obsidian_1"
-    },
-    "obsidian_fence_2": {
-      "textures": "textures/blocks/obsidian_2"
-    },
-    "obsidian_fence_gate": {
-      "textures": "textures/blocks/obsidian"
-    },
-    "obsidian_fence_gate_1": {
-      "textures": "textures/blocks/obsidian_1"
-    },
-    "obsidian_fence_gate_2": {
-      "textures": "textures/blocks/obsidian_2"
-    },
-    "obsidian_trapdoor": {
-      "textures": "textures/blocks/obsidian_trapdoor"
-    },
-    "obsidian_trapdoor_1": {
-      "textures": "textures/blocks/obsidian_trapdoor_1"
-    },
-    "obsidian_trapdoor_2": {
-      "textures": "textures/blocks/obsidian_trapdoor_2"
-    },
-    "obsidian_door_upper": {
-      "textures": "textures/blocks/obsidian_door_upper"
-    },
-    "obsidian_door_1_upper": {
-      "textures": "textures/blocks/obsidian_1_door_upper"
-    },
-    "obsidian_door_2_upper": {
-      "textures": "textures/blocks/obsidian_2_door_upper"
-    },
-    "obsidian_door_lower": {
-      "textures": "textures/blocks/obsidian"
-    },
-    "obsidian_door_1_lower": {
-      "textures": "textures/blocks/obsidian_1"
-    },
-    "obsidian_door_2_lower": {
-      "textures": "textures/blocks/obsidian_2"
-    },
-    "linesia_vslab_oak_planks": {
-      "textures": "textures/blocks/planks_oak"
-    },
-    "linesia_vslab_spruce_planks": {
-      "textures": "textures/blocks/planks_spruce"
-    },
-    "linesia_vslab_birch_planks": {
-      "textures": "textures/blocks/planks_birch"
-    },
-    "linesia_vslab_jungle_planks": {
-      "textures": "textures/blocks/planks_jungle"
-    },
-    "linesia_vslab_acacia_planks": {
-      "textures": "textures/blocks/planks_acacia"
-    },
-    "linesia_vslab_dark_oak_planks": {
-      "textures": "textures/blocks/planks_big_oak"
-    },
-    "linesia_vslab_mangrove_planks": {
-      "textures": "textures/blocks/mangrove_planks"
-    },
-    "linesia_vslab_cherry_planks": {
-      "textures": "textures/blocks/cherry_planks"
-    },
-    "linesia_vslab_bamboo_planks": {
-      "textures": "textures/blocks/bamboo_planks"
-    },
-    "linesia_vslab_crimson_planks": {
-      "textures": "textures/blocks/huge_fungus/crimson_planks"
-    },
-    "linesia_vslab_warped_planks": {
-      "textures": "textures/blocks/huge_fungus/warped_planks"
-    },
-    "linesia_vslab_stone": {
-      "textures": "textures/blocks/stone"
-    },
-    "linesia_vslab_cobblestone": {
-      "textures": "textures/blocks/cobblestone"
-    },
-    "linesia_vslab_mossy_cobblestone": {
-      "textures": "textures/blocks/cobblestone_mossy"
-    },
-    "linesia_vslab_smooth_stone": {
-      "textures": "textures/blocks/stone_slab_top"
-    },
-    "linesia_vslab_stone_bricks": {
-      "textures": "textures/blocks/stonebrick"
-    },
-    "linesia_vslab_mossy_stone_bricks": {
-      "textures": "textures/blocks/stonebrick_mossy"
-    },
-    "linesia_vslab_cracked_stone_bricks": {
-      "textures": "textures/blocks/stonebrick_cracked"
-    },
-    "linesia_vslab_chiseled_stone_bricks": {
-      "textures": "textures/blocks/stonebrick_carved"
-    },
-    "linesia_vslab_granite": {
-      "textures": "textures/blocks/stone_granite"
-    },
-    "linesia_vslab_polished_granite": {
-      "textures": "textures/blocks/stone_granite_smooth"
-    },
-    "linesia_vslab_diorite": {
-      "textures": "textures/blocks/stone_diorite"
-    },
-    "linesia_vslab_polished_diorite": {
-      "textures": "textures/blocks/stone_diorite_smooth"
-    },
-    "linesia_vslab_andesite": {
-      "textures": "textures/blocks/stone_andesite"
-    },
-    "linesia_vslab_polished_andesite": {
-      "textures": "textures/blocks/stone_andesite_smooth"
-    },
-    "linesia_vslab_cobbled_deepslate": {
-      "textures": "textures/blocks/deepslate/cobbled_deepslate"
-    },
-    "linesia_vslab_polished_deepslate": {
-      "textures": "textures/blocks/deepslate/polished_deepslate"
-    },
-    "linesia_vslab_deepslate_bricks": {
-      "textures": "textures/blocks/deepslate/deepslate_bricks"
-    },
-    "linesia_vslab_deepslate_tiles": {
-      "textures": "textures/blocks/deepslate/deepslate_tiles"
-    },
-    "linesia_vslab_cracked_deepslate_bricks": {
-      "textures": "textures/blocks/deepslate/cracked_deepslate_bricks"
-    },
-    "linesia_vslab_cracked_deepslate_tiles": {
-      "textures": "textures/blocks/deepslate/cracked_deepslate_tiles"
-    },
-    "linesia_vslab_bricks": {
-      "textures": "textures/blocks/brick"
-    },
-    "linesia_vslab_nether_bricks": {
-      "textures": "textures/blocks/nether_brick"
-    },
-    "linesia_vslab_red_nether_bricks": {
-      "textures": "textures/blocks/red_nether_brick"
-    },
-    "linesia_vslab_mud_bricks": {
-      "textures": "textures/blocks/mud_bricks"
-    },
-    "linesia_vslab_blackstone": {
-      "textures": "textures/blocks/blackstone"
-    },
-    "linesia_vslab_polished_blackstone": {
-      "textures": "textures/blocks/polished_blackstone"
-    },
-    "linesia_vslab_polished_blackstone_bricks": {
-      "textures": "textures/blocks/polished_blackstone_bricks"
-    },
-    "linesia_vslab_cracked_polished_blackstone_bricks": {
-      "textures": "textures/blocks/cracked_polished_blackstone_bricks"
-    },
-    "linesia_vslab_end_stone": {
-      "textures": "textures/blocks/end_stone"
-    },
-    "linesia_vslab_end_stone_bricks": {
-      "textures": "textures/blocks/end_bricks"
-    },
-    "linesia_vslab_calcite": {
-      "textures": "textures/blocks/calcite"
-    },
-    "linesia_vslab_dripstone_block": {
-      "textures": "textures/blocks/dripstone_block"
-    },
-    "linesia_vslab_tuff": {
-      "textures": "textures/blocks/tuff"
-    },
-    "linesia_vslab_polished_tuff": {
-      "textures": "textures/blocks/polished_tuff"
-    },
-    "nether_rubis_random_ore": {
-      "textures": "textures/blocks/nether_rubis_random_ore"
-    },
-    "nether_rubis_ore": {
-      "textures": "textures/blocks/nether_rubis_ore"
-    },
-    "nether_onyx_random_ore": {
-      "textures": "textures/blocks/nether_onyx_random_ore"
-    },
-    "voidwood_sapling": {
-      "textures": "textures/blocks/sapling/voidwood_sapling"
-    },
-    "astral_sapling": {
-      "textures": "textures/blocks/sapling/astral_sapling"
-    },
-    "void_bloom": {
-      "textures": "textures/blocks/end/void_bloom"
-    },
-    "void_bloom_cut": {
-      "textures": "textures/blocks/end/void_bloom_cut"
+    "chorus_root_cut": {
+      "textures": "textures/blocks/end/chorus_root_cut"
     },
     "ender_berry_bush": {
       "textures": "textures/blocks/end/ender_berry_bush"
@@ -294,11 +36,575 @@
     "ender_berry_bush_cut": {
       "textures": "textures/blocks/end/ender_berry_bush_cut"
     },
-    "chorus_root": {
-      "textures": "textures/blocks/end/chorus_root"
+    "enderman_generator": {
+      "textures": "textures/blocks/enderman_generator"
     },
-    "chorus_root_cut": {
-      "textures": "textures/blocks/end/chorus_root_cut"
+    "key_tree_sapling": {
+      "textures": "textures/blocks/sapling/key_tree_sapling"
+    },
+    "linesia_cove_abysse_emblem": {
+      "textures": "textures/blocks/world/cove/abysse/emblem"
+    },
+    "linesia_cove_astral_emblem": {
+      "textures": "textures/blocks/world/cove/astral/emblem"
+    },
+    "linesia_cove_banquise_emblem": {
+      "textures": "textures/blocks/world/cove/banquise/emblem"
+    },
+    "linesia_cove_cascade_emblem": {
+      "textures": "textures/blocks/world/cove/cascade/emblem"
+    },
+    "linesia_cove_cendre_emblem": {
+      "textures": "textures/blocks/world/cove/cendre/emblem"
+    },
+    "linesia_cove_cristal_emblem": {
+      "textures": "textures/blocks/world/cove/cristal/emblem"
+    },
+    "linesia_cove_empyree_emblem": {
+      "textures": "textures/blocks/world/cove/empyree/emblem"
+    },
+    "linesia_cove_epave_emblem": {
+      "textures": "textures/blocks/world/cove/epave/emblem"
+    },
+    "linesia_cove_etang_emblem": {
+      "textures": "textures/blocks/world/cove/etang/emblem"
+    },
+    "linesia_cove_fjord_emblem": {
+      "textures": "textures/blocks/world/cove/fjord/emblem"
+    },
+    "linesia_cove_geyser_emblem": {
+      "textures": "textures/blocks/world/cove/geyser/emblem"
+    },
+    "linesia_cove_grotte_emblem": {
+      "textures": "textures/blocks/world/cove/grotte/emblem"
+    },
+    "linesia_cove_kelp_emblem": {
+      "textures": "textures/blocks/world/cove/kelp/emblem"
+    },
+    "linesia_cove_lagon_emblem": {
+      "textures": "textures/blocks/world/cove/lagon/emblem"
+    },
+    "linesia_cove_luciole_emblem": {
+      "textures": "textures/blocks/world/cove/luciole/emblem"
+    },
+    "linesia_cove_maelstrom_emblem": {
+      "textures": "textures/blocks/world/cove/maelstrom/emblem"
+    },
+    "linesia_cove_mangrove_emblem": {
+      "textures": "textures/blocks/world/cove/mangrove/emblem"
+    },
+    "linesia_cove_neant_emblem": {
+      "textures": "textures/blocks/world/cove/neant/emblem"
+    },
+    "linesia_cove_nuage_emblem": {
+      "textures": "textures/blocks/world/cove/nuage/emblem"
+    },
+    "linesia_cove_recif_emblem": {
+      "textures": "textures/blocks/world/cove/recif/emblem"
+    },
+    "linesia_cove_riviere_emblem": {
+      "textures": "textures/blocks/world/cove/riviere/emblem"
+    },
+    "linesia_cove_roseliere_emblem": {
+      "textures": "textures/blocks/world/cove/roseliere/emblem"
+    },
+    "linesia_cove_saline_emblem": {
+      "textures": "textures/blocks/world/cove/saline/emblem"
+    },
+    "linesia_cove_sargasse_emblem": {
+      "textures": "textures/blocks/world/cove/sargasse/emblem"
+    },
+    "linesia_cove_soufre_emblem": {
+      "textures": "textures/blocks/world/cove/soufre/emblem"
+    },
+    "linesia_dig_ambre_emblem": {
+      "textures": "textures/blocks/world/dig/ambre/emblem"
+    },
+    "linesia_dig_ambre_onyx_heart": {
+      "textures": "textures/blocks/world/dig/ambre/onyx_heart"
+    },
+    "linesia_dig_ambre_onyx_ore": {
+      "textures": "textures/blocks/world/dig/ambre/onyx_ore"
+    },
+    "linesia_dig_ambre_random_ore": {
+      "textures": "textures/blocks/world/dig/ambre/random_ore"
+    },
+    "linesia_dig_ambre_rubis_heart": {
+      "textures": "textures/blocks/world/dig/ambre/rubis_heart"
+    },
+    "linesia_dig_arcenciel_emblem": {
+      "textures": "textures/blocks/world/dig/arcenciel/emblem"
+    },
+    "linesia_dig_arcenciel_onyx_heart": {
+      "textures": "textures/blocks/world/dig/arcenciel/onyx_heart"
+    },
+    "linesia_dig_arcenciel_onyx_ore": {
+      "textures": "textures/blocks/world/dig/arcenciel/onyx_ore"
+    },
+    "linesia_dig_arcenciel_random_ore": {
+      "textures": "textures/blocks/world/dig/arcenciel/random_ore"
+    },
+    "linesia_dig_arcenciel_treasure_ore": {
+      "textures": "textures/blocks/world/dig/arcenciel/treasure_ore"
+    },
+    "linesia_dig_argile_amethyste_ore": {
+      "textures": "textures/blocks/world/dig/argile/amethyste_ore"
+    },
+    "linesia_dig_argile_emblem": {
+      "textures": "textures/blocks/world/dig/argile/emblem"
+    },
+    "linesia_dig_argile_emerald_ore": {
+      "textures": "textures/blocks/world/dig/argile/emerald_ore"
+    },
+    "linesia_dig_argile_random_ore": {
+      "textures": "textures/blocks/world/dig/argile/random_ore"
+    },
+    "linesia_dig_argile_rich_iron_ore": {
+      "textures": "textures/blocks/world/dig/argile/rich_iron_ore"
+    },
+    "linesia_dig_cendre_amethyste_geode": {
+      "textures": "textures/blocks/world/dig/cendre/amethyste_geode"
+    },
+    "linesia_dig_cendre_amethyste_ore": {
+      "textures": "textures/blocks/world/dig/cendre/amethyste_ore"
+    },
+    "linesia_dig_cendre_emblem": {
+      "textures": "textures/blocks/world/dig/cendre/emblem"
+    },
+    "linesia_dig_cendre_emerald_ore": {
+      "textures": "textures/blocks/world/dig/cendre/emerald_ore"
+    },
+    "linesia_dig_cendre_random_ore": {
+      "textures": "textures/blocks/world/dig/cendre/random_ore"
+    },
+    "linesia_dig_chantier_emblem": {
+      "textures": "textures/blocks/world/dig/chantier/emblem"
+    },
+    "linesia_dig_comete_emblem": {
+      "textures": "textures/blocks/world/dig/comete/emblem"
+    },
+    "linesia_dig_comete_onyx_heart": {
+      "textures": "textures/blocks/world/dig/comete/onyx_heart"
+    },
+    "linesia_dig_comete_onyx_ore": {
+      "textures": "textures/blocks/world/dig/comete/onyx_ore"
+    },
+    "linesia_dig_comete_random_ore": {
+      "textures": "textures/blocks/world/dig/comete/random_ore"
+    },
+    "linesia_dig_comete_treasure_ore": {
+      "textures": "textures/blocks/world/dig/comete/treasure_ore"
+    },
+    "linesia_dig_corail_amethyste_geode": {
+      "textures": "textures/blocks/world/dig/corail/amethyste_geode"
+    },
+    "linesia_dig_corail_amethyste_ore": {
+      "textures": "textures/blocks/world/dig/corail/amethyste_ore"
+    },
+    "linesia_dig_corail_emblem": {
+      "textures": "textures/blocks/world/dig/corail/emblem"
+    },
+    "linesia_dig_corail_random_ore": {
+      "textures": "textures/blocks/world/dig/corail/random_ore"
+    },
+    "linesia_dig_corail_rubis_ore": {
+      "textures": "textures/blocks/world/dig/corail/rubis_ore"
+    },
+    "linesia_dig_ecarlate_amethyste_ore": {
+      "textures": "textures/blocks/world/dig/ecarlate/amethyste_ore"
+    },
+    "linesia_dig_ecarlate_emblem": {
+      "textures": "textures/blocks/world/dig/ecarlate/emblem"
+    },
+    "linesia_dig_ecarlate_emerald_ore": {
+      "textures": "textures/blocks/world/dig/ecarlate/emerald_ore"
+    },
+    "linesia_dig_ecarlate_random_ore": {
+      "textures": "textures/blocks/world/dig/ecarlate/random_ore"
+    },
+    "linesia_dig_ecarlate_rich_iron_ore": {
+      "textures": "textures/blocks/world/dig/ecarlate/rich_iron_ore"
+    },
+    "linesia_dig_fertile_amethyste_ore": {
+      "textures": "textures/blocks/world/dig/fertile/amethyste_ore"
+    },
+    "linesia_dig_fertile_emblem": {
+      "textures": "textures/blocks/world/dig/fertile/emblem"
+    },
+    "linesia_dig_fertile_emerald_ore": {
+      "textures": "textures/blocks/world/dig/fertile/emerald_ore"
+    },
+    "linesia_dig_fertile_iron_ore": {
+      "textures": "textures/blocks/world/dig/fertile/iron_ore"
+    },
+    "linesia_dig_fertile_random_ore": {
+      "textures": "textures/blocks/world/dig/fertile/random_ore"
+    },
+    "linesia_dig_fertile_rich_iron_ore": {
+      "textures": "textures/blocks/world/dig/fertile/rich_iron_ore"
+    },
+    "linesia_dig_lapilli_emblem": {
+      "textures": "textures/blocks/world/dig/lapilli/emblem"
+    },
+    "linesia_dig_lapilli_onyx_ore": {
+      "textures": "textures/blocks/world/dig/lapilli/onyx_ore"
+    },
+    "linesia_dig_lapilli_random_ore": {
+      "textures": "textures/blocks/world/dig/lapilli/random_ore"
+    },
+    "linesia_dig_lapilli_rubis_heart": {
+      "textures": "textures/blocks/world/dig/lapilli/rubis_heart"
+    },
+    "linesia_dig_lapilli_rubis_ore": {
+      "textures": "textures/blocks/world/dig/lapilli/rubis_ore"
+    },
+    "linesia_dig_lueur_emblem": {
+      "textures": "textures/blocks/world/dig/lueur/emblem"
+    },
+    "linesia_dig_lueur_onyx_heart": {
+      "textures": "textures/blocks/world/dig/lueur/onyx_heart"
+    },
+    "linesia_dig_lueur_onyx_ore": {
+      "textures": "textures/blocks/world/dig/lueur/onyx_ore"
+    },
+    "linesia_dig_lueur_random_ore": {
+      "textures": "textures/blocks/world/dig/lueur/random_ore"
+    },
+    "linesia_dig_lueur_rubis_heart": {
+      "textures": "textures/blocks/world/dig/lueur/rubis_heart"
+    },
+    "linesia_dig_lueur_rubis_ore": {
+      "textures": "textures/blocks/world/dig/lueur/rubis_ore"
+    },
+    "linesia_dig_meteore_emblem": {
+      "textures": "textures/blocks/world/dig/meteore/emblem"
+    },
+    "linesia_dig_meteore_onyx_heart": {
+      "textures": "textures/blocks/world/dig/meteore/onyx_heart"
+    },
+    "linesia_dig_meteore_onyx_ore": {
+      "textures": "textures/blocks/world/dig/meteore/onyx_ore"
+    },
+    "linesia_dig_meteore_random_ore": {
+      "textures": "textures/blocks/world/dig/meteore/random_ore"
+    },
+    "linesia_dig_meteore_rubis_heart": {
+      "textures": "textures/blocks/world/dig/meteore/rubis_heart"
+    },
+    "linesia_dig_meteore_treasure_ore": {
+      "textures": "textures/blocks/world/dig/meteore/treasure_ore"
+    },
+    "linesia_dig_neige_amethyste_geode": {
+      "textures": "textures/blocks/world/dig/neige/amethyste_geode"
+    },
+    "linesia_dig_neige_amethyste_ore": {
+      "textures": "textures/blocks/world/dig/neige/amethyste_ore"
+    },
+    "linesia_dig_neige_emblem": {
+      "textures": "textures/blocks/world/dig/neige/emblem"
+    },
+    "linesia_dig_neige_emerald_ore": {
+      "textures": "textures/blocks/world/dig/neige/emerald_ore"
+    },
+    "linesia_dig_neige_random_ore": {
+      "textures": "textures/blocks/world/dig/neige/random_ore"
+    },
+    "linesia_dig_nuage_emblem": {
+      "textures": "textures/blocks/world/dig/nuage/emblem"
+    },
+    "linesia_dig_nuage_onyx_heart": {
+      "textures": "textures/blocks/world/dig/nuage/onyx_heart"
+    },
+    "linesia_dig_nuage_onyx_ore": {
+      "textures": "textures/blocks/world/dig/nuage/onyx_ore"
+    },
+    "linesia_dig_nuage_random_ore": {
+      "textures": "textures/blocks/world/dig/nuage/random_ore"
+    },
+    "linesia_dig_nuage_treasure_ore": {
+      "textures": "textures/blocks/world/dig/nuage/treasure_ore"
+    },
+    "linesia_dig_ombre_emblem": {
+      "textures": "textures/blocks/world/dig/ombre/emblem"
+    },
+    "linesia_dig_ombre_onyx_heart": {
+      "textures": "textures/blocks/world/dig/ombre/onyx_heart"
+    },
+    "linesia_dig_ombre_onyx_ore": {
+      "textures": "textures/blocks/world/dig/ombre/onyx_ore"
+    },
+    "linesia_dig_ombre_random_ore": {
+      "textures": "textures/blocks/world/dig/ombre/random_ore"
+    },
+    "linesia_dig_ombre_treasure_ore": {
+      "textures": "textures/blocks/world/dig/ombre/treasure_ore"
+    },
+    "linesia_dig_pactole_emblem": {
+      "textures": "textures/blocks/world/dig/pactole/emblem"
+    },
+    "linesia_dig_pactole_onyx_heart": {
+      "textures": "textures/blocks/world/dig/pactole/onyx_heart"
+    },
+    "linesia_dig_pactole_onyx_ore": {
+      "textures": "textures/blocks/world/dig/pactole/onyx_ore"
+    },
+    "linesia_dig_pactole_random_ore": {
+      "textures": "textures/blocks/world/dig/pactole/random_ore"
+    },
+    "linesia_dig_pactole_treasure_ore": {
+      "textures": "textures/blocks/world/dig/pactole/treasure_ore"
+    },
+    "linesia_dig_plage_emblem": {
+      "textures": "textures/blocks/world/dig/plage/emblem"
+    },
+    "linesia_dig_plage_emerald_ore": {
+      "textures": "textures/blocks/world/dig/plage/emerald_ore"
+    },
+    "linesia_dig_plage_iron_ore": {
+      "textures": "textures/blocks/world/dig/plage/iron_ore"
+    },
+    "linesia_dig_plage_random_ore": {
+      "textures": "textures/blocks/world/dig/plage/random_ore"
+    },
+    "linesia_dig_plage_rich_iron_ore": {
+      "textures": "textures/blocks/world/dig/plage/rich_iron_ore"
+    },
+    "linesia_dig_poussiere_emblem": {
+      "textures": "textures/blocks/world/dig/poussiere/emblem"
+    },
+    "linesia_dig_poussiere_onyx_heart": {
+      "textures": "textures/blocks/world/dig/poussiere/onyx_heart"
+    },
+    "linesia_dig_poussiere_onyx_ore": {
+      "textures": "textures/blocks/world/dig/poussiere/onyx_ore"
+    },
+    "linesia_dig_poussiere_random_ore": {
+      "textures": "textures/blocks/world/dig/poussiere/random_ore"
+    },
+    "linesia_dig_poussiere_rubis_heart": {
+      "textures": "textures/blocks/world/dig/poussiere/rubis_heart"
+    },
+    "linesia_dig_poussiere_treasure_ore": {
+      "textures": "textures/blocks/world/dig/poussiere/treasure_ore"
+    },
+    "linesia_dig_quartz_emblem": {
+      "textures": "textures/blocks/world/dig/quartz/emblem"
+    },
+    "linesia_dig_quartz_onyx_ore": {
+      "textures": "textures/blocks/world/dig/quartz/onyx_ore"
+    },
+    "linesia_dig_quartz_random_ore": {
+      "textures": "textures/blocks/world/dig/quartz/random_ore"
+    },
+    "linesia_dig_quartz_rubis_heart": {
+      "textures": "textures/blocks/world/dig/quartz/rubis_heart"
+    },
+    "linesia_dig_quartz_rubis_ore": {
+      "textures": "textures/blocks/world/dig/quartz/rubis_ore"
+    },
+    "linesia_dig_riviere_emblem": {
+      "textures": "textures/blocks/world/dig/riviere/emblem"
+    },
+    "linesia_dig_riviere_emerald_ore": {
+      "textures": "textures/blocks/world/dig/riviere/emerald_ore"
+    },
+    "linesia_dig_riviere_iron_ore": {
+      "textures": "textures/blocks/world/dig/riviere/iron_ore"
+    },
+    "linesia_dig_riviere_random_ore": {
+      "textures": "textures/blocks/world/dig/riviere/random_ore"
+    },
+    "linesia_dig_riviere_rich_iron_ore": {
+      "textures": "textures/blocks/world/dig/riviere/rich_iron_ore"
+    },
+    "linesia_dig_rouille_amethyste_geode": {
+      "textures": "textures/blocks/world/dig/rouille/amethyste_geode"
+    },
+    "linesia_dig_rouille_emblem": {
+      "textures": "textures/blocks/world/dig/rouille/emblem"
+    },
+    "linesia_dig_rouille_random_ore": {
+      "textures": "textures/blocks/world/dig/rouille/random_ore"
+    },
+    "linesia_dig_rouille_rubis_heart": {
+      "textures": "textures/blocks/world/dig/rouille/rubis_heart"
+    },
+    "linesia_dig_rouille_rubis_ore": {
+      "textures": "textures/blocks/world/dig/rouille/rubis_ore"
+    },
+    "linesia_dig_saline_amethyste_geode": {
+      "textures": "textures/blocks/world/dig/saline/amethyste_geode"
+    },
+    "linesia_dig_saline_amethyste_ore": {
+      "textures": "textures/blocks/world/dig/saline/amethyste_ore"
+    },
+    "linesia_dig_saline_emblem": {
+      "textures": "textures/blocks/world/dig/saline/emblem"
+    },
+    "linesia_dig_saline_random_ore": {
+      "textures": "textures/blocks/world/dig/saline/random_ore"
+    },
+    "linesia_dig_saline_rubis_ore": {
+      "textures": "textures/blocks/world/dig/saline/rubis_ore"
+    },
+    "linesia_dig_soufre_amethyste_geode": {
+      "textures": "textures/blocks/world/dig/soufre/amethyste_geode"
+    },
+    "linesia_dig_soufre_amethyste_ore": {
+      "textures": "textures/blocks/world/dig/soufre/amethyste_ore"
+    },
+    "linesia_dig_soufre_emblem": {
+      "textures": "textures/blocks/world/dig/soufre/emblem"
+    },
+    "linesia_dig_soufre_random_ore": {
+      "textures": "textures/blocks/world/dig/soufre/random_ore"
+    },
+    "linesia_dig_soufre_rubis_heart": {
+      "textures": "textures/blocks/world/dig/soufre/rubis_heart"
+    },
+    "linesia_dig_soufre_rubis_ore": {
+      "textures": "textures/blocks/world/dig/soufre/rubis_ore"
+    },
+    "linesia_dig_spectre_amethyste_geode": {
+      "textures": "textures/blocks/world/dig/spectre/amethyste_geode"
+    },
+    "linesia_dig_spectre_emblem": {
+      "textures": "textures/blocks/world/dig/spectre/emblem"
+    },
+    "linesia_dig_spectre_onyx_ore": {
+      "textures": "textures/blocks/world/dig/spectre/onyx_ore"
+    },
+    "linesia_dig_spectre_random_ore": {
+      "textures": "textures/blocks/world/dig/spectre/random_ore"
+    },
+    "linesia_dig_spectre_rubis_heart": {
+      "textures": "textures/blocks/world/dig/spectre/rubis_heart"
+    },
+    "linesia_dig_spectre_rubis_ore": {
+      "textures": "textures/blocks/world/dig/spectre/rubis_ore"
+    },
+    "linesia_dig_spore_amethyste_geode": {
+      "textures": "textures/blocks/world/dig/spore/amethyste_geode"
+    },
+    "linesia_dig_spore_amethyste_ore": {
+      "textures": "textures/blocks/world/dig/spore/amethyste_ore"
+    },
+    "linesia_dig_spore_emblem": {
+      "textures": "textures/blocks/world/dig/spore/emblem"
+    },
+    "linesia_dig_spore_emerald_ore": {
+      "textures": "textures/blocks/world/dig/spore/emerald_ore"
+    },
+    "linesia_dig_spore_random_ore": {
+      "textures": "textures/blocks/world/dig/spore/random_ore"
+    },
+    "linesia_dig_spore_rubis_ore": {
+      "textures": "textures/blocks/world/dig/spore/rubis_ore"
+    },
+    "linesia_dig_tourbe_amethyste_ore": {
+      "textures": "textures/blocks/world/dig/tourbe/amethyste_ore"
+    },
+    "linesia_dig_tourbe_emblem": {
+      "textures": "textures/blocks/world/dig/tourbe/emblem"
+    },
+    "linesia_dig_tourbe_emerald_ore": {
+      "textures": "textures/blocks/world/dig/tourbe/emerald_ore"
+    },
+    "linesia_dig_tourbe_iron_ore": {
+      "textures": "textures/blocks/world/dig/tourbe/iron_ore"
+    },
+    "linesia_dig_tourbe_random_ore": {
+      "textures": "textures/blocks/world/dig/tourbe/random_ore"
+    },
+    "linesia_dig_tourbe_rich_iron_ore": {
+      "textures": "textures/blocks/world/dig/tourbe/rich_iron_ore"
+    },
+    "linesia_farm_ames_emblem": {
+      "textures": "textures/blocks/world/farm/ames/emblem"
+    },
+    "linesia_farm_astral_emblem": {
+      "textures": "textures/blocks/world/farm/astral/emblem"
+    },
+    "linesia_farm_bocage_emblem": {
+      "textures": "textures/blocks/world/farm/bocage/emblem"
+    },
+    "linesia_farm_cendres_emblem": {
+      "textures": "textures/blocks/world/farm/cendres/emblem"
+    },
+    "linesia_farm_champignon_emblem": {
+      "textures": "textures/blocks/world/farm/champignon/emblem"
+    },
+    "linesia_farm_chaumes_emblem": {
+      "textures": "textures/blocks/world/farm/chaumes/emblem"
+    },
+    "linesia_farm_coteaux_emblem": {
+      "textures": "textures/blocks/world/farm/coteaux/emblem"
+    },
+    "linesia_farm_crate": {
+      "textures": "textures/blocks/world/farm/common/crate"
+    },
+    "linesia_farm_crate_gold": {
+      "textures": "textures/blocks/world/farm/common/crate_gold"
+    },
+    "linesia_farm_cristal_emblem": {
+      "textures": "textures/blocks/world/farm/cristal/emblem"
+    },
+    "linesia_farm_ecarlate_emblem": {
+      "textures": "textures/blocks/world/farm/ecarlate/emblem"
+    },
+    "linesia_farm_empyree_emblem": {
+      "textures": "textures/blocks/world/farm/empyree/emblem"
+    },
+    "linesia_farm_falaises_emblem": {
+      "textures": "textures/blocks/world/farm/falaises/emblem"
+    },
+    "linesia_farm_garrigue_emblem": {
+      "textures": "textures/blocks/world/farm/garrigue/emblem"
+    },
+    "linesia_farm_jungle_emblem": {
+      "textures": "textures/blocks/world/farm/jungle/emblem"
+    },
+    "linesia_farm_mousses_emblem": {
+      "textures": "textures/blocks/world/farm/mousses/emblem"
+    },
+    "linesia_farm_neant_emblem": {
+      "textures": "textures/blocks/world/farm/neant/emblem"
+    },
+    "linesia_farm_oasis_emblem": {
+      "textures": "textures/blocks/world/farm/oasis/emblem"
+    },
+    "linesia_farm_obsidienne_emblem": {
+      "textures": "textures/blocks/world/farm/obsidienne/emblem"
+    },
+    "linesia_farm_potager_emblem": {
+      "textures": "textures/blocks/world/farm/potager/emblem"
+    },
+    "linesia_farm_rizieres_emblem": {
+      "textures": "textures/blocks/world/farm/rizieres/emblem"
+    },
+    "linesia_farm_serres_emblem": {
+      "textures": "textures/blocks/world/farm/serres/emblem"
+    },
+    "linesia_farm_soufre_emblem": {
+      "textures": "textures/blocks/world/farm/soufre/emblem"
+    },
+    "linesia_farm_steppe_emblem": {
+      "textures": "textures/blocks/world/farm/steppe/emblem"
+    },
+    "linesia_farm_tourbiere_emblem": {
+      "textures": "textures/blocks/world/farm/tourbiere/emblem"
+    },
+    "linesia_farm_vide_emblem": {
+      "textures": "textures/blocks/world/farm/vide/emblem"
+    },
+    "linesia_farm_volcan_emblem": {
+      "textures": "textures/blocks/world/farm/volcan/emblem"
+    },
+    "linesia_gate_forcefield": {
+      "textures": "textures/blocks/world/gates/forcefield"
+    },
+    "linesia_gate_padlock": {
+      "textures": "textures/blocks/world/gates/padlock"
     },
     "linesia_ghost_block": {
       "textures": "textures/blocks/ghost_block"
@@ -1269,26 +1575,1439 @@
     "linesia_ghostskin_wool_colored_yellow": {
       "textures": "textures/blocks/wool_colored_yellow"
     },
-    "onyx_tree_sapling": {
-      "textures": "textures/blocks/sapling/onyx_tree_sapling"
+    "linesia_hub_tuto_dug": {
+      "textures": "textures/blocks/kit/dirt_dark"
     },
-    "rubis_tree_sapling": {
-      "textures": "textures/blocks/sapling/rubis_tree_sapling"
+    "linesia_hub_tuto_gravel": {
+      "textures": "textures/blocks/kit/gravel"
     },
-    "key_tree_sapling": {
-      "textures": "textures/blocks/sapling/key_tree_sapling"
+    "linesia_hub_tuto_log_side": {
+      "textures": "textures/blocks/kit/log_oak_side"
+    },
+    "linesia_hub_tuto_log_stripped_side": {
+      "textures": "textures/blocks/kit/stripped_oak_side"
+    },
+    "linesia_hub_tuto_log_stripped_top": {
+      "textures": "textures/blocks/kit/stripped_oak_top"
+    },
+    "linesia_hub_tuto_log_top": {
+      "textures": "textures/blocks/kit/log_oak_top"
+    },
+    "linesia_hub_tuto_ore": {
+      "textures": "textures/blocks/world/hub/tuto_ore"
+    },
+    "linesia_hub_tuto_ore_mined": {
+      "textures": "textures/blocks/kit/cobble"
+    },
+    "linesia_hub_tuto_sand": {
+      "textures": "textures/blocks/kit/sand"
+    },
+    "linesia_hub_tuto_wheat": {
+      "textures": "textures/blocks/wheat_stage_7"
+    },
+    "linesia_hub_tuto_wheat_young": {
+      "textures": "textures/blocks/wheat_stage_2"
     },
     "linesia_humus": {
       "textures": "textures/blocks/soil/humus"
     },
-    "linesia_terreau_sylvestre": {
-      "textures": "textures/blocks/soil/terreau_sylvestre"
+    "linesia_lair_abysse_emblem": {
+      "textures": "textures/blocks/world/lair/abysse/emblem"
+    },
+    "linesia_lair_beffroi_emblem": {
+      "textures": "textures/blocks/world/lair/beffroi/emblem"
+    },
+    "linesia_lair_bourbier_emblem": {
+      "textures": "textures/blocks/world/lair/bourbier/emblem"
+    },
+    "linesia_lair_caserne_emblem": {
+      "textures": "textures/blocks/world/lair/caserne/emblem"
+    },
+    "linesia_lair_catacombes_emblem": {
+      "textures": "textures/blocks/world/lair/catacombes/emblem"
+    },
+    "linesia_lair_couronne_emblem": {
+      "textures": "textures/blocks/world/lair/couronne/emblem"
+    },
+    "linesia_lair_creuset_emblem": {
+      "textures": "textures/blocks/world/lair/creuset/emblem"
+    },
+    "linesia_lair_crypte_emblem": {
+      "textures": "textures/blocks/world/lair/crypte/emblem"
+    },
+    "linesia_lair_donjon_emblem": {
+      "textures": "textures/blocks/world/lair/donjon/emblem"
+    },
+    "linesia_lair_eclipse_emblem": {
+      "textures": "textures/blocks/world/lair/eclipse/emblem"
+    },
+    "linesia_lair_enclume_emblem": {
+      "textures": "textures/blocks/world/lair/enclume/emblem"
+    },
+    "linesia_lair_fonderie_emblem": {
+      "textures": "textures/blocks/world/lair/fonderie/emblem"
+    },
+    "linesia_lair_nebuleuse_emblem": {
+      "textures": "textures/blocks/world/lair/nebuleuse/emblem"
+    },
+    "linesia_lair_nid_emblem": {
+      "textures": "textures/blocks/world/lair/nid/emblem"
+    },
+    "linesia_lair_onyx_emblem": {
+      "textures": "textures/blocks/world/lair/onyx/emblem"
+    },
+    "linesia_lair_ossuaire_emblem": {
+      "textures": "textures/blocks/world/lair/ossuaire/emblem"
+    },
+    "linesia_lair_oubliettes_emblem": {
+      "textures": "textures/blocks/world/lair/oubliettes/emblem"
+    },
+    "linesia_lair_prisme_emblem": {
+      "textures": "textures/blocks/world/lair/prisme/emblem"
+    },
+    "linesia_lair_ronces_emblem": {
+      "textures": "textures/blocks/world/lair/ronces/emblem"
+    },
+    "linesia_lair_sanie_emblem": {
+      "textures": "textures/blocks/world/lair/sanie/emblem"
+    },
+    "linesia_lair_scories_emblem": {
+      "textures": "textures/blocks/world/lair/scories/emblem"
+    },
+    "linesia_lair_sepulcre_emblem": {
+      "textures": "textures/blocks/world/lair/sepulcre/emblem"
+    },
+    "linesia_lair_soufriere_emblem": {
+      "textures": "textures/blocks/world/lair/soufriere/emblem"
+    },
+    "linesia_lair_spores_emblem": {
+      "textures": "textures/blocks/world/lair/spores/emblem"
+    },
+    "linesia_lair_voile_emblem": {
+      "textures": "textures/blocks/world/lair/voile/emblem"
+    },
+    "linesia_mine_abysses_emblem": {
+      "textures": "textures/blocks/world/mine/abysses/emblem"
+    },
+    "linesia_mine_abysses_onyx_ore": {
+      "textures": "textures/blocks/world/mine/abysses/onyx_ore"
+    },
+    "linesia_mine_abysses_random_ore": {
+      "textures": "textures/blocks/world/mine/abysses/random_ore"
+    },
+    "linesia_mine_abysses_rubis_heart": {
+      "textures": "textures/blocks/world/mine/abysses/rubis_heart"
+    },
+    "linesia_mine_abysses_rubis_ore": {
+      "textures": "textures/blocks/world/mine/abysses/rubis_ore"
+    },
+    "linesia_mine_ames_emblem": {
+      "textures": "textures/blocks/world/mine/ames/emblem"
+    },
+    "linesia_mine_ames_onyx_ore": {
+      "textures": "textures/blocks/world/mine/ames/onyx_ore"
+    },
+    "linesia_mine_ames_random_ore": {
+      "textures": "textures/blocks/world/mine/ames/random_ore"
+    },
+    "linesia_mine_ames_rubis_heart": {
+      "textures": "textures/blocks/world/mine/ames/rubis_heart"
+    },
+    "linesia_mine_ames_rubis_ore": {
+      "textures": "textures/blocks/world/mine/ames/rubis_ore"
+    },
+    "linesia_mine_astral_emblem": {
+      "textures": "textures/blocks/world/mine/astral/emblem"
+    },
+    "linesia_mine_astral_onyx_heart": {
+      "textures": "textures/blocks/world/mine/astral/onyx_heart"
+    },
+    "linesia_mine_astral_onyx_ore": {
+      "textures": "textures/blocks/world/mine/astral/onyx_ore"
+    },
+    "linesia_mine_astral_random_ore": {
+      "textures": "textures/blocks/world/mine/astral/random_ore"
+    },
+    "linesia_mine_astral_treasure_ore": {
+      "textures": "textures/blocks/world/mine/astral/treasure_ore"
+    },
+    "linesia_mine_bocage_emblem": {
+      "textures": "textures/blocks/world/mine/bocage/emblem"
+    },
+    "linesia_mine_bocage_emerald_ore": {
+      "textures": "textures/blocks/world/mine/bocage/emerald_ore"
+    },
+    "linesia_mine_bocage_iron_ore": {
+      "textures": "textures/blocks/world/mine/bocage/iron_ore"
+    },
+    "linesia_mine_bocage_random_ore": {
+      "textures": "textures/blocks/world/mine/bocage/random_ore"
+    },
+    "linesia_mine_bocage_rich_iron_ore": {
+      "textures": "textures/blocks/world/mine/bocage/rich_iron_ore"
+    },
+    "linesia_mine_camp_emblem": {
+      "textures": "textures/blocks/world/mine/camp/emblem"
+    },
+    "linesia_mine_canyon_amethyste_ore": {
+      "textures": "textures/blocks/world/mine/canyon/amethyste_ore"
+    },
+    "linesia_mine_canyon_emblem": {
+      "textures": "textures/blocks/world/mine/canyon/emblem"
+    },
+    "linesia_mine_canyon_emerald_ore": {
+      "textures": "textures/blocks/world/mine/canyon/emerald_ore"
+    },
+    "linesia_mine_canyon_iron_ore": {
+      "textures": "textures/blocks/world/mine/canyon/iron_ore"
+    },
+    "linesia_mine_canyon_random_ore": {
+      "textures": "textures/blocks/world/mine/canyon/random_ore"
+    },
+    "linesia_mine_canyon_rich_iron_ore": {
+      "textures": "textures/blocks/world/mine/canyon/rich_iron_ore"
+    },
+    "linesia_mine_carriere_emblem": {
+      "textures": "textures/blocks/world/mine/carriere/emblem"
+    },
+    "linesia_mine_carriere_emerald_ore": {
+      "textures": "textures/blocks/world/mine/carriere/emerald_ore"
+    },
+    "linesia_mine_carriere_iron_ore": {
+      "textures": "textures/blocks/world/mine/carriere/iron_ore"
+    },
+    "linesia_mine_carriere_random_ore": {
+      "textures": "textures/blocks/world/mine/carriere/random_ore"
+    },
+    "linesia_mine_carriere_rich_iron_ore": {
+      "textures": "textures/blocks/world/mine/carriere/rich_iron_ore"
+    },
+    "linesia_mine_celeste_emblem": {
+      "textures": "textures/blocks/world/mine/celeste/emblem"
+    },
+    "linesia_mine_celeste_onyx_heart": {
+      "textures": "textures/blocks/world/mine/celeste/onyx_heart"
+    },
+    "linesia_mine_celeste_onyx_ore": {
+      "textures": "textures/blocks/world/mine/celeste/onyx_ore"
+    },
+    "linesia_mine_celeste_random_ore": {
+      "textures": "textures/blocks/world/mine/celeste/random_ore"
+    },
+    "linesia_mine_celeste_treasure_ore": {
+      "textures": "textures/blocks/world/mine/celeste/treasure_ore"
+    },
+    "linesia_mine_champignon_amethyste_geode": {
+      "textures": "textures/blocks/world/mine/champignon/amethyste_geode"
+    },
+    "linesia_mine_champignon_amethyste_ore": {
+      "textures": "textures/blocks/world/mine/champignon/amethyste_ore"
+    },
+    "linesia_mine_champignon_emblem": {
+      "textures": "textures/blocks/world/mine/champignon/emblem"
+    },
+    "linesia_mine_champignon_emerald_ore": {
+      "textures": "textures/blocks/world/mine/champignon/emerald_ore"
+    },
+    "linesia_mine_champignon_random_ore": {
+      "textures": "textures/blocks/world/mine/champignon/random_ore"
+    },
+    "linesia_mine_champignon_rubis_ore": {
+      "textures": "textures/blocks/world/mine/champignon/rubis_ore"
+    },
+    "linesia_mine_chest": {
+      "textures": "textures/blocks/world/mine/common/chest"
+    },
+    "linesia_mine_chest_rich": {
+      "textures": "textures/blocks/world/mine/common/chest_rich"
+    },
+    "linesia_mine_dunes_amethyste_ore": {
+      "textures": "textures/blocks/world/mine/dunes/amethyste_ore"
+    },
+    "linesia_mine_dunes_emblem": {
+      "textures": "textures/blocks/world/mine/dunes/emblem"
+    },
+    "linesia_mine_dunes_emerald_ore": {
+      "textures": "textures/blocks/world/mine/dunes/emerald_ore"
+    },
+    "linesia_mine_dunes_iron_ore": {
+      "textures": "textures/blocks/world/mine/dunes/iron_ore"
+    },
+    "linesia_mine_dunes_random_ore": {
+      "textures": "textures/blocks/world/mine/dunes/random_ore"
+    },
+    "linesia_mine_dunes_rich_iron_ore": {
+      "textures": "textures/blocks/world/mine/dunes/rich_iron_ore"
+    },
+    "linesia_mine_end_emblem": {
+      "textures": "textures/blocks/world/mine/end/emblem"
+    },
+    "linesia_mine_end_onyx_heart": {
+      "textures": "textures/blocks/world/mine/end/onyx_heart"
+    },
+    "linesia_mine_end_onyx_ore": {
+      "textures": "textures/blocks/world/mine/end/onyx_ore"
+    },
+    "linesia_mine_end_random_ore": {
+      "textures": "textures/blocks/world/mine/end/random_ore"
+    },
+    "linesia_mine_end_rubis_heart": {
+      "textures": "textures/blocks/world/mine/end/rubis_heart"
+    },
+    "linesia_mine_end_treasure_ore": {
+      "textures": "textures/blocks/world/mine/end/treasure_ore"
+    },
+    "linesia_mine_enfer_amethyste_geode": {
+      "textures": "textures/blocks/world/mine/enfer/amethyste_geode"
+    },
+    "linesia_mine_enfer_emblem": {
+      "textures": "textures/blocks/world/mine/enfer/emblem"
+    },
+    "linesia_mine_enfer_onyx_ore": {
+      "textures": "textures/blocks/world/mine/enfer/onyx_ore"
+    },
+    "linesia_mine_enfer_random_ore": {
+      "textures": "textures/blocks/world/mine/enfer/random_ore"
+    },
+    "linesia_mine_enfer_rubis_heart": {
+      "textures": "textures/blocks/world/mine/enfer/rubis_heart"
+    },
+    "linesia_mine_enfer_rubis_ore": {
+      "textures": "textures/blocks/world/mine/enfer/rubis_ore"
+    },
+    "linesia_mine_forge_amethyste_geode": {
+      "textures": "textures/blocks/world/mine/forge/amethyste_geode"
+    },
+    "linesia_mine_forge_amethyste_ore": {
+      "textures": "textures/blocks/world/mine/forge/amethyste_ore"
+    },
+    "linesia_mine_forge_emblem": {
+      "textures": "textures/blocks/world/mine/forge/emblem"
+    },
+    "linesia_mine_forge_random_ore": {
+      "textures": "textures/blocks/world/mine/forge/random_ore"
+    },
+    "linesia_mine_forge_rubis_heart": {
+      "textures": "textures/blocks/world/mine/forge/rubis_heart"
+    },
+    "linesia_mine_forge_rubis_ore": {
+      "textures": "textures/blocks/world/mine/forge/rubis_ore"
+    },
+    "linesia_mine_geode_amethyste_geode": {
+      "textures": "textures/blocks/world/mine/geode/amethyste_geode"
+    },
+    "linesia_mine_geode_amethyste_ore": {
+      "textures": "textures/blocks/world/mine/geode/amethyste_ore"
+    },
+    "linesia_mine_geode_emblem": {
+      "textures": "textures/blocks/world/mine/geode/emblem"
+    },
+    "linesia_mine_geode_emerald_ore": {
+      "textures": "textures/blocks/world/mine/geode/emerald_ore"
+    },
+    "linesia_mine_geode_random_ore": {
+      "textures": "textures/blocks/world/mine/geode/random_ore"
+    },
+    "linesia_mine_glacier_amethyste_geode": {
+      "textures": "textures/blocks/world/mine/glacier/amethyste_geode"
+    },
+    "linesia_mine_glacier_amethyste_ore": {
+      "textures": "textures/blocks/world/mine/glacier/amethyste_ore"
+    },
+    "linesia_mine_glacier_emblem": {
+      "textures": "textures/blocks/world/mine/glacier/emblem"
+    },
+    "linesia_mine_glacier_emerald_ore": {
+      "textures": "textures/blocks/world/mine/glacier/emerald_ore"
+    },
+    "linesia_mine_glacier_random_ore": {
+      "textures": "textures/blocks/world/mine/glacier/random_ore"
+    },
+    "linesia_mine_horloge_emblem": {
+      "textures": "textures/blocks/world/mine/horloge/emblem"
+    },
+    "linesia_mine_horloge_onyx_heart": {
+      "textures": "textures/blocks/world/mine/horloge/onyx_heart"
+    },
+    "linesia_mine_horloge_onyx_ore": {
+      "textures": "textures/blocks/world/mine/horloge/onyx_ore"
+    },
+    "linesia_mine_horloge_random_ore": {
+      "textures": "textures/blocks/world/mine/horloge/random_ore"
+    },
+    "linesia_mine_horloge_rubis_heart": {
+      "textures": "textures/blocks/world/mine/horloge/rubis_heart"
+    },
+    "linesia_mine_horloge_treasure_ore": {
+      "textures": "textures/blocks/world/mine/horloge/treasure_ore"
+    },
+    "linesia_mine_jungle_amethyste_ore": {
+      "textures": "textures/blocks/world/mine/jungle/amethyste_ore"
+    },
+    "linesia_mine_jungle_emblem": {
+      "textures": "textures/blocks/world/mine/jungle/emblem"
+    },
+    "linesia_mine_jungle_emerald_ore": {
+      "textures": "textures/blocks/world/mine/jungle/emerald_ore"
+    },
+    "linesia_mine_jungle_random_ore": {
+      "textures": "textures/blocks/world/mine/jungle/random_ore"
+    },
+    "linesia_mine_jungle_rich_iron_ore": {
+      "textures": "textures/blocks/world/mine/jungle/rich_iron_ore"
+    },
+    "linesia_mine_marais_amethyste_ore": {
+      "textures": "textures/blocks/world/mine/marais/amethyste_ore"
+    },
+    "linesia_mine_marais_emblem": {
+      "textures": "textures/blocks/world/mine/marais/emblem"
+    },
+    "linesia_mine_marais_emerald_ore": {
+      "textures": "textures/blocks/world/mine/marais/emerald_ore"
+    },
+    "linesia_mine_marais_random_ore": {
+      "textures": "textures/blocks/world/mine/marais/random_ore"
+    },
+    "linesia_mine_marais_rich_iron_ore": {
+      "textures": "textures/blocks/world/mine/marais/rich_iron_ore"
+    },
+    "linesia_mine_neant_emblem": {
+      "textures": "textures/blocks/world/mine/neant/emblem"
+    },
+    "linesia_mine_neant_onyx_heart": {
+      "textures": "textures/blocks/world/mine/neant/onyx_heart"
+    },
+    "linesia_mine_neant_onyx_ore": {
+      "textures": "textures/blocks/world/mine/neant/onyx_ore"
+    },
+    "linesia_mine_neant_random_ore": {
+      "textures": "textures/blocks/world/mine/neant/random_ore"
+    },
+    "linesia_mine_neant_treasure_ore": {
+      "textures": "textures/blocks/world/mine/neant/treasure_ore"
+    },
+    "linesia_mine_onyx_emblem": {
+      "textures": "textures/blocks/world/mine/onyx/emblem"
+    },
+    "linesia_mine_onyx_onyx_heart": {
+      "textures": "textures/blocks/world/mine/onyx/onyx_heart"
+    },
+    "linesia_mine_onyx_onyx_ore": {
+      "textures": "textures/blocks/world/mine/onyx/onyx_ore"
+    },
+    "linesia_mine_onyx_random_ore": {
+      "textures": "textures/blocks/world/mine/onyx/random_ore"
+    },
+    "linesia_mine_onyx_treasure_ore": {
+      "textures": "textures/blocks/world/mine/onyx/treasure_ore"
+    },
+    "linesia_mine_orage_emblem": {
+      "textures": "textures/blocks/world/mine/orage/emblem"
+    },
+    "linesia_mine_orage_onyx_heart": {
+      "textures": "textures/blocks/world/mine/orage/onyx_heart"
+    },
+    "linesia_mine_orage_onyx_ore": {
+      "textures": "textures/blocks/world/mine/orage/onyx_ore"
+    },
+    "linesia_mine_orage_random_ore": {
+      "textures": "textures/blocks/world/mine/orage/random_ore"
+    },
+    "linesia_mine_orage_rubis_heart": {
+      "textures": "textures/blocks/world/mine/orage/rubis_heart"
+    },
+    "linesia_mine_orage_rubis_ore": {
+      "textures": "textures/blocks/world/mine/orage/rubis_ore"
+    },
+    "linesia_mine_prisme_emblem": {
+      "textures": "textures/blocks/world/mine/prisme/emblem"
+    },
+    "linesia_mine_prisme_onyx_heart": {
+      "textures": "textures/blocks/world/mine/prisme/onyx_heart"
+    },
+    "linesia_mine_prisme_onyx_ore": {
+      "textures": "textures/blocks/world/mine/prisme/onyx_ore"
+    },
+    "linesia_mine_prisme_random_ore": {
+      "textures": "textures/blocks/world/mine/prisme/random_ore"
+    },
+    "linesia_mine_prisme_treasure_ore": {
+      "textures": "textures/blocks/world/mine/prisme/treasure_ore"
+    },
+    "linesia_mine_recif_amethyste_geode": {
+      "textures": "textures/blocks/world/mine/recif/amethyste_geode"
+    },
+    "linesia_mine_recif_amethyste_ore": {
+      "textures": "textures/blocks/world/mine/recif/amethyste_ore"
+    },
+    "linesia_mine_recif_emblem": {
+      "textures": "textures/blocks/world/mine/recif/emblem"
+    },
+    "linesia_mine_recif_random_ore": {
+      "textures": "textures/blocks/world/mine/recif/random_ore"
+    },
+    "linesia_mine_recif_rubis_ore": {
+      "textures": "textures/blocks/world/mine/recif/rubis_ore"
+    },
+    "linesia_mine_ruines_emblem": {
+      "textures": "textures/blocks/world/mine/ruines/emblem"
+    },
+    "linesia_mine_ruines_onyx_heart": {
+      "textures": "textures/blocks/world/mine/ruines/onyx_heart"
+    },
+    "linesia_mine_ruines_onyx_ore": {
+      "textures": "textures/blocks/world/mine/ruines/onyx_ore"
+    },
+    "linesia_mine_ruines_random_ore": {
+      "textures": "textures/blocks/world/mine/ruines/random_ore"
+    },
+    "linesia_mine_ruines_rubis_heart": {
+      "textures": "textures/blocks/world/mine/ruines/rubis_heart"
+    },
+    "linesia_mine_sakura_amethyste_geode": {
+      "textures": "textures/blocks/world/mine/sakura/amethyste_geode"
+    },
+    "linesia_mine_sakura_amethyste_ore": {
+      "textures": "textures/blocks/world/mine/sakura/amethyste_ore"
+    },
+    "linesia_mine_sakura_emblem": {
+      "textures": "textures/blocks/world/mine/sakura/emblem"
+    },
+    "linesia_mine_sakura_random_ore": {
+      "textures": "textures/blocks/world/mine/sakura/random_ore"
+    },
+    "linesia_mine_sakura_rubis_ore": {
+      "textures": "textures/blocks/world/mine/sakura/rubis_ore"
+    },
+    "linesia_mine_volcan_amethyste_geode": {
+      "textures": "textures/blocks/world/mine/volcan/amethyste_geode"
+    },
+    "linesia_mine_volcan_emblem": {
+      "textures": "textures/blocks/world/mine/volcan/emblem"
+    },
+    "linesia_mine_volcan_random_ore": {
+      "textures": "textures/blocks/world/mine/volcan/random_ore"
+    },
+    "linesia_mine_volcan_rubis_heart": {
+      "textures": "textures/blocks/world/mine/volcan/rubis_heart"
+    },
+    "linesia_mine_volcan_rubis_ore": {
+      "textures": "textures/blocks/world/mine/volcan/rubis_ore"
     },
     "linesia_terre_ancienne": {
       "textures": "textures/blocks/soil/terre_ancienne"
     },
     "linesia_terre_primordiale": {
       "textures": "textures/blocks/soil/terre_primordiale"
+    },
+    "linesia_terreau_sylvestre": {
+      "textures": "textures/blocks/soil/terreau_sylvestre"
+    },
+    "linesia_vslab_acacia_planks": {
+      "textures": "textures/blocks/planks_acacia"
+    },
+    "linesia_vslab_andesite": {
+      "textures": "textures/blocks/stone_andesite"
+    },
+    "linesia_vslab_bamboo_planks": {
+      "textures": "textures/blocks/bamboo_planks"
+    },
+    "linesia_vslab_birch_planks": {
+      "textures": "textures/blocks/planks_birch"
+    },
+    "linesia_vslab_blackstone": {
+      "textures": "textures/blocks/blackstone"
+    },
+    "linesia_vslab_bricks": {
+      "textures": "textures/blocks/brick"
+    },
+    "linesia_vslab_calcite": {
+      "textures": "textures/blocks/calcite"
+    },
+    "linesia_vslab_cherry_planks": {
+      "textures": "textures/blocks/cherry_planks"
+    },
+    "linesia_vslab_chiseled_stone_bricks": {
+      "textures": "textures/blocks/stonebrick_carved"
+    },
+    "linesia_vslab_cobbled_deepslate": {
+      "textures": "textures/blocks/deepslate/cobbled_deepslate"
+    },
+    "linesia_vslab_cobblestone": {
+      "textures": "textures/blocks/cobblestone"
+    },
+    "linesia_vslab_cracked_deepslate_bricks": {
+      "textures": "textures/blocks/deepslate/cracked_deepslate_bricks"
+    },
+    "linesia_vslab_cracked_deepslate_tiles": {
+      "textures": "textures/blocks/deepslate/cracked_deepslate_tiles"
+    },
+    "linesia_vslab_cracked_polished_blackstone_bricks": {
+      "textures": "textures/blocks/cracked_polished_blackstone_bricks"
+    },
+    "linesia_vslab_cracked_stone_bricks": {
+      "textures": "textures/blocks/stonebrick_cracked"
+    },
+    "linesia_vslab_crimson_planks": {
+      "textures": "textures/blocks/huge_fungus/crimson_planks"
+    },
+    "linesia_vslab_dark_oak_planks": {
+      "textures": "textures/blocks/planks_big_oak"
+    },
+    "linesia_vslab_deepslate_bricks": {
+      "textures": "textures/blocks/deepslate/deepslate_bricks"
+    },
+    "linesia_vslab_deepslate_tiles": {
+      "textures": "textures/blocks/deepslate/deepslate_tiles"
+    },
+    "linesia_vslab_diorite": {
+      "textures": "textures/blocks/stone_diorite"
+    },
+    "linesia_vslab_dripstone_block": {
+      "textures": "textures/blocks/dripstone_block"
+    },
+    "linesia_vslab_end_stone": {
+      "textures": "textures/blocks/end_stone"
+    },
+    "linesia_vslab_end_stone_bricks": {
+      "textures": "textures/blocks/end_bricks"
+    },
+    "linesia_vslab_granite": {
+      "textures": "textures/blocks/stone_granite"
+    },
+    "linesia_vslab_jungle_planks": {
+      "textures": "textures/blocks/planks_jungle"
+    },
+    "linesia_vslab_mangrove_planks": {
+      "textures": "textures/blocks/mangrove_planks"
+    },
+    "linesia_vslab_mossy_cobblestone": {
+      "textures": "textures/blocks/cobblestone_mossy"
+    },
+    "linesia_vslab_mossy_stone_bricks": {
+      "textures": "textures/blocks/stonebrick_mossy"
+    },
+    "linesia_vslab_mud_bricks": {
+      "textures": "textures/blocks/mud_bricks"
+    },
+    "linesia_vslab_nether_bricks": {
+      "textures": "textures/blocks/nether_brick"
+    },
+    "linesia_vslab_oak_planks": {
+      "textures": "textures/blocks/planks_oak"
+    },
+    "linesia_vslab_polished_andesite": {
+      "textures": "textures/blocks/stone_andesite_smooth"
+    },
+    "linesia_vslab_polished_blackstone": {
+      "textures": "textures/blocks/polished_blackstone"
+    },
+    "linesia_vslab_polished_blackstone_bricks": {
+      "textures": "textures/blocks/polished_blackstone_bricks"
+    },
+    "linesia_vslab_polished_deepslate": {
+      "textures": "textures/blocks/deepslate/polished_deepslate"
+    },
+    "linesia_vslab_polished_diorite": {
+      "textures": "textures/blocks/stone_diorite_smooth"
+    },
+    "linesia_vslab_polished_granite": {
+      "textures": "textures/blocks/stone_granite_smooth"
+    },
+    "linesia_vslab_polished_tuff": {
+      "textures": "textures/blocks/polished_tuff"
+    },
+    "linesia_vslab_red_nether_bricks": {
+      "textures": "textures/blocks/red_nether_brick"
+    },
+    "linesia_vslab_smooth_stone": {
+      "textures": "textures/blocks/stone_slab_top"
+    },
+    "linesia_vslab_spruce_planks": {
+      "textures": "textures/blocks/planks_spruce"
+    },
+    "linesia_vslab_stone": {
+      "textures": "textures/blocks/stone"
+    },
+    "linesia_vslab_stone_bricks": {
+      "textures": "textures/blocks/stonebrick"
+    },
+    "linesia_vslab_tuff": {
+      "textures": "textures/blocks/tuff"
+    },
+    "linesia_vslab_warped_planks": {
+      "textures": "textures/blocks/huge_fungus/warped_planks"
+    },
+    "linesia_wood_arbremonde_emblem": {
+      "textures": "textures/blocks/world/grove/arbremonde/emblem"
+    },
+    "linesia_wood_arbremonde_leaves": {
+      "textures": "textures/blocks/world/grove/arbremonde/leaves"
+    },
+    "linesia_wood_arbremonde_leaves_rich": {
+      "textures": "textures/blocks/world/grove/arbremonde/leaves_rich"
+    },
+    "linesia_wood_arbremonde_log": {
+      "textures": "textures/blocks/world/grove/arbremonde/log"
+    },
+    "linesia_wood_arbremonde_log_top": {
+      "textures": "textures/blocks/world/grove/arbremonde/log_top"
+    },
+    "linesia_wood_arbremonde_sapling": {
+      "textures": "textures/blocks/world/grove/arbremonde/sapling"
+    },
+    "linesia_wood_arbremonde_stump": {
+      "textures": "textures/blocks/world/grove/arbremonde/stump"
+    },
+    "linesia_wood_arbremonde_stump_top": {
+      "textures": "textures/blocks/world/grove/arbremonde/stump_top"
+    },
+    "linesia_wood_astral_emblem": {
+      "textures": "textures/blocks/world/grove/astral/emblem"
+    },
+    "linesia_wood_astral_leaves": {
+      "textures": "textures/blocks/world/grove/astral/leaves"
+    },
+    "linesia_wood_astral_leaves_rich": {
+      "textures": "textures/blocks/world/grove/astral/leaves_rich"
+    },
+    "linesia_wood_astral_log": {
+      "textures": "textures/blocks/world/grove/astral/log"
+    },
+    "linesia_wood_astral_log_top": {
+      "textures": "textures/blocks/world/grove/astral/log_top"
+    },
+    "linesia_wood_astral_sapling": {
+      "textures": "textures/blocks/world/grove/astral/sapling"
+    },
+    "linesia_wood_astral_stump": {
+      "textures": "textures/blocks/world/grove/astral/stump"
+    },
+    "linesia_wood_astral_stump_top": {
+      "textures": "textures/blocks/world/grove/astral/stump_top"
+    },
+    "linesia_wood_bambou_emblem": {
+      "textures": "textures/blocks/world/grove/bambou/emblem"
+    },
+    "linesia_wood_bambou_leaves": {
+      "textures": "textures/blocks/world/grove/bambou/leaves"
+    },
+    "linesia_wood_bambou_leaves_rich": {
+      "textures": "textures/blocks/world/grove/bambou/leaves_rich"
+    },
+    "linesia_wood_bambou_log": {
+      "textures": "textures/blocks/world/grove/bambou/log"
+    },
+    "linesia_wood_bambou_log_top": {
+      "textures": "textures/blocks/world/grove/bambou/log_top"
+    },
+    "linesia_wood_bambou_sapling": {
+      "textures": "textures/blocks/world/grove/bambou/sapling"
+    },
+    "linesia_wood_bambou_stump": {
+      "textures": "textures/blocks/world/grove/bambou/stump"
+    },
+    "linesia_wood_bambou_stump_top": {
+      "textures": "textures/blocks/world/grove/bambou/stump_top"
+    },
+    "linesia_wood_bouleaux_emblem": {
+      "textures": "textures/blocks/world/grove/bouleaux/emblem"
+    },
+    "linesia_wood_bouleaux_leaves": {
+      "textures": "textures/blocks/world/grove/bouleaux/leaves"
+    },
+    "linesia_wood_bouleaux_leaves_rich": {
+      "textures": "textures/blocks/world/grove/bouleaux/leaves_rich"
+    },
+    "linesia_wood_bouleaux_log": {
+      "textures": "textures/blocks/world/grove/bouleaux/log"
+    },
+    "linesia_wood_bouleaux_log_top": {
+      "textures": "textures/blocks/world/grove/bouleaux/log_top"
+    },
+    "linesia_wood_bouleaux_sapling": {
+      "textures": "textures/blocks/world/grove/bouleaux/sapling"
+    },
+    "linesia_wood_bouleaux_stump": {
+      "textures": "textures/blocks/world/grove/bouleaux/stump"
+    },
+    "linesia_wood_bouleaux_stump_top": {
+      "textures": "textures/blocks/world/grove/bouleaux/stump_top"
+    },
+    "linesia_wood_brume_emblem": {
+      "textures": "textures/blocks/world/grove/brume/emblem"
+    },
+    "linesia_wood_brume_leaves": {
+      "textures": "textures/blocks/world/grove/brume/leaves"
+    },
+    "linesia_wood_brume_leaves_rich": {
+      "textures": "textures/blocks/world/grove/brume/leaves_rich"
+    },
+    "linesia_wood_brume_log": {
+      "textures": "textures/blocks/world/grove/brume/log"
+    },
+    "linesia_wood_brume_log_top": {
+      "textures": "textures/blocks/world/grove/brume/log_top"
+    },
+    "linesia_wood_brume_sapling": {
+      "textures": "textures/blocks/world/grove/brume/sapling"
+    },
+    "linesia_wood_brume_stump": {
+      "textures": "textures/blocks/world/grove/brume/stump"
+    },
+    "linesia_wood_brume_stump_top": {
+      "textures": "textures/blocks/world/grove/brume/stump_top"
+    },
+    "linesia_wood_canopee_emblem": {
+      "textures": "textures/blocks/world/grove/canopee/emblem"
+    },
+    "linesia_wood_canopee_leaves": {
+      "textures": "textures/blocks/world/grove/canopee/leaves"
+    },
+    "linesia_wood_canopee_leaves_rich": {
+      "textures": "textures/blocks/world/grove/canopee/leaves_rich"
+    },
+    "linesia_wood_canopee_log": {
+      "textures": "textures/blocks/world/grove/canopee/log"
+    },
+    "linesia_wood_canopee_log_top": {
+      "textures": "textures/blocks/world/grove/canopee/log_top"
+    },
+    "linesia_wood_canopee_sapling": {
+      "textures": "textures/blocks/world/grove/canopee/sapling"
+    },
+    "linesia_wood_canopee_stump": {
+      "textures": "textures/blocks/world/grove/canopee/stump"
+    },
+    "linesia_wood_canopee_stump_top": {
+      "textures": "textures/blocks/world/grove/canopee/stump_top"
+    },
+    "linesia_wood_cendre_emblem": {
+      "textures": "textures/blocks/world/grove/cendre/emblem"
+    },
+    "linesia_wood_cendre_leaves": {
+      "textures": "textures/blocks/world/grove/cendre/leaves"
+    },
+    "linesia_wood_cendre_leaves_rich": {
+      "textures": "textures/blocks/world/grove/cendre/leaves_rich"
+    },
+    "linesia_wood_cendre_log": {
+      "textures": "textures/blocks/world/grove/cendre/log"
+    },
+    "linesia_wood_cendre_log_top": {
+      "textures": "textures/blocks/world/grove/cendre/log_top"
+    },
+    "linesia_wood_cendre_sapling": {
+      "textures": "textures/blocks/world/grove/cendre/sapling"
+    },
+    "linesia_wood_cendre_stump": {
+      "textures": "textures/blocks/world/grove/cendre/stump"
+    },
+    "linesia_wood_cendre_stump_top": {
+      "textures": "textures/blocks/world/grove/cendre/stump_top"
+    },
+    "linesia_wood_champignon_emblem": {
+      "textures": "textures/blocks/world/grove/champignon/emblem"
+    },
+    "linesia_wood_champignon_leaves": {
+      "textures": "textures/blocks/world/grove/champignon/leaves"
+    },
+    "linesia_wood_champignon_leaves_rich": {
+      "textures": "textures/blocks/world/grove/champignon/leaves_rich"
+    },
+    "linesia_wood_champignon_log": {
+      "textures": "textures/blocks/world/grove/champignon/log"
+    },
+    "linesia_wood_champignon_log_top": {
+      "textures": "textures/blocks/world/grove/champignon/log_top"
+    },
+    "linesia_wood_champignon_sapling": {
+      "textures": "textures/blocks/world/grove/champignon/sapling"
+    },
+    "linesia_wood_champignon_stump": {
+      "textures": "textures/blocks/world/grove/champignon/stump"
+    },
+    "linesia_wood_champignon_stump_top": {
+      "textures": "textures/blocks/world/grove/champignon/stump_top"
+    },
+    "linesia_wood_chenaie_emblem": {
+      "textures": "textures/blocks/world/grove/chenaie/emblem"
+    },
+    "linesia_wood_chenaie_leaves": {
+      "textures": "textures/blocks/world/grove/chenaie/leaves"
+    },
+    "linesia_wood_chenaie_leaves_rich": {
+      "textures": "textures/blocks/world/grove/chenaie/leaves_rich"
+    },
+    "linesia_wood_chenaie_log": {
+      "textures": "textures/blocks/world/grove/chenaie/log"
+    },
+    "linesia_wood_chenaie_log_top": {
+      "textures": "textures/blocks/world/grove/chenaie/log_top"
+    },
+    "linesia_wood_chenaie_sapling": {
+      "textures": "textures/blocks/world/grove/chenaie/sapling"
+    },
+    "linesia_wood_chenaie_stump": {
+      "textures": "textures/blocks/world/grove/chenaie/stump"
+    },
+    "linesia_wood_chenaie_stump_top": {
+      "textures": "textures/blocks/world/grove/chenaie/stump_top"
+    },
+    "linesia_wood_cristal_emblem": {
+      "textures": "textures/blocks/world/grove/cristal/emblem"
+    },
+    "linesia_wood_cristal_leaves": {
+      "textures": "textures/blocks/world/grove/cristal/leaves"
+    },
+    "linesia_wood_cristal_leaves_rich": {
+      "textures": "textures/blocks/world/grove/cristal/leaves_rich"
+    },
+    "linesia_wood_cristal_log": {
+      "textures": "textures/blocks/world/grove/cristal/log"
+    },
+    "linesia_wood_cristal_log_top": {
+      "textures": "textures/blocks/world/grove/cristal/log_top"
+    },
+    "linesia_wood_cristal_sapling": {
+      "textures": "textures/blocks/world/grove/cristal/sapling"
+    },
+    "linesia_wood_cristal_stump": {
+      "textures": "textures/blocks/world/grove/cristal/stump"
+    },
+    "linesia_wood_cristal_stump_top": {
+      "textures": "textures/blocks/world/grove/cristal/stump_top"
+    },
+    "linesia_wood_cypres_emblem": {
+      "textures": "textures/blocks/world/grove/cypres/emblem"
+    },
+    "linesia_wood_cypres_leaves": {
+      "textures": "textures/blocks/world/grove/cypres/leaves"
+    },
+    "linesia_wood_cypres_leaves_rich": {
+      "textures": "textures/blocks/world/grove/cypres/leaves_rich"
+    },
+    "linesia_wood_cypres_log": {
+      "textures": "textures/blocks/world/grove/cypres/log"
+    },
+    "linesia_wood_cypres_log_top": {
+      "textures": "textures/blocks/world/grove/cypres/log_top"
+    },
+    "linesia_wood_cypres_sapling": {
+      "textures": "textures/blocks/world/grove/cypres/sapling"
+    },
+    "linesia_wood_cypres_stump": {
+      "textures": "textures/blocks/world/grove/cypres/stump"
+    },
+    "linesia_wood_cypres_stump_top": {
+      "textures": "textures/blocks/world/grove/cypres/stump_top"
+    },
+    "linesia_wood_ebene_emblem": {
+      "textures": "textures/blocks/world/grove/ebene/emblem"
+    },
+    "linesia_wood_ebene_leaves": {
+      "textures": "textures/blocks/world/grove/ebene/leaves"
+    },
+    "linesia_wood_ebene_leaves_rich": {
+      "textures": "textures/blocks/world/grove/ebene/leaves_rich"
+    },
+    "linesia_wood_ebene_log": {
+      "textures": "textures/blocks/world/grove/ebene/log"
+    },
+    "linesia_wood_ebene_log_top": {
+      "textures": "textures/blocks/world/grove/ebene/log_top"
+    },
+    "linesia_wood_ebene_sapling": {
+      "textures": "textures/blocks/world/grove/ebene/sapling"
+    },
+    "linesia_wood_ebene_stump": {
+      "textures": "textures/blocks/world/grove/ebene/stump"
+    },
+    "linesia_wood_ebene_stump_top": {
+      "textures": "textures/blocks/world/grove/ebene/stump_top"
+    },
+    "linesia_wood_erabliere_emblem": {
+      "textures": "textures/blocks/world/grove/erabliere/emblem"
+    },
+    "linesia_wood_erabliere_leaves": {
+      "textures": "textures/blocks/world/grove/erabliere/leaves"
+    },
+    "linesia_wood_erabliere_leaves_rich": {
+      "textures": "textures/blocks/world/grove/erabliere/leaves_rich"
+    },
+    "linesia_wood_erabliere_log": {
+      "textures": "textures/blocks/world/grove/erabliere/log"
+    },
+    "linesia_wood_erabliere_log_top": {
+      "textures": "textures/blocks/world/grove/erabliere/log_top"
+    },
+    "linesia_wood_erabliere_sapling": {
+      "textures": "textures/blocks/world/grove/erabliere/sapling"
+    },
+    "linesia_wood_erabliere_stump": {
+      "textures": "textures/blocks/world/grove/erabliere/stump"
+    },
+    "linesia_wood_erabliere_stump_top": {
+      "textures": "textures/blocks/world/grove/erabliere/stump_top"
+    },
+    "linesia_wood_hameau_emblem": {
+      "textures": "textures/blocks/world/grove/hameau/emblem"
+    },
+    "linesia_wood_hameau_leaves": {
+      "textures": "textures/blocks/world/grove/hameau/leaves"
+    },
+    "linesia_wood_hameau_leaves_rich": {
+      "textures": "textures/blocks/world/grove/hameau/leaves_rich"
+    },
+    "linesia_wood_hameau_log": {
+      "textures": "textures/blocks/world/grove/hameau/log"
+    },
+    "linesia_wood_hameau_log_top": {
+      "textures": "textures/blocks/world/grove/hameau/log_top"
+    },
+    "linesia_wood_hameau_sapling": {
+      "textures": "textures/blocks/world/grove/hameau/sapling"
+    },
+    "linesia_wood_hameau_stump": {
+      "textures": "textures/blocks/world/grove/hameau/stump"
+    },
+    "linesia_wood_hameau_stump_top": {
+      "textures": "textures/blocks/world/grove/hameau/stump_top"
+    },
+    "linesia_wood_heart": {
+      "textures": "textures/blocks/world/grove/common/heart"
+    },
+    "linesia_wood_heart_astral": {
+      "textures": "textures/blocks/world/grove/common/heart_astral"
+    },
+    "linesia_wood_heart_gold": {
+      "textures": "textures/blocks/world/grove/common/heart_gold"
+    },
+    "linesia_wood_hive": {
+      "textures": "textures/blocks/world/grove/common/hive"
+    },
+    "linesia_wood_hive_gold": {
+      "textures": "textures/blocks/world/grove/common/hive_gold"
+    },
+    "linesia_wood_mangrove_emblem": {
+      "textures": "textures/blocks/world/grove/mangrove/emblem"
+    },
+    "linesia_wood_mangrove_leaves": {
+      "textures": "textures/blocks/world/grove/mangrove/leaves"
+    },
+    "linesia_wood_mangrove_leaves_rich": {
+      "textures": "textures/blocks/world/grove/mangrove/leaves_rich"
+    },
+    "linesia_wood_mangrove_log": {
+      "textures": "textures/blocks/world/grove/mangrove/log"
+    },
+    "linesia_wood_mangrove_log_top": {
+      "textures": "textures/blocks/world/grove/mangrove/log_top"
+    },
+    "linesia_wood_mangrove_sapling": {
+      "textures": "textures/blocks/world/grove/mangrove/sapling"
+    },
+    "linesia_wood_mangrove_stump": {
+      "textures": "textures/blocks/world/grove/mangrove/stump"
+    },
+    "linesia_wood_mangrove_stump_top": {
+      "textures": "textures/blocks/world/grove/mangrove/stump_top"
+    },
+    "linesia_wood_neant_emblem": {
+      "textures": "textures/blocks/world/grove/neant/emblem"
+    },
+    "linesia_wood_neant_leaves": {
+      "textures": "textures/blocks/world/grove/neant/leaves"
+    },
+    "linesia_wood_neant_leaves_rich": {
+      "textures": "textures/blocks/world/grove/neant/leaves_rich"
+    },
+    "linesia_wood_neant_log": {
+      "textures": "textures/blocks/world/grove/neant/log"
+    },
+    "linesia_wood_neant_log_top": {
+      "textures": "textures/blocks/world/grove/neant/log_top"
+    },
+    "linesia_wood_neant_sapling": {
+      "textures": "textures/blocks/world/grove/neant/sapling"
+    },
+    "linesia_wood_neant_stump": {
+      "textures": "textures/blocks/world/grove/neant/stump"
+    },
+    "linesia_wood_neant_stump_top": {
+      "textures": "textures/blocks/world/grove/neant/stump_top"
+    },
+    "linesia_wood_noyeraie_emblem": {
+      "textures": "textures/blocks/world/grove/noyeraie/emblem"
+    },
+    "linesia_wood_noyeraie_leaves": {
+      "textures": "textures/blocks/world/grove/noyeraie/leaves"
+    },
+    "linesia_wood_noyeraie_leaves_rich": {
+      "textures": "textures/blocks/world/grove/noyeraie/leaves_rich"
+    },
+    "linesia_wood_noyeraie_log": {
+      "textures": "textures/blocks/world/grove/noyeraie/log"
+    },
+    "linesia_wood_noyeraie_log_top": {
+      "textures": "textures/blocks/world/grove/noyeraie/log_top"
+    },
+    "linesia_wood_noyeraie_sapling": {
+      "textures": "textures/blocks/world/grove/noyeraie/sapling"
+    },
+    "linesia_wood_noyeraie_stump": {
+      "textures": "textures/blocks/world/grove/noyeraie/stump"
+    },
+    "linesia_wood_noyeraie_stump_top": {
+      "textures": "textures/blocks/world/grove/noyeraie/stump_top"
+    },
+    "linesia_wood_oliveraie_emblem": {
+      "textures": "textures/blocks/world/grove/oliveraie/emblem"
+    },
+    "linesia_wood_oliveraie_leaves": {
+      "textures": "textures/blocks/world/grove/oliveraie/leaves"
+    },
+    "linesia_wood_oliveraie_leaves_rich": {
+      "textures": "textures/blocks/world/grove/oliveraie/leaves_rich"
+    },
+    "linesia_wood_oliveraie_log": {
+      "textures": "textures/blocks/world/grove/oliveraie/log"
+    },
+    "linesia_wood_oliveraie_log_top": {
+      "textures": "textures/blocks/world/grove/oliveraie/log_top"
+    },
+    "linesia_wood_oliveraie_sapling": {
+      "textures": "textures/blocks/world/grove/oliveraie/sapling"
+    },
+    "linesia_wood_oliveraie_stump": {
+      "textures": "textures/blocks/world/grove/oliveraie/stump"
+    },
+    "linesia_wood_oliveraie_stump_top": {
+      "textures": "textures/blocks/world/grove/oliveraie/stump_top"
+    },
+    "linesia_wood_ossements_emblem": {
+      "textures": "textures/blocks/world/grove/ossements/emblem"
+    },
+    "linesia_wood_ossements_leaves": {
+      "textures": "textures/blocks/world/grove/ossements/leaves"
+    },
+    "linesia_wood_ossements_leaves_rich": {
+      "textures": "textures/blocks/world/grove/ossements/leaves_rich"
+    },
+    "linesia_wood_ossements_log": {
+      "textures": "textures/blocks/world/grove/ossements/log"
+    },
+    "linesia_wood_ossements_log_top": {
+      "textures": "textures/blocks/world/grove/ossements/log_top"
+    },
+    "linesia_wood_ossements_sapling": {
+      "textures": "textures/blocks/world/grove/ossements/sapling"
+    },
+    "linesia_wood_ossements_stump": {
+      "textures": "textures/blocks/world/grove/ossements/stump"
+    },
+    "linesia_wood_ossements_stump_top": {
+      "textures": "textures/blocks/world/grove/ossements/stump_top"
+    },
+    "linesia_wood_pinede_emblem": {
+      "textures": "textures/blocks/world/grove/pinede/emblem"
+    },
+    "linesia_wood_pinede_leaves": {
+      "textures": "textures/blocks/world/grove/pinede/leaves"
+    },
+    "linesia_wood_pinede_leaves_rich": {
+      "textures": "textures/blocks/world/grove/pinede/leaves_rich"
+    },
+    "linesia_wood_pinede_log": {
+      "textures": "textures/blocks/world/grove/pinede/log"
+    },
+    "linesia_wood_pinede_log_top": {
+      "textures": "textures/blocks/world/grove/pinede/log_top"
+    },
+    "linesia_wood_pinede_sapling": {
+      "textures": "textures/blocks/world/grove/pinede/sapling"
+    },
+    "linesia_wood_pinede_stump": {
+      "textures": "textures/blocks/world/grove/pinede/stump"
+    },
+    "linesia_wood_pinede_stump_top": {
+      "textures": "textures/blocks/world/grove/pinede/stump_top"
+    },
+    "linesia_wood_sakura_emblem": {
+      "textures": "textures/blocks/world/grove/sakura/emblem"
+    },
+    "linesia_wood_sakura_leaves": {
+      "textures": "textures/blocks/world/grove/sakura/leaves"
+    },
+    "linesia_wood_sakura_leaves_rich": {
+      "textures": "textures/blocks/world/grove/sakura/leaves_rich"
+    },
+    "linesia_wood_sakura_log": {
+      "textures": "textures/blocks/world/grove/sakura/log"
+    },
+    "linesia_wood_sakura_log_top": {
+      "textures": "textures/blocks/world/grove/sakura/log_top"
+    },
+    "linesia_wood_sakura_sapling": {
+      "textures": "textures/blocks/world/grove/sakura/sapling"
+    },
+    "linesia_wood_sakura_stump": {
+      "textures": "textures/blocks/world/grove/sakura/stump"
+    },
+    "linesia_wood_sakura_stump_top": {
+      "textures": "textures/blocks/world/grove/sakura/stump_top"
+    },
+    "linesia_wood_sanguine_emblem": {
+      "textures": "textures/blocks/world/grove/sanguine/emblem"
+    },
+    "linesia_wood_sanguine_leaves": {
+      "textures": "textures/blocks/world/grove/sanguine/leaves"
+    },
+    "linesia_wood_sanguine_leaves_rich": {
+      "textures": "textures/blocks/world/grove/sanguine/leaves_rich"
+    },
+    "linesia_wood_sanguine_log": {
+      "textures": "textures/blocks/world/grove/sanguine/log"
+    },
+    "linesia_wood_sanguine_log_top": {
+      "textures": "textures/blocks/world/grove/sanguine/log_top"
+    },
+    "linesia_wood_sanguine_sapling": {
+      "textures": "textures/blocks/world/grove/sanguine/sapling"
+    },
+    "linesia_wood_sanguine_stump": {
+      "textures": "textures/blocks/world/grove/sanguine/stump"
+    },
+    "linesia_wood_sanguine_stump_top": {
+      "textures": "textures/blocks/world/grove/sanguine/stump_top"
+    },
+    "linesia_wood_saulaie_emblem": {
+      "textures": "textures/blocks/world/grove/saulaie/emblem"
+    },
+    "linesia_wood_saulaie_leaves": {
+      "textures": "textures/blocks/world/grove/saulaie/leaves"
+    },
+    "linesia_wood_saulaie_leaves_rich": {
+      "textures": "textures/blocks/world/grove/saulaie/leaves_rich"
+    },
+    "linesia_wood_saulaie_log": {
+      "textures": "textures/blocks/world/grove/saulaie/log"
+    },
+    "linesia_wood_saulaie_log_top": {
+      "textures": "textures/blocks/world/grove/saulaie/log_top"
+    },
+    "linesia_wood_saulaie_sapling": {
+      "textures": "textures/blocks/world/grove/saulaie/sapling"
+    },
+    "linesia_wood_saulaie_stump": {
+      "textures": "textures/blocks/world/grove/saulaie/stump"
+    },
+    "linesia_wood_saulaie_stump_top": {
+      "textures": "textures/blocks/world/grove/saulaie/stump_top"
+    },
+    "linesia_wood_scierie_emblem": {
+      "textures": "textures/blocks/world/grove/scierie/emblem"
+    },
+    "linesia_wood_scierie_leaves": {
+      "textures": "textures/blocks/world/grove/scierie/leaves"
+    },
+    "linesia_wood_scierie_leaves_rich": {
+      "textures": "textures/blocks/world/grove/scierie/leaves_rich"
+    },
+    "linesia_wood_scierie_log": {
+      "textures": "textures/blocks/world/grove/scierie/log"
+    },
+    "linesia_wood_scierie_log_top": {
+      "textures": "textures/blocks/world/grove/scierie/log_top"
+    },
+    "linesia_wood_scierie_sapling": {
+      "textures": "textures/blocks/world/grove/scierie/sapling"
+    },
+    "linesia_wood_scierie_stump": {
+      "textures": "textures/blocks/world/grove/scierie/stump"
+    },
+    "linesia_wood_scierie_stump_top": {
+      "textures": "textures/blocks/world/grove/scierie/stump_top"
+    },
+    "linesia_wood_sequoias_emblem": {
+      "textures": "textures/blocks/world/grove/sequoias/emblem"
+    },
+    "linesia_wood_sequoias_leaves": {
+      "textures": "textures/blocks/world/grove/sequoias/leaves"
+    },
+    "linesia_wood_sequoias_leaves_rich": {
+      "textures": "textures/blocks/world/grove/sequoias/leaves_rich"
+    },
+    "linesia_wood_sequoias_log": {
+      "textures": "textures/blocks/world/grove/sequoias/log"
+    },
+    "linesia_wood_sequoias_log_top": {
+      "textures": "textures/blocks/world/grove/sequoias/log_top"
+    },
+    "linesia_wood_sequoias_sapling": {
+      "textures": "textures/blocks/world/grove/sequoias/sapling"
+    },
+    "linesia_wood_sequoias_stump": {
+      "textures": "textures/blocks/world/grove/sequoias/stump"
+    },
+    "linesia_wood_sequoias_stump_top": {
+      "textures": "textures/blocks/world/grove/sequoias/stump_top"
+    },
+    "linesia_wood_taiga_emblem": {
+      "textures": "textures/blocks/world/grove/taiga/emblem"
+    },
+    "linesia_wood_taiga_leaves": {
+      "textures": "textures/blocks/world/grove/taiga/leaves"
+    },
+    "linesia_wood_taiga_leaves_rich": {
+      "textures": "textures/blocks/world/grove/taiga/leaves_rich"
+    },
+    "linesia_wood_taiga_log": {
+      "textures": "textures/blocks/world/grove/taiga/log"
+    },
+    "linesia_wood_taiga_log_top": {
+      "textures": "textures/blocks/world/grove/taiga/log_top"
+    },
+    "linesia_wood_taiga_sapling": {
+      "textures": "textures/blocks/world/grove/taiga/sapling"
+    },
+    "linesia_wood_taiga_stump": {
+      "textures": "textures/blocks/world/grove/taiga/stump"
+    },
+    "linesia_wood_taiga_stump_top": {
+      "textures": "textures/blocks/world/grove/taiga/stump_top"
+    },
+    "mahogany_sapling": {
+      "textures": "textures/blocks/sapling/mahogany_sapling"
+    },
+    "maple_sapling": {
+      "textures": "textures/blocks/sapling/maple_sapling"
+    },
+    "nether_onyx_random_ore": {
+      "textures": "textures/blocks/nether_onyx_random_ore"
+    },
+    "nether_rubis_ore": {
+      "textures": "textures/blocks/nether_rubis_ore"
+    },
+    "nether_rubis_random_ore": {
+      "textures": "textures/blocks/nether_rubis_random_ore"
+    },
+    "obsidian2": {
+      "textures": "textures/blocks/obsidian"
+    },
+    "obsidian2_1": {
+      "textures": "textures/blocks/obsidian_1"
+    },
+    "obsidian2_2": {
+      "textures": "textures/blocks/obsidian_2"
+    },
+    "obsidian_door_1_lower": {
+      "textures": "textures/blocks/obsidian_1"
+    },
+    "obsidian_door_1_upper": {
+      "textures": "textures/blocks/obsidian_1_door_upper"
+    },
+    "obsidian_door_2_lower": {
+      "textures": "textures/blocks/obsidian_2"
+    },
+    "obsidian_door_2_upper": {
+      "textures": "textures/blocks/obsidian_2_door_upper"
+    },
+    "obsidian_door_lower": {
+      "textures": "textures/blocks/obsidian"
+    },
+    "obsidian_door_upper": {
+      "textures": "textures/blocks/obsidian_door_upper"
+    },
+    "obsidian_fence": {
+      "textures": "textures/blocks/obsidian"
+    },
+    "obsidian_fence_1": {
+      "textures": "textures/blocks/obsidian_1"
+    },
+    "obsidian_fence_2": {
+      "textures": "textures/blocks/obsidian_2"
+    },
+    "obsidian_fence_gate": {
+      "textures": "textures/blocks/obsidian"
+    },
+    "obsidian_fence_gate_1": {
+      "textures": "textures/blocks/obsidian_1"
+    },
+    "obsidian_fence_gate_2": {
+      "textures": "textures/blocks/obsidian_2"
+    },
+    "obsidian_trapdoor": {
+      "textures": "textures/blocks/obsidian_trapdoor"
+    },
+    "obsidian_trapdoor_1": {
+      "textures": "textures/blocks/obsidian_trapdoor_1"
+    },
+    "obsidian_trapdoor_2": {
+      "textures": "textures/blocks/obsidian_trapdoor_2"
+    },
+    "onyx_ore": {
+      "textures": "textures/blocks/onyx_ore"
+    },
+    "onyx_random_ore": {
+      "textures": "textures/blocks/onyx_random_ore"
+    },
+    "onyx_tree_sapling": {
+      "textures": "textures/blocks/sapling/onyx_tree_sapling"
+    },
+    "ore_generator_t1": {
+      "textures": "textures/blocks/ore_generator_t1"
+    },
+    "ore_generator_t2": {
+      "textures": "textures/blocks/ore_generator_t2"
+    },
+    "ore_generator_t3": {
+      "textures": "textures/blocks/ore_generator_t3"
+    },
+    "pigman_generator": {
+      "textures": "textures/blocks/pigman_generator"
+    },
+    "rain_tree_sapling": {
+      "textures": "textures/blocks/sapling/rain_tree_sapling"
+    },
+    "rosewood_sapling": {
+      "textures": "textures/blocks/sapling/rosewood_sapling"
+    },
+    "rubis_ore": {
+      "textures": "textures/blocks/rubis_ore"
+    },
+    "rubis_random_ore": {
+      "textures": "textures/blocks/rubis_random_ore"
+    },
+    "rubis_tree_sapling": {
+      "textures": "textures/blocks/sapling/rubis_tree_sapling"
+    },
+    "sapling_oak": {
+      "textures": "textures/blocks/sapling_oak"
+    },
+    "teak_sapling": {
+      "textures": "textures/blocks/sapling/teak_sapling"
+    },
+    "void_bloom": {
+      "textures": "textures/blocks/end/void_bloom"
+    },
+    "void_bloom_cut": {
+      "textures": "textures/blocks/end/void_bloom_cut"
+    },
+    "voidwood_sapling": {
+      "textures": "textures/blocks/sapling/voidwood_sapling"
+    },
+    "walnut_sapling": {
+      "textures": "textures/blocks/sapling/walnut_sapling"
+    },
+    "whiter_generator": {
+      "textures": "textures/blocks/whiter_generator"
+    },
+    "worm_dirt": {
+      "textures": "textures/blocks/worm_dirt"
+    },
+    "zombie_generator": {
+      "textures": "textures/blocks/zombie_generator"
     }
   },
   "texture_name": "atlas.terrain"

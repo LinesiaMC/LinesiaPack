@@ -2,194 +2,80 @@
   "resource_pack_name": "Linesia",
   "texture_name": "atlas.items",
   "texture_data": {
-    "sapling_oak": {
-      "textures": "textures/blocks/sapling_oak"
+    "afzelia_bark": {
+      "textures": "textures/items/wood_bark/afzelia_bark"
     },
-    "amethyste_helmet": {
-      "textures": "textures/items/armors/amethyste_helmet"
-    },
-    "amethyste_chestplate": {
-      "textures": "textures/items/armors/amethyste_chestplate"
-    },
-    "amethyste_leggings": {
-      "textures": "textures/items/armors/amethyste_leggings"
-    },
-    "amethyste_boots": {
-      "textures": "textures/items/armors/amethyste_boots"
-    },
-    "rubis_helmet": {
-      "textures": "textures/items/armors/rubis_helmet"
-    },
-    "rubis_chestplate": {
-      "textures": "textures/items/armors/rubis_chestplate"
-    },
-    "rubis_leggings": {
-      "textures": "textures/items/armors/rubis_leggings"
-    },
-    "rubis_boots": {
-      "textures": "textures/items/armors/rubis_boots"
-    },
-    "onyx_helmet": {
-      "textures": "textures/items/armors/onyx_helmet"
-    },
-    "onyx_chestplate": {
-      "textures": "textures/items/armors/onyx_chestplate"
-    },
-    "onyx_leggings": {
-      "textures": "textures/items/armors/onyx_leggings"
-    },
-    "onyx_boots": {
-      "textures": "textures/items/armors/onyx_boots"
-    },
-    "farm_helmet": {
-      "textures": "textures/items/armors/farm_helmet"
-    },
-    "farm_chestplate": {
-      "textures": "textures/items/armors/farm_chestplate"
-    },
-    "farm_leggings": {
-      "textures": "textures/items/armors/farm_leggings"
-    },
-    "farm_boots": {
-      "textures": "textures/items/armors/farm_boots"
-    },
-    "amethyste_ingot": {
-      "textures": "textures/items/ingot/amethyste_ingot"
-    },
-    "rubis_fragement": {
-      "textures": "textures/items/ingot/rubis_fragement"
-    },
-    "onyx_fragement": {
-      "textures": "textures/items/ingot/onyx_fragement"
-    },
-    "rubis_ingot": {
-      "textures": "textures/items/ingot/rubis_ingot"
-    },
-    "steel_ingot": {
-      "textures": "textures/items/ingot/steel_ingot"
-    },
-    "ash_sapling": {
-      "textures": "textures/blocks/sapling/ash_sapling"
-    },
-    "cedar_sapling": {
-      "textures": "textures/blocks/sapling/cedar_sapling"
-    },
-    "mahogany_sapling": {
-      "textures": "textures/blocks/sapling/mahogany_sapling"
-    },
-    "maple_sapling": {
-      "textures": "textures/blocks/sapling/maple_sapling"
-    },
-    "rain_tree_sapling": {
-      "textures": "textures/blocks/sapling/rain_tree_sapling"
-    },
-    "rosewood_sapling": {
-      "textures": "textures/blocks/sapling/rosewood_sapling"
-    },
-    "teak_sapling": {
-      "textures": "textures/blocks/sapling/teak_sapling"
-    },
-    "walnut_sapling": {
-      "textures": "textures/blocks/sapling/walnut_sapling"
-    },
-    "double_xp_potion": {
-      "textures": "textures/items/doublexp/double_xp_potion"
-    },
-    "double_xp_potion_farmeur": {
-      "textures": "textures/items/doublexp/double_xp_potion_farmeur"
-    },
-    "double_xp_potion_mineur": {
-      "textures": "textures/items/doublexp/double_xp_potion_mineur"
-    },
-    "double_xp_potion_guerrier": {
-      "textures": "textures/items/doublexp/double_xp_potion_guerrier"
-    },
-    "double_xp_potion_bucheron": {
-      "textures": "textures/items/doublexp/double_xp_potion_bucheron"
-    },
-    "double_xp_potion_pecheur": {
-      "textures": "textures/items/doublexp/double_xp_potion_pecheur"
-    },
-    "fly_paper_10m": {
-      "textures": "textures/items/flypaper/fly_paper_10m"
-    },
-    "fly_paper_30m": {
-      "textures": "textures/items/flypaper/fly_paper_30m"
-    },
-    "fly_paper_1h": {
-      "textures": "textures/items/flypaper/fly_paper_1h"
-    },
-    "onyx_ingot": {
-      "textures": "textures/items/ingot/onyx_ingot"
-    },
-    "onyx_brisure": {
-      "textures": "textures/items/ingot/onyx_brisure"
-    },
-    "amethyste_sword": {
-      "textures": "textures/items/sword/amethyste_sword"
-    },
-    "rubis_sword": {
-      "textures": "textures/items/sword/rubis_sword"
-    },
-    "onyx_sword": {
-      "textures": "textures/items/sword/onyx_sword"
-    },
-    "amethyste_hoe": {
-      "textures": "textures/items/tools/amethyste_hoe"
-    },
-    "rubis_hoe": {
-      "textures": "textures/items/tools/rubis_hoe"
-    },
-    "onyx_hoe": {
-      "textures": "textures/items/tools/onyx_hoe"
-    },
-    "amethyste_pickaxe": {
-      "textures": "textures/items/tools/amethyste_pickaxe"
-    },
-    "rubis_pickaxe": {
-      "textures": "textures/items/tools/rubis_pickaxe"
-    },
-    "onyx_pickaxe": {
-      "textures": "textures/items/tools/onyx_pickaxe"
+    "amethyste_apple": {
+      "textures": "textures/items/apple/amethyste_apple"
     },
     "amethyste_axe": {
       "textures": "textures/items/tools/amethyste_axe"
     },
-    "rubis_axe": {
-      "textures": "textures/items/tools/rubis_axe"
+    "amethyste_boots": {
+      "textures": "textures/items/armors/amethyste_boots"
     },
-    "onyx_axe": {
-      "textures": "textures/items/tools/onyx_axe"
+    "amethyste_boots_lumineux": {
+      "textures": "textures/items/armors/amethyste_boots_lumineux"
+    },
+    "amethyste_boots_royal": {
+      "textures": "textures/items/armors/amethyste_boots_royal"
+    },
+    "amethyste_boots_tenebreux": {
+      "textures": "textures/items/armors/amethyste_boots_tenebreux"
+    },
+    "amethyste_chestplate": {
+      "textures": "textures/items/armors/amethyste_chestplate"
+    },
+    "amethyste_chestplate_lumineux": {
+      "textures": "textures/items/armors/amethyste_chestplate_lumineux"
+    },
+    "amethyste_chestplate_royal": {
+      "textures": "textures/items/armors/amethyste_chestplate_royal"
+    },
+    "amethyste_chestplate_tenebreux": {
+      "textures": "textures/items/armors/amethyste_chestplate_tenebreux"
+    },
+    "amethyste_helmet": {
+      "textures": "textures/items/armors/amethyste_helmet"
+    },
+    "amethyste_helmet_lumineux": {
+      "textures": "textures/items/armors/amethyste_helmet_lumineux"
+    },
+    "amethyste_helmet_royal": {
+      "textures": "textures/items/armors/amethyste_helmet_royal"
+    },
+    "amethyste_helmet_tenebreux": {
+      "textures": "textures/items/armors/amethyste_helmet_tenebreux"
+    },
+    "amethyste_hoe": {
+      "textures": "textures/items/tools/amethyste_hoe"
+    },
+    "amethyste_ingot": {
+      "textures": "textures/items/ingot/amethyste_ingot"
+    },
+    "amethyste_leggings": {
+      "textures": "textures/items/armors/amethyste_leggings"
+    },
+    "amethyste_leggings_lumineux": {
+      "textures": "textures/items/armors/amethyste_leggings_lumineux"
+    },
+    "amethyste_leggings_royal": {
+      "textures": "textures/items/armors/amethyste_leggings_royal"
+    },
+    "amethyste_leggings_tenebreux": {
+      "textures": "textures/items/armors/amethyste_leggings_tenebreux"
+    },
+    "amethyste_pickaxe": {
+      "textures": "textures/items/tools/amethyste_pickaxe"
     },
     "amethyste_shovel": {
       "textures": "textures/items/tools/amethyste_shovel"
     },
-    "rubis_shovel": {
-      "textures": "textures/items/tools/rubis_shovel"
+    "amethyste_sword": {
+      "textures": "textures/items/sword/amethyste_sword"
     },
-    "onyx_shovel": {
-      "textures": "textures/items/tools/onyx_shovel"
-    },
-    "key_commun": {
-      "textures": "textures/items/key/key_commun"
-    },
-    "key_farm": {
-      "textures": "textures/items/key/key_farm"
-    },
-    "key_rare": {
-      "textures": "textures/items/key/key_rare"
-    },
-    "key_epic": {
-      "textures": "textures/items/key/key_epic"
-    },
-    "key_legendary": {
-      "textures": "textures/items/key/key_legendary"
-    },
-    "pocket_box": {
-      "textures": "textures/items/pocketbox/pocket_box"
-    },
-    "view_stick": {
-      "textures": "textures/items/stick/view_stick"
+    "antiback_stick": {
+      "textures": "textures/items/stick/antiback_stick"
     },
     "antibuild_stick": {
       "textures": "textures/items/stick/antibuild_stick"
@@ -197,98 +83,32 @@
     "antiitem_stick": {
       "textures": "textures/items/stick/antiitem_stick"
     },
-    "antiback_stick": {
-      "textures": "textures/items/stick/antiback_stick"
-    },
     "antipearl_stick": {
       "textures": "textures/items/stick/antipearl_stick"
     },
-    "switch_ball": {
-      "textures": "textures/items/item/switch_ball"
+    "ash_bark": {
+      "textures": "textures/items/wood_bark/ash_bark"
     },
-    "web_trap": {
-      "textures": "textures/items/item/web_trap"
+    "ash_sapling": {
+      "textures": "textures/blocks/sapling/ash_sapling"
+    },
+    "astral_bark": {
+      "textures": "textures/items/wood_bark/astral_bark"
+    },
+    "astral_sapling": {
+      "textures": "textures/blocks/sapling/astral_sapling"
     },
     "bump": {
       "textures": "textures/items/stick/bump"
     },
-    "effects_stick": {
-      "textures": "textures/items/stick/effects_stick"
-    },
-    "freeze_stick": {
-      "textures": "textures/items/stick/freeze_stick"
-    },
-    "god_of_stick": {
-      "textures": "textures/items/stick/god_of_stick"
-    },
-    "repair_stick": {
-      "textures": "textures/items/stick/repair_stick"
-    },
-    "tp_stick": {
-      "textures": "textures/items/stick/tp_stick"
-    },
-    "foudre_stick": {
-      "textures": "textures/items/stick/foudre_stick"
-    },
-    "size_stick": {
-      "textures": "textures/items/stick/size_stick"
-    },
-    "seedplanter": {
-      "textures": "textures/items/item/seedplanter"
+    "carp": {
+      "textures": "textures/items/fish/carp"
     },
     "cash": {
       "textures": "textures/items/item/cash"
     },
     "cash_token": {
       "textures": "textures/items/item/cash_token"
-    },
-    "healing_heart": {
-      "textures": "textures/items/item/healing_heart"
-    },
-    "zombie_gemme": {
-      "textures": "textures/items/item/zombie_gemme"
-    },
-    "enderman_gemme": {
-      "textures": "textures/items/item/enderman_gemme"
-    },
-    "carp": {
-      "textures": "textures/items/fish/carp"
-    },
-    "goldfish": {
-      "textures": "textures/items/fish/goldfish"
-    },
-    "perch": {
-      "textures": "textures/items/fish/perch"
-    },
-    "piranha": {
-      "textures": "textures/items/fish/piranha"
-    },
-    "red_shrooma": {
-      "textures": "textures/items/fish/red_shrooma"
-    },
-    "worm": {
-      "textures": "textures/items/fish/worm"
-    },
-    "rock_fish": {
-      "textures": "textures/items/fish/rock_fish"
-    },
-    "magma_fish": {
-      "textures": "textures/items/fish/magma_fish"
-    },
-    "golden_fish": {
-      "textures": "textures/items/fish/golden_fish"
-    },
-    "rubis_fishing_rod": {
-      "textures": "textures/items/rubis_fishing_rod"
-    },
-    "monolith": {
-      "textures": "textures/items/item/monolith"
-    },
-    "afzelia_bark": {
-      "textures": "textures/items/wood_bark/afzelia_bark"
-    },
-    "ash_bark": {
-      "textures": "textures/items/wood_bark/ash_bark"
     },
     "cassia_bark": {
       "textures": "textures/items/wood_bark/cassia_bark"
@@ -299,92 +119,20 @@
     "cedar_bark": {
       "textures": "textures/items/wood_bark/cedar_bark"
     },
-    "eucalyptus_bark": {
-      "textures": "textures/items/wood_bark/eucalyptus_bark"
+    "cedar_sapling": {
+      "textures": "textures/blocks/sapling/cedar_sapling"
     },
-    "hickory_bark": {
-      "textures": "textures/items/wood_bark/hickory_bark"
-    },
-    "mahogany_bark": {
-      "textures": "textures/items/wood_bark/mahogany_bark"
-    },
-    "maple_bark": {
-      "textures": "textures/items/wood_bark/maple_bark"
-    },
-    "pterocarpus_bark": {
-      "textures": "textures/items/wood_bark/pterocarpus_bark"
-    },
-    "rain_tree_bark": {
-      "textures": "textures/items/wood_bark/rain_tree_bark"
-    },
-    "rosewood_bark": {
-      "textures": "textures/items/wood_bark/rosewood_bark"
-    },
-    "softwood_bark": {
-      "textures": "textures/items/wood_bark/softwood_bark"
-    },
-    "teak_bark": {
-      "textures": "textures/items/wood_bark/teak_bark"
-    },
-    "walnut_bark": {
-      "textures": "textures/items/wood_bark/walnut_bark"
-    },
-    "xylia_bark": {
-      "textures": "textures/items/wood_bark/xylia_bark"
-    },
-    "diamant_helmet": {
-      "textures": "textures/items/diamond_helmet"
-    },
-    "diamant_chestplate": {
-      "textures": "textures/items/diamond_chestplate"
-    },
-    "diamant_leggings": {
-      "textures": "textures/items/diamond_leggings"
-    },
-    "diamant_boots": {
-      "textures": "textures/items/diamond_boots"
-    },
-    "diamant_sword": {
-      "textures": "textures/items/diamond_sword"
-    },
-    "diamant_pickaxe": {
-      "textures": "textures/items/diamond_pickaxe"
+    "chorus_bulb": {
+      "textures": "textures/items/end/chorus_bulb"
     },
     "diamant_axe": {
       "textures": "textures/items/diamond_axe"
     },
-    "diamant_shovel": {
-      "textures": "textures/items/diamond_shovel"
+    "diamant_boots": {
+      "textures": "textures/items/diamond_boots"
     },
-    "diamant_hoe": {
-      "textures": "textures/items/diamond_hoe"
-    },
-    "diamant_helmet_royal": {
-      "textures": "textures/items/armors/diamant_helmet_royal"
-    },
-    "diamant_helmet_tenebreux": {
-      "textures": "textures/items/armors/diamant_helmet_tenebreux"
-    },
-    "diamant_helmet_lumineux": {
-      "textures": "textures/items/armors/diamant_helmet_lumineux"
-    },
-    "diamant_chestplate_royal": {
-      "textures": "textures/items/armors/diamant_chestplate_royal"
-    },
-    "diamant_chestplate_tenebreux": {
-      "textures": "textures/items/armors/diamant_chestplate_tenebreux"
-    },
-    "diamant_chestplate_lumineux": {
-      "textures": "textures/items/armors/diamant_chestplate_lumineux"
-    },
-    "diamant_leggings_royal": {
-      "textures": "textures/items/armors/diamant_leggings_royal"
-    },
-    "diamant_leggings_tenebreux": {
-      "textures": "textures/items/armors/diamant_leggings_tenebreux"
-    },
-    "diamant_leggings_lumineux": {
-      "textures": "textures/items/armors/diamant_leggings_lumineux"
+    "diamant_boots_lumineux": {
+      "textures": "textures/items/armors/diamant_boots_lumineux"
     },
     "diamant_boots_royal": {
       "textures": "textures/items/armors/diamant_boots_royal"
@@ -392,236 +140,95 @@
     "diamant_boots_tenebreux": {
       "textures": "textures/items/armors/diamant_boots_tenebreux"
     },
-    "diamant_boots_lumineux": {
-      "textures": "textures/items/armors/diamant_boots_lumineux"
+    "diamant_chestplate": {
+      "textures": "textures/items/diamond_chestplate"
     },
-    "amethyste_helmet_royal": {
-      "textures": "textures/items/armors/amethyste_helmet_royal"
+    "diamant_chestplate_lumineux": {
+      "textures": "textures/items/armors/diamant_chestplate_lumineux"
     },
-    "amethyste_helmet_tenebreux": {
-      "textures": "textures/items/armors/amethyste_helmet_tenebreux"
+    "diamant_chestplate_royal": {
+      "textures": "textures/items/armors/diamant_chestplate_royal"
     },
-    "amethyste_helmet_lumineux": {
-      "textures": "textures/items/armors/amethyste_helmet_lumineux"
+    "diamant_chestplate_tenebreux": {
+      "textures": "textures/items/armors/diamant_chestplate_tenebreux"
     },
-    "amethyste_chestplate_royal": {
-      "textures": "textures/items/armors/amethyste_chestplate_royal"
+    "diamant_helmet": {
+      "textures": "textures/items/diamond_helmet"
     },
-    "amethyste_chestplate_tenebreux": {
-      "textures": "textures/items/armors/amethyste_chestplate_tenebreux"
+    "diamant_helmet_lumineux": {
+      "textures": "textures/items/armors/diamant_helmet_lumineux"
     },
-    "amethyste_chestplate_lumineux": {
-      "textures": "textures/items/armors/amethyste_chestplate_lumineux"
+    "diamant_helmet_royal": {
+      "textures": "textures/items/armors/diamant_helmet_royal"
     },
-    "amethyste_leggings_royal": {
-      "textures": "textures/items/armors/amethyste_leggings_royal"
+    "diamant_helmet_tenebreux": {
+      "textures": "textures/items/armors/diamant_helmet_tenebreux"
     },
-    "amethyste_leggings_tenebreux": {
-      "textures": "textures/items/armors/amethyste_leggings_tenebreux"
+    "diamant_hoe": {
+      "textures": "textures/items/diamond_hoe"
     },
-    "amethyste_leggings_lumineux": {
-      "textures": "textures/items/armors/amethyste_leggings_lumineux"
+    "diamant_leggings": {
+      "textures": "textures/items/diamond_leggings"
     },
-    "amethyste_boots_royal": {
-      "textures": "textures/items/armors/amethyste_boots_royal"
+    "diamant_leggings_lumineux": {
+      "textures": "textures/items/armors/diamant_leggings_lumineux"
     },
-    "amethyste_boots_tenebreux": {
-      "textures": "textures/items/armors/amethyste_boots_tenebreux"
+    "diamant_leggings_royal": {
+      "textures": "textures/items/armors/diamant_leggings_royal"
     },
-    "amethyste_boots_lumineux": {
-      "textures": "textures/items/armors/amethyste_boots_lumineux"
+    "diamant_leggings_tenebreux": {
+      "textures": "textures/items/armors/diamant_leggings_tenebreux"
     },
-    "rubis_helmet_royal": {
-      "textures": "textures/items/armors/rubis_helmet_royal"
+    "diamant_pickaxe": {
+      "textures": "textures/items/diamond_pickaxe"
     },
-    "rubis_helmet_tenebreux": {
-      "textures": "textures/items/armors/rubis_helmet_tenebreux"
+    "diamant_shovel": {
+      "textures": "textures/items/diamond_shovel"
     },
-    "rubis_helmet_lumineux": {
-      "textures": "textures/items/armors/rubis_helmet_lumineux"
-    },
-    "rubis_chestplate_royal": {
-      "textures": "textures/items/armors/rubis_chestplate_royal"
-    },
-    "rubis_chestplate_tenebreux": {
-      "textures": "textures/items/armors/rubis_chestplate_tenebreux"
-    },
-    "rubis_chestplate_lumineux": {
-      "textures": "textures/items/armors/rubis_chestplate_lumineux"
-    },
-    "rubis_leggings_royal": {
-      "textures": "textures/items/armors/rubis_leggings_royal"
-    },
-    "rubis_leggings_tenebreux": {
-      "textures": "textures/items/armors/rubis_leggings_tenebreux"
-    },
-    "rubis_leggings_lumineux": {
-      "textures": "textures/items/armors/rubis_leggings_lumineux"
-    },
-    "rubis_boots_royal": {
-      "textures": "textures/items/armors/rubis_boots_royal"
-    },
-    "rubis_boots_tenebreux": {
-      "textures": "textures/items/armors/rubis_boots_tenebreux"
-    },
-    "rubis_boots_lumineux": {
-      "textures": "textures/items/armors/rubis_boots_lumineux"
-    },
-    "onyx_helmet_royal": {
-      "textures": "textures/items/armors/onyx_helmet_royal"
-    },
-    "onyx_helmet_tenebreux": {
-      "textures": "textures/items/armors/onyx_helmet_tenebreux"
-    },
-    "onyx_helmet_lumineux": {
-      "textures": "textures/items/armors/onyx_helmet_lumineux"
-    },
-    "onyx_chestplate_royal": {
-      "textures": "textures/items/armors/onyx_chestplate_royal"
-    },
-    "onyx_chestplate_tenebreux": {
-      "textures": "textures/items/armors/onyx_chestplate_tenebreux"
-    },
-    "onyx_chestplate_lumineux": {
-      "textures": "textures/items/armors/onyx_chestplate_lumineux"
-    },
-    "onyx_leggings_royal": {
-      "textures": "textures/items/armors/onyx_leggings_royal"
-    },
-    "onyx_leggings_tenebreux": {
-      "textures": "textures/items/armors/onyx_leggings_tenebreux"
-    },
-    "onyx_leggings_lumineux": {
-      "textures": "textures/items/armors/onyx_leggings_lumineux"
-    },
-    "onyx_boots_royal": {
-      "textures": "textures/items/armors/onyx_boots_royal"
-    },
-    "onyx_boots_tenebreux": {
-      "textures": "textures/items/armors/onyx_boots_tenebreux"
-    },
-    "onyx_boots_lumineux": {
-      "textures": "textures/items/armors/onyx_boots_lumineux"
-    },
-    "voidwood_bark": {
-      "textures": "textures/items/wood_bark/voidwood_bark"
-    },
-    "astral_bark": {
-      "textures": "textures/items/wood_bark/astral_bark"
-    },
-    "voidwood_sapling": {
-      "textures": "textures/blocks/sapling/voidwood_sapling"
-    },
-    "astral_sapling": {
-      "textures": "textures/blocks/sapling/astral_sapling"
-    },
-    "void_petal": {
-      "textures": "textures/items/end/void_petal"
-    },
-    "ender_berry": {
-      "textures": "textures/items/end/ender_berry"
-    },
-    "chorus_bulb": {
-      "textures": "textures/items/end/chorus_bulb"
-    },
-    "magma_larva": {
-      "textures": "textures/items/fish/magma_larva"
-    },
-    "amethyste_apple": {
-      "textures": "textures/items/apple/amethyste_apple"
-    },
-    "rubis_apple": {
-      "textures": "textures/items/apple/rubis_apple"
-    },
-    "onyx_apple": {
-      "textures": "textures/items/apple/onyx_apple"
-    },
-    "seedplanter_2": {
-      "textures": "textures/items/item/seedplanter_2"
-    },
-    "seedplanter_3": {
-      "textures": "textures/items/item/seedplanter_3"
-    },
-    "seedplanter_4": {
-      "textures": "textures/items/item/seedplanter_4"
-    },
-    "seedplanter_5": {
-      "textures": "textures/items/item/seedplanter_5"
-    },
-    "seedplanter_6": {
-      "textures": "textures/items/item/seedplanter_6"
-    },
-    "seedplanter_7": {
-      "textures": "textures/items/item/seedplanter_7"
-    },
-    "seedplanter_8": {
-      "textures": "textures/items/item/seedplanter_8"
-    },
-    "enderman_eye": {
-      "textures": "textures/items/item/enderman_eye"
+    "diamant_sword": {
+      "textures": "textures/items/diamond_sword"
     },
     "disc_werenoi": {
       "textures": "textures/items/record/disc_werenoi"
     },
-    "kart": {
-      "textures": "textures/items/item/kart"
+    "double_xp_potion": {
+      "textures": "textures/items/doublexp/double_xp_potion"
     },
-    "football": {
-      "textures": "textures/items/item/football"
+    "double_xp_potion_bucheron": {
+      "textures": "textures/items/doublexp/double_xp_potion_bucheron"
     },
-    "onyx_tree_sapling": {
-      "textures": "textures/blocks/sapling/onyx_tree_sapling"
+    "double_xp_potion_farmeur": {
+      "textures": "textures/items/doublexp/double_xp_potion_farmeur"
     },
-    "rubis_tree_sapling": {
-      "textures": "textures/blocks/sapling/rubis_tree_sapling"
+    "double_xp_potion_guerrier": {
+      "textures": "textures/items/doublexp/double_xp_potion_guerrier"
     },
-    "key_tree_sapling": {
-      "textures": "textures/blocks/sapling/key_tree_sapling"
+    "double_xp_potion_mineur": {
+      "textures": "textures/items/doublexp/double_xp_potion_mineur"
     },
-    "linesia_humus": {
-      "textures": "textures/blocks/soil/humus"
+    "double_xp_potion_pecheur": {
+      "textures": "textures/items/doublexp/double_xp_potion_pecheur"
     },
-    "linesia_terreau_sylvestre": {
-      "textures": "textures/blocks/soil/terreau_sylvestre"
+    "effects_stick": {
+      "textures": "textures/items/stick/effects_stick"
     },
-    "linesia_terre_ancienne": {
-      "textures": "textures/blocks/soil/terre_ancienne"
+    "ender_berry": {
+      "textures": "textures/items/end/ender_berry"
     },
-    "linesia_terre_primordiale": {
-      "textures": "textures/blocks/soil/terre_primordiale"
+    "enderman_eye": {
+      "textures": "textures/items/item/enderman_eye"
     },
-    "evolving_pickaxe_1": {
-      "textures": "textures/items/evolving/pickaxe_1"
+    "enderman_gemme": {
+      "textures": "textures/items/item/enderman_gemme"
     },
-    "evolving_pickaxe_2": {
-      "textures": "textures/items/evolving/pickaxe_2"
-    },
-    "evolving_pickaxe_3": {
-      "textures": "textures/items/evolving/pickaxe_3"
-    },
-    "evolving_pickaxe_4": {
-      "textures": "textures/items/evolving/pickaxe_4"
-    },
-    "evolving_pickaxe_5": {
-      "textures": "textures/items/evolving/pickaxe_5"
-    },
-    "evolving_pickaxe_6": {
-      "textures": "textures/items/evolving/pickaxe_6"
-    },
-    "evolving_pickaxe_7": {
-      "textures": "textures/items/evolving/pickaxe_7"
-    },
-    "evolving_pickaxe_8": {
-      "textures": "textures/items/evolving/pickaxe_8"
-    },
-    "evolving_pickaxe_9": {
-      "textures": "textures/items/evolving/pickaxe_9"
-    },
-    "evolving_pickaxe_10": {
-      "textures": "textures/items/evolving/pickaxe_10"
+    "eucalyptus_bark": {
+      "textures": "textures/items/wood_bark/eucalyptus_bark"
     },
     "evolving_axe_1": {
       "textures": "textures/items/evolving/axe_1"
+    },
+    "evolving_axe_10": {
+      "textures": "textures/items/evolving/axe_10"
     },
     "evolving_axe_2": {
       "textures": "textures/items/evolving/axe_2"
@@ -647,47 +254,11 @@
     "evolving_axe_9": {
       "textures": "textures/items/evolving/axe_9"
     },
-    "evolving_axe_10": {
-      "textures": "textures/items/evolving/axe_10"
-    },
-    "evolving_shovel_1": {
-      "textures": "textures/items/evolving/shovel_1"
-    },
-    "evolving_shovel_2": {
-      "textures": "textures/items/evolving/shovel_2"
-    },
-    "evolving_shovel_3": {
-      "textures": "textures/items/evolving/shovel_3"
-    },
-    "evolving_shovel_4": {
-      "textures": "textures/items/evolving/shovel_4"
-    },
-    "evolving_shovel_5": {
-      "textures": "textures/items/evolving/shovel_5"
-    },
-    "evolving_shovel_6": {
-      "textures": "textures/items/evolving/shovel_6"
-    },
-    "evolving_shovel_7": {
-      "textures": "textures/items/evolving/shovel_7"
-    },
-    "evolving_shovel_8": {
-      "textures": "textures/items/evolving/shovel_8"
-    },
-    "evolving_shovel_9": {
-      "textures": "textures/items/evolving/shovel_9"
-    },
-    "evolving_shovel_10": {
-      "textures": "textures/items/evolving/shovel_10"
-    },
-    "seedplanter_9": {
-      "textures": "textures/items/item/seedplanter_9"
-    },
-    "seedplanter_10": {
-      "textures": "textures/items/item/seedplanter_10"
-    },
     "evolving_fishing_rod_1": {
       "textures": "textures/items/evolving/fishing_rod_1"
+    },
+    "evolving_fishing_rod_10": {
+      "textures": "textures/items/evolving/fishing_rod_10"
     },
     "evolving_fishing_rod_2": {
       "textures": "textures/items/evolving/fishing_rod_2"
@@ -713,11 +284,71 @@
     "evolving_fishing_rod_9": {
       "textures": "textures/items/evolving/fishing_rod_9"
     },
-    "evolving_fishing_rod_10": {
-      "textures": "textures/items/evolving/fishing_rod_10"
+    "evolving_pickaxe_1": {
+      "textures": "textures/items/evolving/pickaxe_1"
+    },
+    "evolving_pickaxe_10": {
+      "textures": "textures/items/evolving/pickaxe_10"
+    },
+    "evolving_pickaxe_2": {
+      "textures": "textures/items/evolving/pickaxe_2"
+    },
+    "evolving_pickaxe_3": {
+      "textures": "textures/items/evolving/pickaxe_3"
+    },
+    "evolving_pickaxe_4": {
+      "textures": "textures/items/evolving/pickaxe_4"
+    },
+    "evolving_pickaxe_5": {
+      "textures": "textures/items/evolving/pickaxe_5"
+    },
+    "evolving_pickaxe_6": {
+      "textures": "textures/items/evolving/pickaxe_6"
+    },
+    "evolving_pickaxe_7": {
+      "textures": "textures/items/evolving/pickaxe_7"
+    },
+    "evolving_pickaxe_8": {
+      "textures": "textures/items/evolving/pickaxe_8"
+    },
+    "evolving_pickaxe_9": {
+      "textures": "textures/items/evolving/pickaxe_9"
+    },
+    "evolving_shovel_1": {
+      "textures": "textures/items/evolving/shovel_1"
+    },
+    "evolving_shovel_10": {
+      "textures": "textures/items/evolving/shovel_10"
+    },
+    "evolving_shovel_2": {
+      "textures": "textures/items/evolving/shovel_2"
+    },
+    "evolving_shovel_3": {
+      "textures": "textures/items/evolving/shovel_3"
+    },
+    "evolving_shovel_4": {
+      "textures": "textures/items/evolving/shovel_4"
+    },
+    "evolving_shovel_5": {
+      "textures": "textures/items/evolving/shovel_5"
+    },
+    "evolving_shovel_6": {
+      "textures": "textures/items/evolving/shovel_6"
+    },
+    "evolving_shovel_7": {
+      "textures": "textures/items/evolving/shovel_7"
+    },
+    "evolving_shovel_8": {
+      "textures": "textures/items/evolving/shovel_8"
+    },
+    "evolving_shovel_9": {
+      "textures": "textures/items/evolving/shovel_9"
     },
     "evolving_sword_1": {
       "textures": "textures/items/evolving/sword_1"
+    },
+    "evolving_sword_10": {
+      "textures": "textures/items/evolving/sword_10"
     },
     "evolving_sword_2": {
       "textures": "textures/items/evolving/sword_2"
@@ -743,8 +374,545 @@
     "evolving_sword_9": {
       "textures": "textures/items/evolving/sword_9"
     },
-    "evolving_sword_10": {
-      "textures": "textures/items/evolving/sword_10"
+    "farm_boots": {
+      "textures": "textures/items/armors/farm_boots"
+    },
+    "farm_chestplate": {
+      "textures": "textures/items/armors/farm_chestplate"
+    },
+    "farm_helmet": {
+      "textures": "textures/items/armors/farm_helmet"
+    },
+    "farm_leggings": {
+      "textures": "textures/items/armors/farm_leggings"
+    },
+    "fly_paper_10m": {
+      "textures": "textures/items/flypaper/fly_paper_10m"
+    },
+    "fly_paper_1h": {
+      "textures": "textures/items/flypaper/fly_paper_1h"
+    },
+    "fly_paper_30m": {
+      "textures": "textures/items/flypaper/fly_paper_30m"
+    },
+    "football": {
+      "textures": "textures/items/item/football"
+    },
+    "foudre_stick": {
+      "textures": "textures/items/stick/foudre_stick"
+    },
+    "freeze_stick": {
+      "textures": "textures/items/stick/freeze_stick"
+    },
+    "god_of_stick": {
+      "textures": "textures/items/stick/god_of_stick"
+    },
+    "golden_fish": {
+      "textures": "textures/items/fish/golden_fish"
+    },
+    "goldfish": {
+      "textures": "textures/items/fish/goldfish"
+    },
+    "healing_heart": {
+      "textures": "textures/items/item/healing_heart"
+    },
+    "hickory_bark": {
+      "textures": "textures/items/wood_bark/hickory_bark"
+    },
+    "kart": {
+      "textures": "textures/items/item/kart"
+    },
+    "key_commun": {
+      "textures": "textures/items/key/key_commun"
+    },
+    "key_epic": {
+      "textures": "textures/items/key/key_epic"
+    },
+    "key_farm": {
+      "textures": "textures/items/key/key_farm"
+    },
+    "key_legendary": {
+      "textures": "textures/items/key/key_legendary"
+    },
+    "key_rare": {
+      "textures": "textures/items/key/key_rare"
+    },
+    "key_tree_sapling": {
+      "textures": "textures/blocks/sapling/key_tree_sapling"
+    },
+    "linesia_fish_ablette": {
+      "textures": "textures/items/fish/ablette"
+    },
+    "linesia_fish_anguille": {
+      "textures": "textures/items/fish/anguille"
+    },
+    "linesia_fish_barbeau": {
+      "textures": "textures/items/fish/barbeau"
+    },
+    "linesia_fish_calmar": {
+      "textures": "textures/items/fish/calmar"
+    },
+    "linesia_fish_carp": {
+      "textures": "textures/items/fish/carp"
+    },
+    "linesia_fish_carpe_astrale": {
+      "textures": "textures/items/fish/carpe_astrale"
+    },
+    "linesia_fish_chirurgien": {
+      "textures": "textures/items/fish/chirurgien"
+    },
+    "linesia_fish_coelacanthe": {
+      "textures": "textures/items/fish/coelacanthe"
+    },
+    "linesia_fish_congre": {
+      "textures": "textures/items/fish/congre"
+    },
+    "linesia_fish_crabe_des_neiges": {
+      "textures": "textures/items/fish/crabe_des_neiges"
+    },
+    "linesia_fish_crabe_vert": {
+      "textures": "textures/items/fish/crabe_vert"
+    },
+    "linesia_fish_demoiselle": {
+      "textures": "textures/items/fish/demoiselle"
+    },
+    "linesia_fish_ecrevisse": {
+      "textures": "textures/items/fish/ecrevisse"
+    },
+    "linesia_fish_espadon": {
+      "textures": "textures/items/fish/espadon"
+    },
+    "linesia_fish_esturgeon": {
+      "textures": "textures/items/fish/esturgeon"
+    },
+    "linesia_fish_fletan": {
+      "textures": "textures/items/fish/fletan"
+    },
+    "linesia_fish_gardon": {
+      "textures": "textures/items/fish/gardon"
+    },
+    "linesia_fish_golden_fish": {
+      "textures": "textures/items/fish/golden_fish"
+    },
+    "linesia_fish_goldfish": {
+      "textures": "textures/items/fish/goldfish"
+    },
+    "linesia_fish_goujon": {
+      "textures": "textures/items/fish/goujon"
+    },
+    "linesia_fish_homard": {
+      "textures": "textures/items/fish/homard"
+    },
+    "linesia_fish_kraken": {
+      "textures": "textures/items/fish/kraken"
+    },
+    "linesia_fish_leviathan": {
+      "textures": "textures/items/fish/leviathan"
+    },
+    "linesia_fish_lotte": {
+      "textures": "textures/items/fish/lotte"
+    },
+    "linesia_fish_magma_fish": {
+      "textures": "textures/items/fish/magma_fish"
+    },
+    "linesia_fish_merou": {
+      "textures": "textures/items/fish/merou"
+    },
+    "linesia_fish_morue": {
+      "textures": "textures/items/fish/morue"
+    },
+    "linesia_fish_murene": {
+      "textures": "textures/items/fish/murene"
+    },
+    "linesia_fish_napoleon": {
+      "textures": "textures/items/fish/napoleon"
+    },
+    "linesia_fish_omble": {
+      "textures": "textures/items/fish/omble"
+    },
+    "linesia_fish_ombre": {
+      "textures": "textures/items/fish/ombre"
+    },
+    "linesia_fish_perch": {
+      "textures": "textures/items/fish/perch"
+    },
+    "linesia_fish_piranha": {
+      "textures": "textures/items/fish/piranha"
+    },
+    "linesia_fish_poisson_aveugle": {
+      "textures": "textures/items/fish/poisson_aveugle"
+    },
+    "linesia_fish_poisson_chat": {
+      "textures": "textures/items/fish/poisson_chat"
+    },
+    "linesia_fish_poisson_clown": {
+      "textures": "textures/items/fish/poisson_clown"
+    },
+    "linesia_fish_poisson_de_cendre": {
+      "textures": "textures/items/fish/poisson_de_cendre"
+    },
+    "linesia_fish_poisson_de_cristal": {
+      "textures": "textures/items/fish/poisson_de_cristal"
+    },
+    "linesia_fish_poisson_de_sel": {
+      "textures": "textures/items/fish/poisson_de_sel"
+    },
+    "linesia_fish_poisson_de_soufre": {
+      "textures": "textures/items/fish/poisson_de_soufre"
+    },
+    "linesia_fish_poisson_du_neant": {
+      "textures": "textures/items/fish/poisson_du_neant"
+    },
+    "linesia_fish_poisson_lanterne": {
+      "textures": "textures/items/fish/poisson_lanterne"
+    },
+    "linesia_fish_poisson_lune": {
+      "textures": "textures/items/fish/poisson_lune"
+    },
+    "linesia_fish_poulpe": {
+      "textures": "textures/items/fish/poulpe"
+    },
+    "linesia_fish_raie_aigle": {
+      "textures": "textures/items/fish/raie_aigle"
+    },
+    "linesia_fish_red_shrooma": {
+      "textures": "textures/items/fish/red_shrooma"
+    },
+    "linesia_fish_requin_abyssal": {
+      "textures": "textures/items/fish/requin_abyssal"
+    },
+    "linesia_fish_rock_fish": {
+      "textures": "textures/items/fish/rock_fish"
+    },
+    "linesia_fish_saumon": {
+      "textures": "textures/items/fish/saumon"
+    },
+    "linesia_fish_serpent_de_mer": {
+      "textures": "textures/items/fish/serpent_de_mer"
+    },
+    "linesia_fish_silure": {
+      "textures": "textures/items/fish/silure"
+    },
+    "linesia_fish_tanche": {
+      "textures": "textures/items/fish/tanche"
+    },
+    "linesia_fish_thon": {
+      "textures": "textures/items/fish/thon"
+    },
+    "linesia_fish_truite": {
+      "textures": "textures/items/fish/truite"
+    },
+    "linesia_fish_vairon": {
+      "textures": "textures/items/fish/vairon"
+    },
+    "linesia_golden_sheaf": {
+      "textures": "textures/items/farm/golden_sheaf"
+    },
+    "linesia_humus": {
+      "textures": "textures/blocks/soil/humus"
+    },
+    "linesia_terre_ancienne": {
+      "textures": "textures/blocks/soil/terre_ancienne"
+    },
+    "linesia_terre_primordiale": {
+      "textures": "textures/blocks/soil/terre_primordiale"
+    },
+    "linesia_terreau_sylvestre": {
+      "textures": "textures/blocks/soil/terreau_sylvestre"
+    },
+    "magma_fish": {
+      "textures": "textures/items/fish/magma_fish"
+    },
+    "magma_larva": {
+      "textures": "textures/items/fish/magma_larva"
+    },
+    "mahogany_bark": {
+      "textures": "textures/items/wood_bark/mahogany_bark"
+    },
+    "mahogany_sapling": {
+      "textures": "textures/blocks/sapling/mahogany_sapling"
+    },
+    "maple_bark": {
+      "textures": "textures/items/wood_bark/maple_bark"
+    },
+    "maple_sapling": {
+      "textures": "textures/blocks/sapling/maple_sapling"
+    },
+    "monolith": {
+      "textures": "textures/items/item/monolith"
+    },
+    "onyx_apple": {
+      "textures": "textures/items/apple/onyx_apple"
+    },
+    "onyx_axe": {
+      "textures": "textures/items/tools/onyx_axe"
+    },
+    "onyx_boots": {
+      "textures": "textures/items/armors/onyx_boots"
+    },
+    "onyx_boots_lumineux": {
+      "textures": "textures/items/armors/onyx_boots_lumineux"
+    },
+    "onyx_boots_royal": {
+      "textures": "textures/items/armors/onyx_boots_royal"
+    },
+    "onyx_boots_tenebreux": {
+      "textures": "textures/items/armors/onyx_boots_tenebreux"
+    },
+    "onyx_brisure": {
+      "textures": "textures/items/ingot/onyx_brisure"
+    },
+    "onyx_chestplate": {
+      "textures": "textures/items/armors/onyx_chestplate"
+    },
+    "onyx_chestplate_lumineux": {
+      "textures": "textures/items/armors/onyx_chestplate_lumineux"
+    },
+    "onyx_chestplate_royal": {
+      "textures": "textures/items/armors/onyx_chestplate_royal"
+    },
+    "onyx_chestplate_tenebreux": {
+      "textures": "textures/items/armors/onyx_chestplate_tenebreux"
+    },
+    "onyx_fragement": {
+      "textures": "textures/items/ingot/onyx_fragement"
+    },
+    "onyx_helmet": {
+      "textures": "textures/items/armors/onyx_helmet"
+    },
+    "onyx_helmet_lumineux": {
+      "textures": "textures/items/armors/onyx_helmet_lumineux"
+    },
+    "onyx_helmet_royal": {
+      "textures": "textures/items/armors/onyx_helmet_royal"
+    },
+    "onyx_helmet_tenebreux": {
+      "textures": "textures/items/armors/onyx_helmet_tenebreux"
+    },
+    "onyx_hoe": {
+      "textures": "textures/items/tools/onyx_hoe"
+    },
+    "onyx_ingot": {
+      "textures": "textures/items/ingot/onyx_ingot"
+    },
+    "onyx_leggings": {
+      "textures": "textures/items/armors/onyx_leggings"
+    },
+    "onyx_leggings_lumineux": {
+      "textures": "textures/items/armors/onyx_leggings_lumineux"
+    },
+    "onyx_leggings_royal": {
+      "textures": "textures/items/armors/onyx_leggings_royal"
+    },
+    "onyx_leggings_tenebreux": {
+      "textures": "textures/items/armors/onyx_leggings_tenebreux"
+    },
+    "onyx_pickaxe": {
+      "textures": "textures/items/tools/onyx_pickaxe"
+    },
+    "onyx_shovel": {
+      "textures": "textures/items/tools/onyx_shovel"
+    },
+    "onyx_sword": {
+      "textures": "textures/items/sword/onyx_sword"
+    },
+    "onyx_tree_sapling": {
+      "textures": "textures/blocks/sapling/onyx_tree_sapling"
+    },
+    "perch": {
+      "textures": "textures/items/fish/perch"
+    },
+    "piranha": {
+      "textures": "textures/items/fish/piranha"
+    },
+    "pocket_box": {
+      "textures": "textures/items/pocketbox/pocket_box"
+    },
+    "pterocarpus_bark": {
+      "textures": "textures/items/wood_bark/pterocarpus_bark"
+    },
+    "rain_tree_bark": {
+      "textures": "textures/items/wood_bark/rain_tree_bark"
+    },
+    "rain_tree_sapling": {
+      "textures": "textures/blocks/sapling/rain_tree_sapling"
+    },
+    "red_shrooma": {
+      "textures": "textures/items/fish/red_shrooma"
+    },
+    "repair_stick": {
+      "textures": "textures/items/stick/repair_stick"
+    },
+    "rock_fish": {
+      "textures": "textures/items/fish/rock_fish"
+    },
+    "rosewood_bark": {
+      "textures": "textures/items/wood_bark/rosewood_bark"
+    },
+    "rosewood_sapling": {
+      "textures": "textures/blocks/sapling/rosewood_sapling"
+    },
+    "rubis_apple": {
+      "textures": "textures/items/apple/rubis_apple"
+    },
+    "rubis_axe": {
+      "textures": "textures/items/tools/rubis_axe"
+    },
+    "rubis_boots": {
+      "textures": "textures/items/armors/rubis_boots"
+    },
+    "rubis_boots_lumineux": {
+      "textures": "textures/items/armors/rubis_boots_lumineux"
+    },
+    "rubis_boots_royal": {
+      "textures": "textures/items/armors/rubis_boots_royal"
+    },
+    "rubis_boots_tenebreux": {
+      "textures": "textures/items/armors/rubis_boots_tenebreux"
+    },
+    "rubis_chestplate": {
+      "textures": "textures/items/armors/rubis_chestplate"
+    },
+    "rubis_chestplate_lumineux": {
+      "textures": "textures/items/armors/rubis_chestplate_lumineux"
+    },
+    "rubis_chestplate_royal": {
+      "textures": "textures/items/armors/rubis_chestplate_royal"
+    },
+    "rubis_chestplate_tenebreux": {
+      "textures": "textures/items/armors/rubis_chestplate_tenebreux"
+    },
+    "rubis_fishing_rod": {
+      "textures": "textures/items/rubis_fishing_rod"
+    },
+    "rubis_fragement": {
+      "textures": "textures/items/ingot/rubis_fragement"
+    },
+    "rubis_helmet": {
+      "textures": "textures/items/armors/rubis_helmet"
+    },
+    "rubis_helmet_lumineux": {
+      "textures": "textures/items/armors/rubis_helmet_lumineux"
+    },
+    "rubis_helmet_royal": {
+      "textures": "textures/items/armors/rubis_helmet_royal"
+    },
+    "rubis_helmet_tenebreux": {
+      "textures": "textures/items/armors/rubis_helmet_tenebreux"
+    },
+    "rubis_hoe": {
+      "textures": "textures/items/tools/rubis_hoe"
+    },
+    "rubis_ingot": {
+      "textures": "textures/items/ingot/rubis_ingot"
+    },
+    "rubis_leggings": {
+      "textures": "textures/items/armors/rubis_leggings"
+    },
+    "rubis_leggings_lumineux": {
+      "textures": "textures/items/armors/rubis_leggings_lumineux"
+    },
+    "rubis_leggings_royal": {
+      "textures": "textures/items/armors/rubis_leggings_royal"
+    },
+    "rubis_leggings_tenebreux": {
+      "textures": "textures/items/armors/rubis_leggings_tenebreux"
+    },
+    "rubis_pickaxe": {
+      "textures": "textures/items/tools/rubis_pickaxe"
+    },
+    "rubis_shovel": {
+      "textures": "textures/items/tools/rubis_shovel"
+    },
+    "rubis_sword": {
+      "textures": "textures/items/sword/rubis_sword"
+    },
+    "rubis_tree_sapling": {
+      "textures": "textures/blocks/sapling/rubis_tree_sapling"
+    },
+    "sapling_oak": {
+      "textures": "textures/blocks/sapling_oak"
+    },
+    "seedplanter": {
+      "textures": "textures/items/item/seedplanter"
+    },
+    "seedplanter_10": {
+      "textures": "textures/items/item/seedplanter_10"
+    },
+    "seedplanter_2": {
+      "textures": "textures/items/item/seedplanter_2"
+    },
+    "seedplanter_3": {
+      "textures": "textures/items/item/seedplanter_3"
+    },
+    "seedplanter_4": {
+      "textures": "textures/items/item/seedplanter_4"
+    },
+    "seedplanter_5": {
+      "textures": "textures/items/item/seedplanter_5"
+    },
+    "seedplanter_6": {
+      "textures": "textures/items/item/seedplanter_6"
+    },
+    "seedplanter_7": {
+      "textures": "textures/items/item/seedplanter_7"
+    },
+    "seedplanter_8": {
+      "textures": "textures/items/item/seedplanter_8"
+    },
+    "seedplanter_9": {
+      "textures": "textures/items/item/seedplanter_9"
+    },
+    "size_stick": {
+      "textures": "textures/items/stick/size_stick"
+    },
+    "softwood_bark": {
+      "textures": "textures/items/wood_bark/softwood_bark"
+    },
+    "steel_ingot": {
+      "textures": "textures/items/ingot/steel_ingot"
+    },
+    "switch_ball": {
+      "textures": "textures/items/item/switch_ball"
+    },
+    "teak_bark": {
+      "textures": "textures/items/wood_bark/teak_bark"
+    },
+    "teak_sapling": {
+      "textures": "textures/blocks/sapling/teak_sapling"
+    },
+    "tp_stick": {
+      "textures": "textures/items/stick/tp_stick"
+    },
+    "view_stick": {
+      "textures": "textures/items/stick/view_stick"
+    },
+    "void_petal": {
+      "textures": "textures/items/end/void_petal"
+    },
+    "voidwood_bark": {
+      "textures": "textures/items/wood_bark/voidwood_bark"
+    },
+    "voidwood_sapling": {
+      "textures": "textures/blocks/sapling/voidwood_sapling"
+    },
+    "walnut_bark": {
+      "textures": "textures/items/wood_bark/walnut_bark"
+    },
+    "walnut_sapling": {
+      "textures": "textures/blocks/sapling/walnut_sapling"
+    },
+    "web_trap": {
+      "textures": "textures/items/item/web_trap"
+    },
+    "worm": {
+      "textures": "textures/items/fish/worm"
+    },
+    "xylia_bark": {
+      "textures": "textures/items/wood_bark/xylia_bark"
+    },
+    "zombie_gemme": {
+      "textures": "textures/items/item/zombie_gemme"
     }
   }
 }

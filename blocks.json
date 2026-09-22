@@ -84,5 +84,1544 @@
       "side": "composter_side"
     },
     "sound": "wood"
-  }
+  },
+  "linesia:gate_forcefield": {
+    "sound": "glass"
+  },
+  "linesia:gate_padlock": {
+    "sound": "chain"
+  },
+  "linesia:field_potager_emblem": {
+    "sound": "stone"
+  },
+  "linesia:field_chaumes_emblem": {
+    "sound": "stone"
+  },
+  "linesia:field_bocage_emblem": {
+    "sound": "stone"
+  },
+  "linesia:field_coteaux_emblem": {
+    "sound": "stone"
+  },
+  "linesia:field_rizieres_emblem": {
+    "sound": "stone"
+  },
+  "linesia:field_garrigue_emblem": {
+    "sound": "stone"
+  },
+  "linesia:field_oasis_emblem": {
+    "sound": "stone"
+  },
+  "linesia:field_serres_emblem": {
+    "sound": "stone"
+  },
+  "linesia:field_tourbiere_emblem": {
+    "sound": "stone"
+  },
+  "linesia:field_steppe_emblem": {
+    "sound": "stone"
+  },
+  "linesia:field_falaises_emblem": {
+    "sound": "stone"
+  },
+  "linesia:field_jungle_emblem": {
+    "sound": "stone"
+  },
+  "linesia:field_mousses_emblem": {
+    "sound": "stone"
+  },
+  "linesia:field_volcan_emblem": {
+    "sound": "stone"
+  },
+  "linesia:field_cendres_emblem": {
+    "sound": "stone"
+  },
+  "linesia:field_soufre_emblem": {
+    "sound": "stone"
+  },
+  "linesia:field_ecarlate_emblem": {
+    "sound": "stone"
+  },
+  "linesia:field_ames_emblem": {
+    "sound": "stone"
+  },
+  "linesia:field_champignon_emblem": {
+    "sound": "stone"
+  },
+  "linesia:field_cristal_emblem": {
+    "sound": "stone"
+  },
+  "linesia:field_obsidienne_emblem": {
+    "sound": "stone"
+  },
+  "linesia:field_vide_emblem": {
+    "sound": "stone"
+  },
+  "linesia:field_astral_emblem": {
+    "sound": "stone"
+  },
+  "linesia:field_neant_emblem": {
+    "sound": "stone"
+  },
+  "linesia:field_empyree_emblem": {
+    "sound": "stone"
+  },
+  "linesia:farm_crate": {
+    "sound": "wood"
+  },
+  "linesia:farm_crate_gold": {
+    "sound": "wood"
+  },
+  "linesia:cove_etang_emblem": {
+    "sound": "stone"
+  },
+  "linesia:cove_riviere_emblem": {
+    "sound": "stone"
+  },
+  "linesia:cove_roseliere_emblem": {
+    "sound": "stone"
+  },
+  "linesia:cove_cascade_emblem": {
+    "sound": "stone"
+  },
+  "linesia:cove_mangrove_emblem": {
+    "sound": "stone"
+  },
+  "linesia:cove_lagon_emblem": {
+    "sound": "stone"
+  },
+  "linesia:cove_recif_emblem": {
+    "sound": "stone"
+  },
+  "linesia:cove_kelp_emblem": {
+    "sound": "stone"
+  },
+  "linesia:cove_banquise_emblem": {
+    "sound": "stone"
+  },
+  "linesia:cove_fjord_emblem": {
+    "sound": "stone"
+  },
+  "linesia:cove_geyser_emblem": {
+    "sound": "stone"
+  },
+  "linesia:cove_grotte_emblem": {
+    "sound": "stone"
+  },
+  "linesia:cove_epave_emblem": {
+    "sound": "stone"
+  },
+  "linesia:cove_abysse_emblem": {
+    "sound": "stone"
+  },
+  "linesia:cove_luciole_emblem": {
+    "sound": "stone"
+  },
+  "linesia:cove_sargasse_emblem": {
+    "sound": "stone"
+  },
+  "linesia:cove_maelstrom_emblem": {
+    "sound": "stone"
+  },
+  "linesia:cove_saline_emblem": {
+    "sound": "stone"
+  },
+  "linesia:cove_soufre_emblem": {
+    "sound": "stone"
+  },
+  "linesia:cove_cendre_emblem": {
+    "sound": "stone"
+  },
+  "linesia:cove_cristal_emblem": {
+    "sound": "stone"
+  },
+  "linesia:cove_astral_emblem": {
+    "sound": "stone"
+  },
+  "linesia:cove_nuage_emblem": {
+    "sound": "stone"
+  },
+  "linesia:cove_neant_emblem": {
+    "sound": "stone"
+  },
+  "linesia:cove_empyree_emblem": {
+    "sound": "stone"
+  },
+  "linesia:wood_hameau_log": {
+    "sound": "wood"
+  },
+  "linesia:wood_hameau_stump": {
+    "sound": "wood"
+  },
+  "linesia:wood_hameau_leaves": {
+    "sound": "grass"
+  },
+  "linesia:wood_hameau_leaves_rich": {
+    "sound": "grass"
+  },
+  "linesia:wood_hameau_sapling": {
+    "sound": "grass"
+  },
+  "linesia:wood_hameau_emblem": {
+    "sound": "stone"
+  },
+  "linesia:wood_saulaie_log": {
+    "sound": "wood"
+  },
+  "linesia:wood_saulaie_stump": {
+    "sound": "wood"
+  },
+  "linesia:wood_saulaie_leaves": {
+    "sound": "grass"
+  },
+  "linesia:wood_saulaie_leaves_rich": {
+    "sound": "grass"
+  },
+  "linesia:wood_saulaie_sapling": {
+    "sound": "grass"
+  },
+  "linesia:wood_saulaie_emblem": {
+    "sound": "stone"
+  },
+  "linesia:wood_pinede_log": {
+    "sound": "wood"
+  },
+  "linesia:wood_pinede_stump": {
+    "sound": "wood"
+  },
+  "linesia:wood_pinede_leaves": {
+    "sound": "grass"
+  },
+  "linesia:wood_pinede_leaves_rich": {
+    "sound": "grass"
+  },
+  "linesia:wood_pinede_sapling": {
+    "sound": "grass"
+  },
+  "linesia:wood_pinede_emblem": {
+    "sound": "stone"
+  },
+  "linesia:wood_erabliere_log": {
+    "sound": "wood"
+  },
+  "linesia:wood_erabliere_stump": {
+    "sound": "wood"
+  },
+  "linesia:wood_erabliere_leaves": {
+    "sound": "grass"
+  },
+  "linesia:wood_erabliere_leaves_rich": {
+    "sound": "grass"
+  },
+  "linesia:wood_erabliere_sapling": {
+    "sound": "grass"
+  },
+  "linesia:wood_erabliere_emblem": {
+    "sound": "stone"
+  },
+  "linesia:wood_chenaie_log": {
+    "sound": "wood"
+  },
+  "linesia:wood_chenaie_stump": {
+    "sound": "wood"
+  },
+  "linesia:wood_chenaie_leaves": {
+    "sound": "grass"
+  },
+  "linesia:wood_chenaie_leaves_rich": {
+    "sound": "grass"
+  },
+  "linesia:wood_chenaie_sapling": {
+    "sound": "grass"
+  },
+  "linesia:wood_chenaie_emblem": {
+    "sound": "stone"
+  },
+  "linesia:wood_bouleaux_log": {
+    "sound": "wood"
+  },
+  "linesia:wood_bouleaux_stump": {
+    "sound": "wood"
+  },
+  "linesia:wood_bouleaux_leaves": {
+    "sound": "grass"
+  },
+  "linesia:wood_bouleaux_leaves_rich": {
+    "sound": "grass"
+  },
+  "linesia:wood_bouleaux_sapling": {
+    "sound": "grass"
+  },
+  "linesia:wood_bouleaux_emblem": {
+    "sound": "stone"
+  },
+  "linesia:wood_noyeraie_log": {
+    "sound": "wood"
+  },
+  "linesia:wood_noyeraie_stump": {
+    "sound": "wood"
+  },
+  "linesia:wood_noyeraie_leaves": {
+    "sound": "grass"
+  },
+  "linesia:wood_noyeraie_leaves_rich": {
+    "sound": "grass"
+  },
+  "linesia:wood_noyeraie_sapling": {
+    "sound": "grass"
+  },
+  "linesia:wood_noyeraie_emblem": {
+    "sound": "stone"
+  },
+  "linesia:wood_bambou_log": {
+    "sound": "wood"
+  },
+  "linesia:wood_bambou_stump": {
+    "sound": "wood"
+  },
+  "linesia:wood_bambou_leaves": {
+    "sound": "grass"
+  },
+  "linesia:wood_bambou_leaves_rich": {
+    "sound": "grass"
+  },
+  "linesia:wood_bambou_sapling": {
+    "sound": "grass"
+  },
+  "linesia:wood_bambou_emblem": {
+    "sound": "stone"
+  },
+  "linesia:wood_mangrove_log": {
+    "sound": "wood"
+  },
+  "linesia:wood_mangrove_stump": {
+    "sound": "wood"
+  },
+  "linesia:wood_mangrove_leaves": {
+    "sound": "grass"
+  },
+  "linesia:wood_mangrove_leaves_rich": {
+    "sound": "grass"
+  },
+  "linesia:wood_mangrove_sapling": {
+    "sound": "grass"
+  },
+  "linesia:wood_mangrove_emblem": {
+    "sound": "stone"
+  },
+  "linesia:wood_sequoias_log": {
+    "sound": "wood"
+  },
+  "linesia:wood_sequoias_stump": {
+    "sound": "wood"
+  },
+  "linesia:wood_sequoias_leaves": {
+    "sound": "grass"
+  },
+  "linesia:wood_sequoias_leaves_rich": {
+    "sound": "grass"
+  },
+  "linesia:wood_sequoias_sapling": {
+    "sound": "grass"
+  },
+  "linesia:wood_sequoias_emblem": {
+    "sound": "stone"
+  },
+  "linesia:wood_canopee_log": {
+    "sound": "wood"
+  },
+  "linesia:wood_canopee_stump": {
+    "sound": "wood"
+  },
+  "linesia:wood_canopee_leaves": {
+    "sound": "grass"
+  },
+  "linesia:wood_canopee_leaves_rich": {
+    "sound": "grass"
+  },
+  "linesia:wood_canopee_sapling": {
+    "sound": "grass"
+  },
+  "linesia:wood_canopee_emblem": {
+    "sound": "stone"
+  },
+  "linesia:wood_sakura_log": {
+    "sound": "wood"
+  },
+  "linesia:wood_sakura_stump": {
+    "sound": "wood"
+  },
+  "linesia:wood_sakura_leaves": {
+    "sound": "grass"
+  },
+  "linesia:wood_sakura_leaves_rich": {
+    "sound": "grass"
+  },
+  "linesia:wood_sakura_sapling": {
+    "sound": "grass"
+  },
+  "linesia:wood_sakura_emblem": {
+    "sound": "stone"
+  },
+  "linesia:wood_oliveraie_log": {
+    "sound": "wood"
+  },
+  "linesia:wood_oliveraie_stump": {
+    "sound": "wood"
+  },
+  "linesia:wood_oliveraie_leaves": {
+    "sound": "grass"
+  },
+  "linesia:wood_oliveraie_leaves_rich": {
+    "sound": "grass"
+  },
+  "linesia:wood_oliveraie_sapling": {
+    "sound": "grass"
+  },
+  "linesia:wood_oliveraie_emblem": {
+    "sound": "stone"
+  },
+  "linesia:wood_taiga_log": {
+    "sound": "wood"
+  },
+  "linesia:wood_taiga_stump": {
+    "sound": "wood"
+  },
+  "linesia:wood_taiga_leaves": {
+    "sound": "grass"
+  },
+  "linesia:wood_taiga_leaves_rich": {
+    "sound": "grass"
+  },
+  "linesia:wood_taiga_sapling": {
+    "sound": "grass"
+  },
+  "linesia:wood_taiga_emblem": {
+    "sound": "stone"
+  },
+  "linesia:wood_cypres_log": {
+    "sound": "wood"
+  },
+  "linesia:wood_cypres_stump": {
+    "sound": "wood"
+  },
+  "linesia:wood_cypres_leaves": {
+    "sound": "grass"
+  },
+  "linesia:wood_cypres_leaves_rich": {
+    "sound": "grass"
+  },
+  "linesia:wood_cypres_sapling": {
+    "sound": "grass"
+  },
+  "linesia:wood_cypres_emblem": {
+    "sound": "stone"
+  },
+  "linesia:wood_ebene_log": {
+    "sound": "wood"
+  },
+  "linesia:wood_ebene_stump": {
+    "sound": "wood"
+  },
+  "linesia:wood_ebene_leaves": {
+    "sound": "grass"
+  },
+  "linesia:wood_ebene_leaves_rich": {
+    "sound": "grass"
+  },
+  "linesia:wood_ebene_sapling": {
+    "sound": "grass"
+  },
+  "linesia:wood_ebene_emblem": {
+    "sound": "stone"
+  },
+  "linesia:wood_brume_log": {
+    "sound": "wood"
+  },
+  "linesia:wood_brume_stump": {
+    "sound": "wood"
+  },
+  "linesia:wood_brume_leaves": {
+    "sound": "grass"
+  },
+  "linesia:wood_brume_leaves_rich": {
+    "sound": "grass"
+  },
+  "linesia:wood_brume_sapling": {
+    "sound": "grass"
+  },
+  "linesia:wood_brume_emblem": {
+    "sound": "stone"
+  },
+  "linesia:wood_champignon_log": {
+    "sound": "wood"
+  },
+  "linesia:wood_champignon_stump": {
+    "sound": "wood"
+  },
+  "linesia:wood_champignon_leaves": {
+    "sound": "grass"
+  },
+  "linesia:wood_champignon_leaves_rich": {
+    "sound": "grass"
+  },
+  "linesia:wood_champignon_sapling": {
+    "sound": "grass"
+  },
+  "linesia:wood_champignon_emblem": {
+    "sound": "stone"
+  },
+  "linesia:wood_cendre_log": {
+    "sound": "wood"
+  },
+  "linesia:wood_cendre_stump": {
+    "sound": "wood"
+  },
+  "linesia:wood_cendre_leaves": {
+    "sound": "grass"
+  },
+  "linesia:wood_cendre_leaves_rich": {
+    "sound": "grass"
+  },
+  "linesia:wood_cendre_sapling": {
+    "sound": "grass"
+  },
+  "linesia:wood_cendre_emblem": {
+    "sound": "stone"
+  },
+  "linesia:wood_sanguine_log": {
+    "sound": "wood"
+  },
+  "linesia:wood_sanguine_stump": {
+    "sound": "wood"
+  },
+  "linesia:wood_sanguine_leaves": {
+    "sound": "grass"
+  },
+  "linesia:wood_sanguine_leaves_rich": {
+    "sound": "grass"
+  },
+  "linesia:wood_sanguine_sapling": {
+    "sound": "grass"
+  },
+  "linesia:wood_sanguine_emblem": {
+    "sound": "stone"
+  },
+  "linesia:wood_cristal_log": {
+    "sound": "wood"
+  },
+  "linesia:wood_cristal_stump": {
+    "sound": "wood"
+  },
+  "linesia:wood_cristal_leaves": {
+    "sound": "grass"
+  },
+  "linesia:wood_cristal_leaves_rich": {
+    "sound": "grass"
+  },
+  "linesia:wood_cristal_sapling": {
+    "sound": "grass"
+  },
+  "linesia:wood_cristal_emblem": {
+    "sound": "stone"
+  },
+  "linesia:wood_ossements_log": {
+    "sound": "wood"
+  },
+  "linesia:wood_ossements_stump": {
+    "sound": "wood"
+  },
+  "linesia:wood_ossements_leaves": {
+    "sound": "grass"
+  },
+  "linesia:wood_ossements_leaves_rich": {
+    "sound": "grass"
+  },
+  "linesia:wood_ossements_sapling": {
+    "sound": "grass"
+  },
+  "linesia:wood_ossements_emblem": {
+    "sound": "stone"
+  },
+  "linesia:wood_astral_log": {
+    "sound": "wood"
+  },
+  "linesia:wood_astral_stump": {
+    "sound": "wood"
+  },
+  "linesia:wood_astral_leaves": {
+    "sound": "grass"
+  },
+  "linesia:wood_astral_leaves_rich": {
+    "sound": "grass"
+  },
+  "linesia:wood_astral_sapling": {
+    "sound": "grass"
+  },
+  "linesia:wood_astral_emblem": {
+    "sound": "stone"
+  },
+  "linesia:wood_neant_log": {
+    "sound": "wood"
+  },
+  "linesia:wood_neant_stump": {
+    "sound": "wood"
+  },
+  "linesia:wood_neant_leaves": {
+    "sound": "grass"
+  },
+  "linesia:wood_neant_leaves_rich": {
+    "sound": "grass"
+  },
+  "linesia:wood_neant_sapling": {
+    "sound": "grass"
+  },
+  "linesia:wood_neant_emblem": {
+    "sound": "stone"
+  },
+  "linesia:wood_arbremonde_log": {
+    "sound": "wood"
+  },
+  "linesia:wood_arbremonde_stump": {
+    "sound": "wood"
+  },
+  "linesia:wood_arbremonde_leaves": {
+    "sound": "grass"
+  },
+  "linesia:wood_arbremonde_leaves_rich": {
+    "sound": "grass"
+  },
+  "linesia:wood_arbremonde_sapling": {
+    "sound": "grass"
+  },
+  "linesia:wood_arbremonde_emblem": {
+    "sound": "stone"
+  },
+  "linesia:wood_scierie_log": {
+    "sound": "wood"
+  },
+  "linesia:wood_scierie_stump": {
+    "sound": "wood"
+  },
+  "linesia:wood_scierie_leaves": {
+    "sound": "grass"
+  },
+  "linesia:wood_scierie_leaves_rich": {
+    "sound": "grass"
+  },
+  "linesia:wood_scierie_sapling": {
+    "sound": "grass"
+  },
+  "linesia:wood_scierie_emblem": {
+    "sound": "stone"
+  },
+  "linesia:wood_hive": {
+    "sound": "wood"
+  },
+  "linesia:wood_hive_gold": {
+    "sound": "wood"
+  },
+  "linesia:wood_heart": {
+    "sound": "wood"
+  },
+  "linesia:wood_heart_gold": {
+    "sound": "wood"
+  },
+  "linesia:wood_heart_astral": {
+    "sound": "wood"
+  },
+  "linesia:lair_caserne_emblem": {
+    "sound": "stone"
+  },
+  "linesia:lair_oubliettes_emblem": {
+    "sound": "stone"
+  },
+  "linesia:lair_crypte_emblem": {
+    "sound": "stone"
+  },
+  "linesia:lair_beffroi_emblem": {
+    "sound": "stone"
+  },
+  "linesia:lair_donjon_emblem": {
+    "sound": "stone"
+  },
+  "linesia:lair_bourbier_emblem": {
+    "sound": "stone"
+  },
+  "linesia:lair_spores_emblem": {
+    "sound": "stone"
+  },
+  "linesia:lair_ronces_emblem": {
+    "sound": "stone"
+  },
+  "linesia:lair_nid_emblem": {
+    "sound": "stone"
+  },
+  "linesia:lair_sanie_emblem": {
+    "sound": "stone"
+  },
+  "linesia:lair_fonderie_emblem": {
+    "sound": "stone"
+  },
+  "linesia:lair_scories_emblem": {
+    "sound": "stone"
+  },
+  "linesia:lair_creuset_emblem": {
+    "sound": "stone"
+  },
+  "linesia:lair_soufriere_emblem": {
+    "sound": "stone"
+  },
+  "linesia:lair_enclume_emblem": {
+    "sound": "stone"
+  },
+  "linesia:lair_ossuaire_emblem": {
+    "sound": "stone"
+  },
+  "linesia:lair_catacombes_emblem": {
+    "sound": "stone"
+  },
+  "linesia:lair_voile_emblem": {
+    "sound": "stone"
+  },
+  "linesia:lair_abysse_emblem": {
+    "sound": "stone"
+  },
+  "linesia:lair_sepulcre_emblem": {
+    "sound": "stone"
+  },
+  "linesia:lair_nebuleuse_emblem": {
+    "sound": "stone"
+  },
+  "linesia:lair_prisme_emblem": {
+    "sound": "stone"
+  },
+  "linesia:lair_eclipse_emblem": {
+    "sound": "stone"
+  },
+  "linesia:lair_couronne_emblem": {
+    "sound": "stone"
+  },
+  "linesia:lair_onyx_emblem": {
+    "sound": "stone"
+  },
+  "linesia:mine_carriere_iron_ore": {
+    "sound": "stone"
+  },
+  "linesia:mine_carriere_rich_iron_ore": {
+    "sound": "stone"
+  },
+  "linesia:mine_carriere_emerald_ore": {
+    "sound": "stone"
+  },
+  "linesia:mine_carriere_random_ore": {
+    "sound": "stone"
+  },
+  "linesia:mine_carriere_emblem": {
+    "sound": "stone"
+  },
+  "linesia:mine_bocage_iron_ore": {
+    "sound": "stone"
+  },
+  "linesia:mine_bocage_rich_iron_ore": {
+    "sound": "stone"
+  },
+  "linesia:mine_bocage_emerald_ore": {
+    "sound": "stone"
+  },
+  "linesia:mine_bocage_random_ore": {
+    "sound": "stone"
+  },
+  "linesia:mine_bocage_emblem": {
+    "sound": "stone"
+  },
+  "linesia:mine_dunes_iron_ore": {
+    "sound": "stone"
+  },
+  "linesia:mine_dunes_rich_iron_ore": {
+    "sound": "stone"
+  },
+  "linesia:mine_dunes_emerald_ore": {
+    "sound": "stone"
+  },
+  "linesia:mine_dunes_amethyste_ore": {
+    "sound": "amethyst_block"
+  },
+  "linesia:mine_dunes_random_ore": {
+    "sound": "stone"
+  },
+  "linesia:mine_dunes_emblem": {
+    "sound": "stone"
+  },
+  "linesia:mine_canyon_iron_ore": {
+    "sound": "stone"
+  },
+  "linesia:mine_canyon_rich_iron_ore": {
+    "sound": "stone"
+  },
+  "linesia:mine_canyon_emerald_ore": {
+    "sound": "stone"
+  },
+  "linesia:mine_canyon_amethyste_ore": {
+    "sound": "amethyst_block"
+  },
+  "linesia:mine_canyon_random_ore": {
+    "sound": "stone"
+  },
+  "linesia:mine_canyon_emblem": {
+    "sound": "stone"
+  },
+  "linesia:mine_marais_rich_iron_ore": {
+    "sound": "stone"
+  },
+  "linesia:mine_marais_emerald_ore": {
+    "sound": "stone"
+  },
+  "linesia:mine_marais_amethyste_ore": {
+    "sound": "amethyst_block"
+  },
+  "linesia:mine_marais_random_ore": {
+    "sound": "stone"
+  },
+  "linesia:mine_marais_emblem": {
+    "sound": "stone"
+  },
+  "linesia:mine_jungle_rich_iron_ore": {
+    "sound": "stone"
+  },
+  "linesia:mine_jungle_emerald_ore": {
+    "sound": "stone"
+  },
+  "linesia:mine_jungle_amethyste_ore": {
+    "sound": "amethyst_block"
+  },
+  "linesia:mine_jungle_random_ore": {
+    "sound": "stone"
+  },
+  "linesia:mine_jungle_emblem": {
+    "sound": "stone"
+  },
+  "linesia:mine_glacier_emerald_ore": {
+    "sound": "stone"
+  },
+  "linesia:mine_glacier_amethyste_ore": {
+    "sound": "amethyst_block"
+  },
+  "linesia:mine_glacier_amethyste_geode": {
+    "sound": "amethyst_block"
+  },
+  "linesia:mine_glacier_random_ore": {
+    "sound": "stone"
+  },
+  "linesia:mine_glacier_emblem": {
+    "sound": "stone"
+  },
+  "linesia:mine_geode_emerald_ore": {
+    "sound": "stone"
+  },
+  "linesia:mine_geode_amethyste_ore": {
+    "sound": "amethyst_block"
+  },
+  "linesia:mine_geode_amethyste_geode": {
+    "sound": "amethyst_block"
+  },
+  "linesia:mine_geode_random_ore": {
+    "sound": "stone"
+  },
+  "linesia:mine_geode_emblem": {
+    "sound": "stone"
+  },
+  "linesia:mine_champignon_emerald_ore": {
+    "sound": "stone"
+  },
+  "linesia:mine_champignon_amethyste_ore": {
+    "sound": "amethyst_block"
+  },
+  "linesia:mine_champignon_amethyste_geode": {
+    "sound": "amethyst_block"
+  },
+  "linesia:mine_champignon_rubis_ore": {
+    "sound": "stone"
+  },
+  "linesia:mine_champignon_random_ore": {
+    "sound": "stone"
+  },
+  "linesia:mine_champignon_emblem": {
+    "sound": "stone"
+  },
+  "linesia:mine_recif_amethyste_ore": {
+    "sound": "amethyst_block"
+  },
+  "linesia:mine_recif_amethyste_geode": {
+    "sound": "amethyst_block"
+  },
+  "linesia:mine_recif_rubis_ore": {
+    "sound": "stone"
+  },
+  "linesia:mine_recif_random_ore": {
+    "sound": "stone"
+  },
+  "linesia:mine_recif_emblem": {
+    "sound": "stone"
+  },
+  "linesia:mine_sakura_amethyste_ore": {
+    "sound": "amethyst_block"
+  },
+  "linesia:mine_sakura_amethyste_geode": {
+    "sound": "amethyst_block"
+  },
+  "linesia:mine_sakura_rubis_ore": {
+    "sound": "stone"
+  },
+  "linesia:mine_sakura_random_ore": {
+    "sound": "stone"
+  },
+  "linesia:mine_sakura_emblem": {
+    "sound": "stone"
+  },
+  "linesia:mine_forge_amethyste_ore": {
+    "sound": "amethyst_block"
+  },
+  "linesia:mine_forge_amethyste_geode": {
+    "sound": "amethyst_block"
+  },
+  "linesia:mine_forge_rubis_ore": {
+    "sound": "stone"
+  },
+  "linesia:mine_forge_rubis_heart": {
+    "sound": "stone"
+  },
+  "linesia:mine_forge_random_ore": {
+    "sound": "stone"
+  },
+  "linesia:mine_forge_emblem": {
+    "sound": "stone"
+  },
+  "linesia:mine_volcan_amethyste_geode": {
+    "sound": "amethyst_block"
+  },
+  "linesia:mine_volcan_rubis_ore": {
+    "sound": "stone"
+  },
+  "linesia:mine_volcan_rubis_heart": {
+    "sound": "stone"
+  },
+  "linesia:mine_volcan_random_ore": {
+    "sound": "stone"
+  },
+  "linesia:mine_volcan_emblem": {
+    "sound": "stone"
+  },
+  "linesia:mine_enfer_amethyste_geode": {
+    "sound": "amethyst_block"
+  },
+  "linesia:mine_enfer_rubis_ore": {
+    "sound": "stone"
+  },
+  "linesia:mine_enfer_rubis_heart": {
+    "sound": "stone"
+  },
+  "linesia:mine_enfer_onyx_ore": {
+    "sound": "stone"
+  },
+  "linesia:mine_enfer_random_ore": {
+    "sound": "stone"
+  },
+  "linesia:mine_enfer_emblem": {
+    "sound": "stone"
+  },
+  "linesia:mine_ames_rubis_ore": {
+    "sound": "stone"
+  },
+  "linesia:mine_ames_rubis_heart": {
+    "sound": "stone"
+  },
+  "linesia:mine_ames_onyx_ore": {
+    "sound": "stone"
+  },
+  "linesia:mine_ames_random_ore": {
+    "sound": "stone"
+  },
+  "linesia:mine_ames_emblem": {
+    "sound": "stone"
+  },
+  "linesia:mine_abysses_rubis_ore": {
+    "sound": "stone"
+  },
+  "linesia:mine_abysses_rubis_heart": {
+    "sound": "stone"
+  },
+  "linesia:mine_abysses_onyx_ore": {
+    "sound": "stone"
+  },
+  "linesia:mine_abysses_random_ore": {
+    "sound": "stone"
+  },
+  "linesia:mine_abysses_emblem": {
+    "sound": "stone"
+  },
+  "linesia:mine_orage_rubis_ore": {
+    "sound": "stone"
+  },
+  "linesia:mine_orage_rubis_heart": {
+    "sound": "stone"
+  },
+  "linesia:mine_orage_onyx_ore": {
+    "sound": "stone"
+  },
+  "linesia:mine_orage_onyx_heart": {
+    "sound": "stone"
+  },
+  "linesia:mine_orage_random_ore": {
+    "sound": "stone"
+  },
+  "linesia:mine_orage_emblem": {
+    "sound": "stone"
+  },
+  "linesia:mine_horloge_rubis_heart": {
+    "sound": "stone"
+  },
+  "linesia:mine_horloge_onyx_ore": {
+    "sound": "stone"
+  },
+  "linesia:mine_horloge_onyx_heart": {
+    "sound": "stone"
+  },
+  "linesia:mine_horloge_random_ore": {
+    "sound": "stone"
+  },
+  "linesia:mine_horloge_treasure_ore": {
+    "sound": "stone"
+  },
+  "linesia:mine_horloge_emblem": {
+    "sound": "stone"
+  },
+  "linesia:mine_ruines_rubis_heart": {
+    "sound": "stone"
+  },
+  "linesia:mine_ruines_onyx_ore": {
+    "sound": "stone"
+  },
+  "linesia:mine_ruines_onyx_heart": {
+    "sound": "stone"
+  },
+  "linesia:mine_ruines_random_ore": {
+    "sound": "stone"
+  },
+  "linesia:mine_ruines_emblem": {
+    "sound": "stone"
+  },
+  "linesia:mine_end_rubis_heart": {
+    "sound": "stone"
+  },
+  "linesia:mine_end_onyx_ore": {
+    "sound": "stone"
+  },
+  "linesia:mine_end_onyx_heart": {
+    "sound": "stone"
+  },
+  "linesia:mine_end_random_ore": {
+    "sound": "stone"
+  },
+  "linesia:mine_end_treasure_ore": {
+    "sound": "stone"
+  },
+  "linesia:mine_end_emblem": {
+    "sound": "stone"
+  },
+  "linesia:mine_astral_onyx_ore": {
+    "sound": "stone"
+  },
+  "linesia:mine_astral_onyx_heart": {
+    "sound": "stone"
+  },
+  "linesia:mine_astral_random_ore": {
+    "sound": "stone"
+  },
+  "linesia:mine_astral_treasure_ore": {
+    "sound": "stone"
+  },
+  "linesia:mine_astral_emblem": {
+    "sound": "stone"
+  },
+  "linesia:mine_celeste_onyx_ore": {
+    "sound": "stone"
+  },
+  "linesia:mine_celeste_onyx_heart": {
+    "sound": "stone"
+  },
+  "linesia:mine_celeste_random_ore": {
+    "sound": "stone"
+  },
+  "linesia:mine_celeste_treasure_ore": {
+    "sound": "stone"
+  },
+  "linesia:mine_celeste_emblem": {
+    "sound": "stone"
+  },
+  "linesia:mine_neant_onyx_ore": {
+    "sound": "stone"
+  },
+  "linesia:mine_neant_onyx_heart": {
+    "sound": "stone"
+  },
+  "linesia:mine_neant_random_ore": {
+    "sound": "stone"
+  },
+  "linesia:mine_neant_treasure_ore": {
+    "sound": "stone"
+  },
+  "linesia:mine_neant_emblem": {
+    "sound": "stone"
+  },
+  "linesia:mine_prisme_onyx_ore": {
+    "sound": "stone"
+  },
+  "linesia:mine_prisme_onyx_heart": {
+    "sound": "stone"
+  },
+  "linesia:mine_prisme_random_ore": {
+    "sound": "stone"
+  },
+  "linesia:mine_prisme_treasure_ore": {
+    "sound": "stone"
+  },
+  "linesia:mine_prisme_emblem": {
+    "sound": "stone"
+  },
+  "linesia:mine_onyx_onyx_ore": {
+    "sound": "stone"
+  },
+  "linesia:mine_onyx_onyx_heart": {
+    "sound": "stone"
+  },
+  "linesia:mine_onyx_random_ore": {
+    "sound": "stone"
+  },
+  "linesia:mine_onyx_treasure_ore": {
+    "sound": "stone"
+  },
+  "linesia:mine_onyx_emblem": {
+    "sound": "stone"
+  },
+  "linesia:dig_plage_iron_ore": {
+    "sound": "gravel"
+  },
+  "linesia:dig_plage_rich_iron_ore": {
+    "sound": "gravel"
+  },
+  "linesia:dig_plage_emerald_ore": {
+    "sound": "gravel"
+  },
+  "linesia:dig_plage_random_ore": {
+    "sound": "gravel"
+  },
+  "linesia:dig_plage_emblem": {
+    "sound": "stone"
+  },
+  "linesia:dig_riviere_iron_ore": {
+    "sound": "gravel"
+  },
+  "linesia:dig_riviere_rich_iron_ore": {
+    "sound": "gravel"
+  },
+  "linesia:dig_riviere_emerald_ore": {
+    "sound": "gravel"
+  },
+  "linesia:dig_riviere_random_ore": {
+    "sound": "gravel"
+  },
+  "linesia:dig_riviere_emblem": {
+    "sound": "stone"
+  },
+  "linesia:dig_fertile_iron_ore": {
+    "sound": "gravel"
+  },
+  "linesia:dig_fertile_rich_iron_ore": {
+    "sound": "gravel"
+  },
+  "linesia:dig_fertile_emerald_ore": {
+    "sound": "gravel"
+  },
+  "linesia:dig_fertile_amethyste_ore": {
+    "sound": "gravel"
+  },
+  "linesia:dig_fertile_random_ore": {
+    "sound": "gravel"
+  },
+  "linesia:dig_fertile_emblem": {
+    "sound": "stone"
+  },
+  "linesia:dig_tourbe_iron_ore": {
+    "sound": "gravel"
+  },
+  "linesia:dig_tourbe_rich_iron_ore": {
+    "sound": "gravel"
+  },
+  "linesia:dig_tourbe_emerald_ore": {
+    "sound": "gravel"
+  },
+  "linesia:dig_tourbe_amethyste_ore": {
+    "sound": "gravel"
+  },
+  "linesia:dig_tourbe_random_ore": {
+    "sound": "gravel"
+  },
+  "linesia:dig_tourbe_emblem": {
+    "sound": "stone"
+  },
+  "linesia:dig_argile_rich_iron_ore": {
+    "sound": "gravel"
+  },
+  "linesia:dig_argile_emerald_ore": {
+    "sound": "gravel"
+  },
+  "linesia:dig_argile_amethyste_ore": {
+    "sound": "gravel"
+  },
+  "linesia:dig_argile_random_ore": {
+    "sound": "gravel"
+  },
+  "linesia:dig_argile_emblem": {
+    "sound": "stone"
+  },
+  "linesia:dig_ecarlate_rich_iron_ore": {
+    "sound": "gravel"
+  },
+  "linesia:dig_ecarlate_emerald_ore": {
+    "sound": "gravel"
+  },
+  "linesia:dig_ecarlate_amethyste_ore": {
+    "sound": "gravel"
+  },
+  "linesia:dig_ecarlate_random_ore": {
+    "sound": "gravel"
+  },
+  "linesia:dig_ecarlate_emblem": {
+    "sound": "stone"
+  },
+  "linesia:dig_neige_emerald_ore": {
+    "sound": "gravel"
+  },
+  "linesia:dig_neige_amethyste_ore": {
+    "sound": "gravel"
+  },
+  "linesia:dig_neige_amethyste_geode": {
+    "sound": "gravel"
+  },
+  "linesia:dig_neige_random_ore": {
+    "sound": "gravel"
+  },
+  "linesia:dig_neige_emblem": {
+    "sound": "stone"
+  },
+  "linesia:dig_cendre_emerald_ore": {
+    "sound": "gravel"
+  },
+  "linesia:dig_cendre_amethyste_ore": {
+    "sound": "gravel"
+  },
+  "linesia:dig_cendre_amethyste_geode": {
+    "sound": "gravel"
+  },
+  "linesia:dig_cendre_random_ore": {
+    "sound": "gravel"
+  },
+  "linesia:dig_cendre_emblem": {
+    "sound": "stone"
+  },
+  "linesia:dig_spore_emerald_ore": {
+    "sound": "gravel"
+  },
+  "linesia:dig_spore_amethyste_ore": {
+    "sound": "gravel"
+  },
+  "linesia:dig_spore_amethyste_geode": {
+    "sound": "gravel"
+  },
+  "linesia:dig_spore_rubis_ore": {
+    "sound": "gravel"
+  },
+  "linesia:dig_spore_random_ore": {
+    "sound": "gravel"
+  },
+  "linesia:dig_spore_emblem": {
+    "sound": "stone"
+  },
+  "linesia:dig_corail_amethyste_ore": {
+    "sound": "gravel"
+  },
+  "linesia:dig_corail_amethyste_geode": {
+    "sound": "gravel"
+  },
+  "linesia:dig_corail_rubis_ore": {
+    "sound": "gravel"
+  },
+  "linesia:dig_corail_random_ore": {
+    "sound": "gravel"
+  },
+  "linesia:dig_corail_emblem": {
+    "sound": "stone"
+  },
+  "linesia:dig_saline_amethyste_ore": {
+    "sound": "gravel"
+  },
+  "linesia:dig_saline_amethyste_geode": {
+    "sound": "gravel"
+  },
+  "linesia:dig_saline_rubis_ore": {
+    "sound": "gravel"
+  },
+  "linesia:dig_saline_random_ore": {
+    "sound": "gravel"
+  },
+  "linesia:dig_saline_emblem": {
+    "sound": "stone"
+  },
+  "linesia:dig_soufre_amethyste_ore": {
+    "sound": "gravel"
+  },
+  "linesia:dig_soufre_amethyste_geode": {
+    "sound": "gravel"
+  },
+  "linesia:dig_soufre_rubis_ore": {
+    "sound": "gravel"
+  },
+  "linesia:dig_soufre_rubis_heart": {
+    "sound": "gravel"
+  },
+  "linesia:dig_soufre_random_ore": {
+    "sound": "gravel"
+  },
+  "linesia:dig_soufre_emblem": {
+    "sound": "stone"
+  },
+  "linesia:dig_rouille_amethyste_geode": {
+    "sound": "gravel"
+  },
+  "linesia:dig_rouille_rubis_ore": {
+    "sound": "gravel"
+  },
+  "linesia:dig_rouille_rubis_heart": {
+    "sound": "gravel"
+  },
+  "linesia:dig_rouille_random_ore": {
+    "sound": "gravel"
+  },
+  "linesia:dig_rouille_emblem": {
+    "sound": "stone"
+  },
+  "linesia:dig_spectre_amethyste_geode": {
+    "sound": "gravel"
+  },
+  "linesia:dig_spectre_rubis_ore": {
+    "sound": "gravel"
+  },
+  "linesia:dig_spectre_rubis_heart": {
+    "sound": "gravel"
+  },
+  "linesia:dig_spectre_onyx_ore": {
+    "sound": "gravel"
+  },
+  "linesia:dig_spectre_random_ore": {
+    "sound": "gravel"
+  },
+  "linesia:dig_spectre_emblem": {
+    "sound": "stone"
+  },
+  "linesia:dig_lapilli_rubis_ore": {
+    "sound": "gravel"
+  },
+  "linesia:dig_lapilli_rubis_heart": {
+    "sound": "gravel"
+  },
+  "linesia:dig_lapilli_onyx_ore": {
+    "sound": "gravel"
+  },
+  "linesia:dig_lapilli_random_ore": {
+    "sound": "gravel"
+  },
+  "linesia:dig_lapilli_emblem": {
+    "sound": "stone"
+  },
+  "linesia:dig_quartz_rubis_ore": {
+    "sound": "gravel"
+  },
+  "linesia:dig_quartz_rubis_heart": {
+    "sound": "gravel"
+  },
+  "linesia:dig_quartz_onyx_ore": {
+    "sound": "gravel"
+  },
+  "linesia:dig_quartz_random_ore": {
+    "sound": "gravel"
+  },
+  "linesia:dig_quartz_emblem": {
+    "sound": "stone"
+  },
+  "linesia:dig_lueur_rubis_ore": {
+    "sound": "gravel"
+  },
+  "linesia:dig_lueur_rubis_heart": {
+    "sound": "gravel"
+  },
+  "linesia:dig_lueur_onyx_ore": {
+    "sound": "gravel"
+  },
+  "linesia:dig_lueur_onyx_heart": {
+    "sound": "gravel"
+  },
+  "linesia:dig_lueur_random_ore": {
+    "sound": "gravel"
+  },
+  "linesia:dig_lueur_emblem": {
+    "sound": "stone"
+  },
+  "linesia:dig_meteore_rubis_heart": {
+    "sound": "gravel"
+  },
+  "linesia:dig_meteore_onyx_ore": {
+    "sound": "gravel"
+  },
+  "linesia:dig_meteore_onyx_heart": {
+    "sound": "gravel"
+  },
+  "linesia:dig_meteore_random_ore": {
+    "sound": "gravel"
+  },
+  "linesia:dig_meteore_treasure_ore": {
+    "sound": "gravel"
+  },
+  "linesia:dig_meteore_emblem": {
+    "sound": "stone"
+  },
+  "linesia:dig_ambre_rubis_heart": {
+    "sound": "gravel"
+  },
+  "linesia:dig_ambre_onyx_ore": {
+    "sound": "gravel"
+  },
+  "linesia:dig_ambre_onyx_heart": {
+    "sound": "gravel"
+  },
+  "linesia:dig_ambre_random_ore": {
+    "sound": "gravel"
+  },
+  "linesia:dig_ambre_emblem": {
+    "sound": "stone"
+  },
+  "linesia:dig_poussiere_rubis_heart": {
+    "sound": "gravel"
+  },
+  "linesia:dig_poussiere_onyx_ore": {
+    "sound": "gravel"
+  },
+  "linesia:dig_poussiere_onyx_heart": {
+    "sound": "gravel"
+  },
+  "linesia:dig_poussiere_random_ore": {
+    "sound": "gravel"
+  },
+  "linesia:dig_poussiere_treasure_ore": {
+    "sound": "gravel"
+  },
+  "linesia:dig_poussiere_emblem": {
+    "sound": "stone"
+  },
+  "linesia:dig_comete_onyx_ore": {
+    "sound": "gravel"
+  },
+  "linesia:dig_comete_onyx_heart": {
+    "sound": "gravel"
+  },
+  "linesia:dig_comete_random_ore": {
+    "sound": "gravel"
+  },
+  "linesia:dig_comete_treasure_ore": {
+    "sound": "gravel"
+  },
+  "linesia:dig_comete_emblem": {
+    "sound": "stone"
+  },
+  "linesia:dig_nuage_onyx_ore": {
+    "sound": "gravel"
+  },
+  "linesia:dig_nuage_onyx_heart": {
+    "sound": "gravel"
+  },
+  "linesia:dig_nuage_random_ore": {
+    "sound": "gravel"
+  },
+  "linesia:dig_nuage_treasure_ore": {
+    "sound": "gravel"
+  },
+  "linesia:dig_nuage_emblem": {
+    "sound": "stone"
+  },
+  "linesia:dig_ombre_onyx_ore": {
+    "sound": "gravel"
+  },
+  "linesia:dig_ombre_onyx_heart": {
+    "sound": "gravel"
+  },
+  "linesia:dig_ombre_random_ore": {
+    "sound": "gravel"
+  },
+  "linesia:dig_ombre_treasure_ore": {
+    "sound": "gravel"
+  },
+  "linesia:dig_ombre_emblem": {
+    "sound": "stone"
+  },
+  "linesia:dig_arcenciel_onyx_ore": {
+    "sound": "gravel"
+  },
+  "linesia:dig_arcenciel_onyx_heart": {
+    "sound": "gravel"
+  },
+  "linesia:dig_arcenciel_random_ore": {
+    "sound": "gravel"
+  },
+  "linesia:dig_arcenciel_treasure_ore": {
+    "sound": "gravel"
+  },
+  "linesia:dig_arcenciel_emblem": {
+    "sound": "stone"
+  },
+  "linesia:dig_pactole_onyx_ore": {
+    "sound": "gravel"
+  },
+  "linesia:dig_pactole_onyx_heart": {
+    "sound": "gravel"
+  },
+  "linesia:dig_pactole_random_ore": {
+    "sound": "gravel"
+  },
+  "linesia:dig_pactole_treasure_ore": {
+    "sound": "gravel"
+  },
+  "linesia:dig_pactole_emblem": {
+    "sound": "stone"
+  },
+  "linesia:mine_camp_emblem": {
+    "sound": "stone"
+  },
+  "linesia:dig_chantier_emblem": {
+    "sound": "stone"
+  },
+  "linesia:mine_chest": {
+    "sound": "wood"
+  },
+  "linesia:mine_chest_rich": {
+    "sound": "metal"
+  },
+  "linesia:hub_tuto_wheat": "grass",
+  "linesia:hub_tuto_wheat_young": "grass",
+  "linesia:hub_tuto_log": "wood",
+  "linesia:hub_tuto_log_stripped": "wood",
+  "linesia:hub_tuto_sand": "sand",
+  "linesia:hub_tuto_gravel": "gravel",
+  "linesia:hub_tuto_dug": "gravel",
+  "linesia:hub_tuto_ore": "stone",
+  "linesia:hub_tuto_ore_mined": "stone"
 }

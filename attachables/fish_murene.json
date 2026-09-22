@@ -1,0 +1,35 @@
+{
+  "format_version": "1.10.0",
+  "minecraft:attachable": {
+    "description": {
+      "identifier": "linesia:fish_murene",
+      "materials": {
+        "default": "entity_alphatest",
+        "enchanted": "entity_alphatest_glint"
+      },
+      "textures": {
+        "default": "textures/entity/fish/murene",
+        "enchanted": "textures/misc/enchanted_item_glint"
+      },
+      "geometry": {
+        "default": "geometry.linesia_fish_murene"
+      },
+      "animations": {
+        "hold_first_person": "animation.linesia_fish.hold_first_person",
+        "hold_third_person": "animation.linesia_fish.hold_third_person",
+        "hold": "controller.animation.linesia_fish.hold"
+      },
+      "scripts": {
+        "pre_animation": [
+          "v.hold_scale = 0.35;"
+        ],
+        "animate": [
+          "hold"
+        ]
+      },
+      "render_controllers": [
+        "controller.render.item_default"
+      ]
+    }
+  }
+}
