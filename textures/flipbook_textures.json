@@ -1,0 +1,116 @@
+[
+  {
+    "flipbook_texture": "textures/blocks/energy/state/screen_on",
+    "atlas_tile": "linesia_energy_screen_on",
+    "ticks_per_frame": 3,
+    "blend_frames": false
+  },
+  {
+    "flipbook_texture": "textures/blocks/energy/state/screen_gen",
+    "atlas_tile": "linesia_energy_screen_gen",
+    "ticks_per_frame": 3,
+    "blend_frames": false
+  },
+  {
+    "flipbook_texture": "textures/blocks/energy/state/screen_nopower",
+    "atlas_tile": "linesia_energy_screen_nopower",
+    "ticks_per_frame": 10,
+    "blend_frames": false
+  },
+  {
+    "flipbook_texture": "textures/blocks/energy/state/screen_blocked",
+    "atlas_tile": "linesia_energy_screen_blocked",
+    "ticks_per_frame": 10,
+    "blend_frames": false
+  },
+  {
+    "flipbook_texture": "textures/blocks/energy/state/fire_on",
+    "atlas_tile": "linesia_energy_fire_on",
+    "ticks_per_frame": 3,
+    "blend_frames": false
+  },
+  {
+    "flipbook_texture": "textures/blocks/energy/state/fire_blocked",
+    "atlas_tile": "linesia_energy_fire_blocked",
+    "ticks_per_frame": 10,
+    "blend_frames": false
+  },
+  {
+    "flipbook_texture": "textures/blocks/energy/state/goo_on",
+    "atlas_tile": "linesia_energy_goo_on",
+    "ticks_per_frame": 3,
+    "blend_frames": false
+  },
+  {
+    "flipbook_texture": "textures/blocks/energy/state/oven_on",
+    "atlas_tile": "linesia_energy_oven_on",
+    "ticks_per_frame": 3,
+    "blend_frames": false
+  },
+  {
+    "flipbook_texture": "textures/blocks/energy/state/core_on",
+    "atlas_tile": "linesia_energy_core_on",
+    "ticks_per_frame": 3,
+    "blend_frames": false
+  },
+  {
+    "flipbook_texture": "textures/blocks/energy/state/core_hot",
+    "atlas_tile": "linesia_energy_core_hot",
+    "ticks_per_frame": 3,
+    "blend_frames": false
+  },
+  {
+    "flipbook_texture": "textures/blocks/energy/state/lava_on",
+    "atlas_tile": "linesia_energy_lava_on",
+    "ticks_per_frame": 3,
+    "blend_frames": false
+  },
+  {
+    "flipbook_texture": "textures/blocks/energy/state/belt_run",
+    "atlas_tile": "linesia_energy_belt_run",
+    "ticks_per_frame": 2,
+    "blend_frames": false
+  },
+  {
+    "flipbook_texture": "textures/blocks/energy/state/port_on",
+    "atlas_tile": "linesia_energy_port_on",
+    "ticks_per_frame": 2,
+    "blend_frames": false
+  },
+  {
+    "flipbook_texture": "textures/blocks/energy/state/flow_copper_on",
+    "atlas_tile": "linesia_energy_flow_copper_on",
+    "ticks_per_frame": 2,
+    "blend_frames": false
+  },
+  {
+    "flipbook_texture": "textures/blocks/energy/state/flow_copper_overload",
+    "atlas_tile": "linesia_energy_flow_copper_overload",
+    "ticks_per_frame": 2,
+    "blend_frames": false
+  },
+  {
+    "flipbook_texture": "textures/blocks/energy/state/flow_gold_on",
+    "atlas_tile": "linesia_energy_flow_gold_on",
+    "ticks_per_frame": 2,
+    "blend_frames": false
+  },
+  {
+    "flipbook_texture": "textures/blocks/energy/state/flow_gold_overload",
+    "atlas_tile": "linesia_energy_flow_gold_overload",
+    "ticks_per_frame": 2,
+    "blend_frames": false
+  },
+  {
+    "flipbook_texture": "textures/blocks/energy/state/flow_crystal_on",
+    "atlas_tile": "linesia_energy_flow_crystal_on",
+    "ticks_per_frame": 2,
+    "blend_frames": false
+  },
+  {
+    "flipbook_texture": "textures/blocks/energy/state/flow_crystal_overload",
+    "atlas_tile": "linesia_energy_flow_crystal_overload",
+    "ticks_per_frame": 2,
+    "blend_frames": false
+  }
+]

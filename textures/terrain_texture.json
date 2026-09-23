@@ -519,6 +519,195 @@
     "linesia_dig_tourbe_rich_iron_ore": {
       "textures": "textures/blocks/world/dig/tourbe/rich_iron_ore"
     },
+    "linesia_energy_accelerator": {
+      "textures": "textures/blocks/energy/accelerator"
+    },
+    "linesia_energy_battery": {
+      "textures": "textures/blocks/energy/battery"
+    },
+    "linesia_energy_battery_crystal": {
+      "textures": "textures/blocks/energy/battery_crystal"
+    },
+    "linesia_energy_battery_large": {
+      "textures": "textures/blocks/energy/battery_large"
+    },
+    "linesia_energy_belt_run": {
+      "textures": "textures/blocks/energy/state/belt_run"
+    },
+    "linesia_energy_belt_still": {
+      "textures": "textures/blocks/energy/state/belt_still"
+    },
+    "linesia_energy_biogas": {
+      "textures": "textures/blocks/energy/biogas"
+    },
+    "linesia_energy_boiler": {
+      "textures": "textures/blocks/energy/boiler"
+    },
+    "linesia_energy_cable": {
+      "textures": "textures/blocks/energy/cable"
+    },
+    "linesia_energy_cable_crystal": {
+      "textures": "textures/blocks/energy/cable_crystal"
+    },
+    "linesia_energy_cable_gold": {
+      "textures": "textures/blocks/energy/cable_gold"
+    },
+    "linesia_energy_conveyor": {
+      "textures": "textures/blocks/energy/conveyor"
+    },
+    "linesia_energy_core_hot": {
+      "textures": "textures/blocks/energy/state/core_hot"
+    },
+    "linesia_energy_core_off": {
+      "textures": "textures/blocks/energy/state/core_off"
+    },
+    "linesia_energy_core_on": {
+      "textures": "textures/blocks/energy/state/core_on"
+    },
+    "linesia_energy_crank": {
+      "textures": "textures/blocks/energy/crank"
+    },
+    "linesia_energy_drill": {
+      "textures": "textures/blocks/energy/drill"
+    },
+    "linesia_energy_extractor": {
+      "textures": "textures/blocks/energy/extractor"
+    },
+    "linesia_energy_fire_blocked": {
+      "textures": "textures/blocks/energy/state/fire_blocked"
+    },
+    "linesia_energy_fire_off": {
+      "textures": "textures/blocks/energy/state/fire_off"
+    },
+    "linesia_energy_fire_on": {
+      "textures": "textures/blocks/energy/state/fire_on"
+    },
+    "linesia_energy_fisher": {
+      "textures": "textures/blocks/energy/fisher"
+    },
+    "linesia_energy_flow_copper_off": {
+      "textures": "textures/blocks/energy/state/flow_copper_off"
+    },
+    "linesia_energy_flow_copper_on": {
+      "textures": "textures/blocks/energy/state/flow_copper_on"
+    },
+    "linesia_energy_flow_copper_overload": {
+      "textures": "textures/blocks/energy/state/flow_copper_overload"
+    },
+    "linesia_energy_flow_crystal_off": {
+      "textures": "textures/blocks/energy/state/flow_crystal_off"
+    },
+    "linesia_energy_flow_crystal_on": {
+      "textures": "textures/blocks/energy/state/flow_crystal_on"
+    },
+    "linesia_energy_flow_crystal_overload": {
+      "textures": "textures/blocks/energy/state/flow_crystal_overload"
+    },
+    "linesia_energy_flow_gold_off": {
+      "textures": "textures/blocks/energy/state/flow_gold_off"
+    },
+    "linesia_energy_flow_gold_on": {
+      "textures": "textures/blocks/energy/state/flow_gold_on"
+    },
+    "linesia_energy_flow_gold_overload": {
+      "textures": "textures/blocks/energy/state/flow_gold_overload"
+    },
+    "linesia_energy_furnace": {
+      "textures": "textures/blocks/energy/furnace"
+    },
+    "linesia_energy_gauge_0": {
+      "textures": "textures/blocks/energy/state/gauge_0"
+    },
+    "linesia_energy_gauge_1": {
+      "textures": "textures/blocks/energy/state/gauge_1"
+    },
+    "linesia_energy_gauge_2": {
+      "textures": "textures/blocks/energy/state/gauge_2"
+    },
+    "linesia_energy_gauge_3": {
+      "textures": "textures/blocks/energy/state/gauge_3"
+    },
+    "linesia_energy_gauge_4": {
+      "textures": "textures/blocks/energy/state/gauge_4"
+    },
+    "linesia_energy_gauge_5": {
+      "textures": "textures/blocks/energy/state/gauge_5"
+    },
+    "linesia_energy_geothermal": {
+      "textures": "textures/blocks/energy/geothermal"
+    },
+    "linesia_energy_goo_blocked": {
+      "textures": "textures/blocks/energy/state/goo_blocked"
+    },
+    "linesia_energy_goo_off": {
+      "textures": "textures/blocks/energy/state/goo_off"
+    },
+    "linesia_energy_goo_on": {
+      "textures": "textures/blocks/energy/state/goo_on"
+    },
+    "linesia_energy_grinder": {
+      "textures": "textures/blocks/energy/grinder"
+    },
+    "linesia_energy_harvester": {
+      "textures": "textures/blocks/energy/harvester"
+    },
+    "linesia_energy_lava_off": {
+      "textures": "textures/blocks/energy/state/lava_off"
+    },
+    "linesia_energy_lava_on": {
+      "textures": "textures/blocks/energy/state/lava_on"
+    },
+    "linesia_energy_lumber": {
+      "textures": "textures/blocks/energy/lumber"
+    },
+    "linesia_energy_oven_off": {
+      "textures": "textures/blocks/energy/state/oven_off"
+    },
+    "linesia_energy_oven_on": {
+      "textures": "textures/blocks/energy/state/oven_on"
+    },
+    "linesia_energy_pipe": {
+      "textures": "textures/blocks/energy/pipe"
+    },
+    "linesia_energy_port_off": {
+      "textures": "textures/blocks/energy/state/port_off"
+    },
+    "linesia_energy_port_on": {
+      "textures": "textures/blocks/energy/state/port_on"
+    },
+    "linesia_energy_reactor": {
+      "textures": "textures/blocks/energy/reactor"
+    },
+    "linesia_energy_screen_blocked": {
+      "textures": "textures/blocks/energy/state/screen_blocked"
+    },
+    "linesia_energy_screen_gen": {
+      "textures": "textures/blocks/energy/state/screen_gen"
+    },
+    "linesia_energy_screen_nopower": {
+      "textures": "textures/blocks/energy/state/screen_nopower"
+    },
+    "linesia_energy_screen_off": {
+      "textures": "textures/blocks/energy/state/screen_off"
+    },
+    "linesia_energy_screen_on": {
+      "textures": "textures/blocks/energy/state/screen_on"
+    },
+    "linesia_energy_solar": {
+      "textures": "textures/blocks/energy/solar"
+    },
+    "linesia_energy_sprinkler": {
+      "textures": "textures/blocks/energy/sprinkler"
+    },
+    "linesia_energy_vacuum": {
+      "textures": "textures/blocks/energy/vacuum"
+    },
+    "linesia_energy_watermill": {
+      "textures": "textures/blocks/energy/watermill"
+    },
+    "linesia_energy_wind": {
+      "textures": "textures/blocks/energy/wind"
+    },
     "linesia_farm_ames_emblem": {
       "textures": "textures/blocks/world/farm/ames/emblem"
     },

@@ -1,0 +1,272 @@
+{
+  "format_version": "1.16.0",
+  "minecraft:geometry": [
+    {
+      "description": {
+        "identifier": "geometry.linesia_energy_extractor",
+        "texture_width": 64,
+        "texture_height": 64
+      },
+      "bones": [
+        {
+          "name": "root",
+          "pivot": [
+            0,
+            0,
+            0
+          ],
+          "cubes": [
+            {
+              "origin": [
+                -5,
+                3,
+                -5
+              ],
+              "size": [
+                10,
+                10,
+                10
+              ],
+              "uv": {
+                "north": {
+                  "uv": [
+                    22,
+                    0
+                  ],
+                  "uv_size": [
+                    10,
+                    10
+                  ]
+                },
+                "south": {
+                  "uv": [
+                    32,
+                    0
+                  ],
+                  "uv_size": [
+                    10,
+                    10
+                  ]
+                },
+                "east": {
+                  "uv": [
+                    42,
+                    0
+                  ],
+                  "uv_size": [
+                    10,
+                    10
+                  ]
+                },
+                "west": {
+                  "uv": [
+                    52,
+                    0
+                  ],
+                  "uv_size": [
+                    10,
+                    10
+                  ]
+                },
+                "up": {
+                  "uv": [
+                    0,
+                    11
+                  ],
+                  "uv_size": [
+                    10,
+                    10
+                  ]
+                },
+                "down": {
+                  "uv": [
+                    10,
+                    11
+                  ],
+                  "uv_size": [
+                    10,
+                    10
+                  ]
+                }
+              }
+            },
+            {
+              "origin": [
+                -5.5,
+                7,
+                -5.5
+              ],
+              "size": [
+                11,
+                2,
+                11
+              ],
+              "uv": {
+                "north": {
+                  "uv": [
+                    20,
+                    11
+                  ],
+                  "uv_size": [
+                    11,
+                    2
+                  ]
+                },
+                "south": {
+                  "uv": [
+                    31,
+                    11
+                  ],
+                  "uv_size": [
+                    11,
+                    2
+                  ]
+                },
+                "east": {
+                  "uv": [
+                    42,
+                    11
+                  ],
+                  "uv_size": [
+                    11,
+                    2
+                  ]
+                },
+                "west": {
+                  "uv": [
+                    53,
+                    11
+                  ],
+                  "uv_size": [
+                    11,
+                    2
+                  ]
+                },
+                "up": {
+                  "uv": [
+                    0,
+                    0
+                  ],
+                  "uv_size": [
+                    11,
+                    11
+                  ]
+                },
+                "down": {
+                  "uv": [
+                    11,
+                    0
+                  ],
+                  "uv_size": [
+                    11,
+                    11
+                  ]
+                }
+              }
+            },
+            {
+              "origin": [
+                -3.5,
+                4,
+                -5.05
+              ],
+              "size": [
+                7,
+                8,
+                0.05
+              ],
+              "uv": {
+                "north": {
+                  "uv": [
+                    0,
+                    0
+                  ],
+                  "uv_size": [
+                    64,
+                    64
+                  ],
+                  "material_instance": "screen"
+                }
+              }
+            },
+            {
+              "origin": [
+                -3.5,
+                4,
+                5
+              ],
+              "size": [
+                7,
+                8,
+                0.05
+              ],
+              "uv": {
+                "south": {
+                  "uv": [
+                    0,
+                    0
+                  ],
+                  "uv_size": [
+                    64,
+                    64
+                  ],
+                  "material_instance": "screen"
+                }
+              }
+            },
+            {
+              "origin": [
+                4,
+                4,
+                -4.5
+              ],
+              "size": [
+                0.05,
+                8,
+                9
+              ],
+              "uv": {
+                "west": {
+                  "uv": [
+                    0,
+                    0
+                  ],
+                  "uv_size": [
+                    64,
+                    64
+                  ],
+                  "material_instance": "screen"
+                }
+              }
+            },
+            {
+              "origin": [
+                -4.05,
+                4,
+                -4.5
+              ],
+              "size": [
+                0.05,
+                8,
+                9
+              ],
+              "uv": {
+                "east": {
+                  "uv": [
+                    0,
+                    0
+                  ],
+                  "uv_size": [
+                    64,
+                    64
+                  ],
+                  "material_instance": "screen"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -440,6 +440,18 @@
     "key_tree_sapling": {
       "textures": "textures/blocks/sapling/key_tree_sapling"
     },
+    "linesia_energy_module_efficiency": {
+      "textures": "textures/items/energy/module_efficiency"
+    },
+    "linesia_energy_module_range": {
+      "textures": "textures/items/energy/module_range"
+    },
+    "linesia_energy_module_speed": {
+      "textures": "textures/items/energy/module_speed"
+    },
+    "linesia_energy_wrench": {
+      "textures": "textures/items/energy/wrench"
+    },
     "linesia_fish_ablette": {
       "textures": "textures/items/fish/ablette"
     },

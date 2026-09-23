@@ -1,0 +1,72 @@
+{
+  "format_version": "1.10.0",
+  "particle_effect": {
+    "description": {
+      "identifier": "linesia:energy_smoke",
+      "basic_render_parameters": {
+        "material": "particles_blend",
+        "texture": "textures/particle/energy_particles"
+      }
+    },
+    "components": {
+      "minecraft:emitter_rate_instant": {
+        "num_particles": 2
+      },
+      "minecraft:emitter_lifetime_once": {
+        "active_time": 0
+      },
+      "minecraft:emitter_shape_sphere": {
+        "offset": [
+          0,
+          0,
+          0
+        ],
+        "radius": 0.12,
+        "direction": [
+          0,
+          1,
+          0
+        ]
+      },
+      "minecraft:particle_initial_speed": 0.5,
+      "minecraft:particle_lifetime_expression": {
+        "max_lifetime": "math.random(2.4, 3.6)"
+      },
+      "minecraft:particle_motion_dynamic": {
+        "linear_acceleration": [
+          0.18,
+          0.35,
+          0.05
+        ],
+        "linear_drag_coefficient": 0.3
+      },
+      "minecraft:particle_appearance_billboard": {
+        "size": [
+          "0.28 * (1 + v.particle_age * 0.6)",
+          "0.28 * (1 + v.particle_age * 0.6)"
+        ],
+        "facing_camera_mode": "rotate_xyz",
+        "uv": {
+          "texture_width": 64,
+          "texture_height": 64,
+          "uv": [
+            16,
+            0
+          ],
+          "uv_size": [
+            8,
+            8
+          ]
+        }
+      },
+      "minecraft:particle_appearance_tinting": {
+        "color": [
+          0.416,
+          0.4,
+          0.376,
+          "math.min(1, (1 - v.particle_age / v.particle_lifetime) * 2.5) * math.min(1, v.particle_age / v.particle_lifetime * 6)"
+        ]
+      }
+    }
+  }
+}

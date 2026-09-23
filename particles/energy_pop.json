@@ -1,0 +1,68 @@
+{
+  "format_version": "1.10.0",
+  "particle_effect": {
+    "description": {
+      "identifier": "linesia:energy_pop",
+      "basic_render_parameters": {
+        "material": "particles_add",
+        "texture": "textures/particle/energy_particles"
+      }
+    },
+    "components": {
+      "minecraft:emitter_rate_instant": {
+        "num_particles": 1
+      },
+      "minecraft:emitter_lifetime_once": {
+        "active_time": 0
+      },
+      "minecraft:emitter_shape_sphere": {
+        "offset": [
+          0,
+          0,
+          0
+        ],
+        "radius": 0.2,
+        "direction": "outwards"
+      },
+      "minecraft:particle_initial_speed": 0,
+      "minecraft:particle_lifetime_expression": {
+        "max_lifetime": "math.random(0.25, 0.25)"
+      },
+      "minecraft:particle_motion_dynamic": {
+        "linear_acceleration": [
+          0,
+          0,
+          0
+        ],
+        "linear_drag_coefficient": 0.0
+      },
+      "minecraft:particle_appearance_billboard": {
+        "size": [
+          "0.25 * (0.4 + 1.4 * v.particle_age / v.particle_lifetime)",
+          "0.25 * (0.4 + 1.4 * v.particle_age / v.particle_lifetime)"
+        ],
+        "facing_camera_mode": "rotate_xyz",
+        "uv": {
+          "texture_width": 64,
+          "texture_height": 64,
+          "uv": [
+            16,
+            8
+          ],
+          "uv_size": [
+            8,
+            8
+          ]
+        }
+      },
+      "minecraft:particle_appearance_tinting": {
+        "color": [
+          0.749,
+          0.965,
+          1.0,
+          "1"
+        ]
+      }
+    }
+  }
+}

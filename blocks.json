@@ -1623,5 +1623,83 @@
   "linesia:hub_tuto_gravel": "gravel",
   "linesia:hub_tuto_dug": "gravel",
   "linesia:hub_tuto_ore": "stone",
-  "linesia:hub_tuto_ore_mined": "stone"
+  "linesia:hub_tuto_ore_mined": "stone",
+  "linesia:energy_crank": {
+    "sound": "metal"
+  },
+  "linesia:energy_solar": {
+    "sound": "glass"
+  },
+  "linesia:energy_wind": {
+    "sound": "metal"
+  },
+  "linesia:energy_watermill": {
+    "sound": "metal"
+  },
+  "linesia:energy_boiler": {
+    "sound": "metal"
+  },
+  "linesia:energy_biogas": {
+    "sound": "metal"
+  },
+  "linesia:energy_geothermal": {
+    "sound": "stone"
+  },
+  "linesia:energy_reactor": {
+    "sound": "metal"
+  },
+  "linesia:energy_battery": {
+    "sound": "metal"
+  },
+  "linesia:energy_battery_large": {
+    "sound": "metal"
+  },
+  "linesia:energy_battery_crystal": {
+    "sound": "metal"
+  },
+  "linesia:energy_cable": {
+    "sound": "copper"
+  },
+  "linesia:energy_cable_gold": {
+    "sound": "copper"
+  },
+  "linesia:energy_cable_crystal": {
+    "sound": "amethyst_block"
+  },
+  "linesia:energy_pipe": {
+    "sound": "glass"
+  },
+  "linesia:energy_conveyor": {
+    "sound": "metal"
+  },
+  "linesia:energy_extractor": {
+    "sound": "metal"
+  },
+  "linesia:energy_furnace": {
+    "sound": "metal"
+  },
+  "linesia:energy_harvester": {
+    "sound": "metal"
+  },
+  "linesia:energy_grinder": {
+    "sound": "metal"
+  },
+  "linesia:energy_vacuum": {
+    "sound": "metal"
+  },
+  "linesia:energy_sprinkler": {
+    "sound": "metal"
+  },
+  "linesia:energy_drill": {
+    "sound": "metal"
+  },
+  "linesia:energy_lumber": {
+    "sound": "wood"
+  },
+  "linesia:energy_fisher": {
+    "sound": "wood"
+  },
+  "linesia:energy_accelerator": {
+    "sound": "metal"
+  }
 }
