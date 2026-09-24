@@ -68,7 +68,7 @@
   {
     "flipbook_texture": "textures/blocks/energy/state/belt_run",
     "atlas_tile": "linesia_energy_belt_run",
-    "ticks_per_frame": 2,
+    "ticks_per_frame": 1,
     "blend_frames": false
   },
   {
