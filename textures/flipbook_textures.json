@@ -124,5 +124,65 @@
     "atlas_tile": "linesia_energy_flow_crystal_overload",
     "ticks_per_frame": 2,
     "blend_frames": false
+  },
+  {
+    "flipbook_texture": "textures/blocks/world/mine/common/chest",
+    "atlas_tile": "linesia_mine_chest",
+    "ticks_per_frame": 3,
+    "blend_frames": true
+  },
+  {
+    "flipbook_texture": "textures/blocks/world/mine/common/chest_rich",
+    "atlas_tile": "linesia_mine_chest_rich",
+    "ticks_per_frame": 3,
+    "blend_frames": true
+  },
+  {
+    "flipbook_texture": "textures/blocks/world/mine/common/urn",
+    "atlas_tile": "linesia_mine_urn",
+    "ticks_per_frame": 3,
+    "blend_frames": true
+  },
+  {
+    "flipbook_texture": "textures/blocks/world/mine/common/urn_rich",
+    "atlas_tile": "linesia_mine_urn_rich",
+    "ticks_per_frame": 3,
+    "blend_frames": true
+  },
+  {
+    "flipbook_texture": "textures/blocks/world/farm/common/crate",
+    "atlas_tile": "linesia_farm_crate",
+    "ticks_per_frame": 3,
+    "blend_frames": true
+  },
+  {
+    "flipbook_texture": "textures/blocks/world/farm/common/crate_gold",
+    "atlas_tile": "linesia_farm_crate_gold",
+    "ticks_per_frame": 3,
+    "blend_frames": true
+  },
+  {
+    "flipbook_texture": "textures/blocks/world/grove/common/heart",
+    "atlas_tile": "linesia_wood_heart",
+    "ticks_per_frame": 3,
+    "blend_frames": true
+  },
+  {
+    "flipbook_texture": "textures/blocks/world/grove/common/heart_gold",
+    "atlas_tile": "linesia_wood_heart_gold",
+    "ticks_per_frame": 3,
+    "blend_frames": true
+  },
+  {
+    "flipbook_texture": "textures/blocks/world/grove/common/heart_astral",
+    "atlas_tile": "linesia_wood_heart_astral",
+    "ticks_per_frame": 3,
+    "blend_frames": true
+  },
+  {
+    "flipbook_texture": "textures/blocks/world/grove/common/hive_gold",
+    "atlas_tile": "linesia_wood_hive_gold",
+    "ticks_per_frame": 3,
+    "blend_frames": true
   }
 ]

@@ -2283,6 +2283,12 @@
     "linesia_mine_sakura_rubis_ore": {
       "textures": "textures/blocks/world/mine/sakura/rubis_ore"
     },
+    "linesia_mine_urn": {
+      "textures": "textures/blocks/world/mine/common/urn"
+    },
+    "linesia_mine_urn_rich": {
+      "textures": "textures/blocks/world/mine/common/urn_rich"
+    },
     "linesia_mine_volcan_amethyste_geode": {
       "textures": "textures/blocks/world/mine/volcan/amethyste_geode"
     },
