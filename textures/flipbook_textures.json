@@ -72,6 +72,18 @@
     "blend_frames": false
   },
   {
+    "flipbook_texture": "textures/blocks/energy/state/belt_turn_w_run",
+    "atlas_tile": "linesia_energy_belt_turn_w_run",
+    "ticks_per_frame": 1,
+    "blend_frames": false
+  },
+  {
+    "flipbook_texture": "textures/blocks/energy/state/belt_turn_e_run",
+    "atlas_tile": "linesia_energy_belt_turn_e_run",
+    "ticks_per_frame": 1,
+    "blend_frames": false
+  },
+  {
     "flipbook_texture": "textures/blocks/energy/state/port_on",
     "atlas_tile": "linesia_energy_port_on",
     "ticks_per_frame": 2,

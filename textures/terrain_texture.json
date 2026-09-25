@@ -537,6 +537,18 @@
     "linesia_energy_belt_still": {
       "textures": "textures/blocks/energy/state/belt_still"
     },
+    "linesia_energy_belt_turn_e_run": {
+      "textures": "textures/blocks/energy/state/belt_turn_e_run"
+    },
+    "linesia_energy_belt_turn_e_still": {
+      "textures": "textures/blocks/energy/state/belt_turn_e_still"
+    },
+    "linesia_energy_belt_turn_w_run": {
+      "textures": "textures/blocks/energy/state/belt_turn_w_run"
+    },
+    "linesia_energy_belt_turn_w_still": {
+      "textures": "textures/blocks/energy/state/belt_turn_w_still"
+    },
     "linesia_energy_biogas": {
       "textures": "textures/blocks/energy/biogas"
     },
@@ -668,6 +680,9 @@
     },
     "linesia_energy_pipe": {
       "textures": "textures/blocks/energy/pipe"
+    },
+    "linesia_energy_pipe_filter": {
+      "textures": "textures/blocks/energy/pipe_filter"
     },
     "linesia_energy_port_off": {
       "textures": "textures/blocks/energy/state/port_off"

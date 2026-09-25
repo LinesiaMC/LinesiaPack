@@ -172,81 +172,6 @@
   "linesia:farm_crate_gold": {
     "sound": "wood"
   },
-  "linesia:cove_etang_emblem": {
-    "sound": "stone"
-  },
-  "linesia:cove_riviere_emblem": {
-    "sound": "stone"
-  },
-  "linesia:cove_roseliere_emblem": {
-    "sound": "stone"
-  },
-  "linesia:cove_cascade_emblem": {
-    "sound": "stone"
-  },
-  "linesia:cove_mangrove_emblem": {
-    "sound": "stone"
-  },
-  "linesia:cove_lagon_emblem": {
-    "sound": "stone"
-  },
-  "linesia:cove_recif_emblem": {
-    "sound": "stone"
-  },
-  "linesia:cove_kelp_emblem": {
-    "sound": "stone"
-  },
-  "linesia:cove_banquise_emblem": {
-    "sound": "stone"
-  },
-  "linesia:cove_fjord_emblem": {
-    "sound": "stone"
-  },
-  "linesia:cove_geyser_emblem": {
-    "sound": "stone"
-  },
-  "linesia:cove_grotte_emblem": {
-    "sound": "stone"
-  },
-  "linesia:cove_epave_emblem": {
-    "sound": "stone"
-  },
-  "linesia:cove_abysse_emblem": {
-    "sound": "stone"
-  },
-  "linesia:cove_luciole_emblem": {
-    "sound": "stone"
-  },
-  "linesia:cove_sargasse_emblem": {
-    "sound": "stone"
-  },
-  "linesia:cove_maelstrom_emblem": {
-    "sound": "stone"
-  },
-  "linesia:cove_saline_emblem": {
-    "sound": "stone"
-  },
-  "linesia:cove_soufre_emblem": {
-    "sound": "stone"
-  },
-  "linesia:cove_cendre_emblem": {
-    "sound": "stone"
-  },
-  "linesia:cove_cristal_emblem": {
-    "sound": "stone"
-  },
-  "linesia:cove_astral_emblem": {
-    "sound": "stone"
-  },
-  "linesia:cove_nuage_emblem": {
-    "sound": "stone"
-  },
-  "linesia:cove_neant_emblem": {
-    "sound": "stone"
-  },
-  "linesia:cove_empyree_emblem": {
-    "sound": "stone"
-  },
   "linesia:wood_hameau_log": {
     "sound": "wood"
   },
@@ -1669,6 +1594,9 @@
   "linesia:energy_pipe": {
     "sound": "glass"
   },
+  "linesia:energy_pipe_filter": {
+    "sound": "glass"
+  },
   "linesia:energy_conveyor": {
     "sound": "metal"
   },
@@ -1701,5 +1629,80 @@
   },
   "linesia:energy_accelerator": {
     "sound": "metal"
+  },
+  "linesia:cove_etang_emblem": {
+    "sound": "stone"
+  },
+  "linesia:cove_riviere_emblem": {
+    "sound": "stone"
+  },
+  "linesia:cove_roseliere_emblem": {
+    "sound": "stone"
+  },
+  "linesia:cove_cascade_emblem": {
+    "sound": "stone"
+  },
+  "linesia:cove_mangrove_emblem": {
+    "sound": "stone"
+  },
+  "linesia:cove_lagon_emblem": {
+    "sound": "stone"
+  },
+  "linesia:cove_recif_emblem": {
+    "sound": "stone"
+  },
+  "linesia:cove_kelp_emblem": {
+    "sound": "stone"
+  },
+  "linesia:cove_banquise_emblem": {
+    "sound": "stone"
+  },
+  "linesia:cove_fjord_emblem": {
+    "sound": "stone"
+  },
+  "linesia:cove_geyser_emblem": {
+    "sound": "stone"
+  },
+  "linesia:cove_grotte_emblem": {
+    "sound": "stone"
+  },
+  "linesia:cove_epave_emblem": {
+    "sound": "stone"
+  },
+  "linesia:cove_abysse_emblem": {
+    "sound": "stone"
+  },
+  "linesia:cove_luciole_emblem": {
+    "sound": "stone"
+  },
+  "linesia:cove_sargasse_emblem": {
+    "sound": "stone"
+  },
+  "linesia:cove_maelstrom_emblem": {
+    "sound": "stone"
+  },
+  "linesia:cove_saline_emblem": {
+    "sound": "stone"
+  },
+  "linesia:cove_soufre_emblem": {
+    "sound": "stone"
+  },
+  "linesia:cove_cendre_emblem": {
+    "sound": "stone"
+  },
+  "linesia:cove_cristal_emblem": {
+    "sound": "stone"
+  },
+  "linesia:cove_astral_emblem": {
+    "sound": "stone"
+  },
+  "linesia:cove_nuage_emblem": {
+    "sound": "stone"
+  },
+  "linesia:cove_neant_emblem": {
+    "sound": "stone"
+  },
+  "linesia:cove_empyree_emblem": {
+    "sound": "stone"
   }
 }
