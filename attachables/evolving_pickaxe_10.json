@@ -16,8 +16,8 @@
       },
       "animations": {
         "wield": "controller.animation.linesia_evo_tool.wield_fx_10",
-        "wield_first_person": "animation.linesia_evo_tool.wield_first_person",
-        "wield_third_person": "animation.linesia_evo_tool.wield_third_person",
+        "hold_first_person": "animation.linesia_evo_tool.hold_first_person",
+        "hold_third_person": "animation.linesia_evo_tool.hold_third_person",
         "fx": "animation.linesia_evo_tool.fx_10"
       },
       "scripts": {

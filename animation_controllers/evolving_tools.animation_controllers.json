@@ -6,7 +6,7 @@
       "states": {
         "first_person": {
           "animations": [
-            "wield_first_person"
+            "hold_first_person"
           ],
           "transitions": [
             {
@@ -16,7 +16,7 @@
         },
         "third_person": {
           "animations": [
-            "wield_third_person"
+            "hold_third_person"
           ],
           "transitions": [
             {
@@ -128,7 +128,7 @@
       "states": {
         "first_person": {
           "animations": [
-            "wield_first_person"
+            "hold_first_person"
           ],
           "transitions": [
             {
@@ -138,7 +138,7 @@
         },
         "third_person": {
           "animations": [
-            "wield_third_person",
+            "hold_third_person",
             "fx"
           ],
           "transitions": [
@@ -154,7 +154,7 @@
       "states": {
         "first_person": {
           "animations": [
-            "wield_first_person"
+            "hold_first_person"
           ],
           "transitions": [
             {
@@ -164,7 +164,7 @@
         },
         "third_person": {
           "animations": [
-            "wield_third_person",
+            "hold_third_person",
             "fx"
           ],
           "transitions": [

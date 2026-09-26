@@ -1,6 +1,184 @@
 {
   "format_version": "1.10.0",
   "animations": {
+    "animation.linesia_evo_tool.hold_first_person": {
+      "loop": true,
+      "bones": {
+        "tool": {
+          "rotation": [
+            90,
+            60,
+            -40
+          ],
+          "position": [
+            4,
+            10,
+            4
+          ],
+          "scale": 1.5
+        },
+        "tool_x": {
+          "rotation": [
+            0,
+            0,
+            0
+          ],
+          "position": [
+            -1.13,
+            3.2,
+            -1.13
+          ],
+          "scale": 0.68
+        },
+        "tool_y": {
+          "rotation": [
+            0,
+            90.0,
+            0
+          ]
+        },
+        "tool_z": {
+          "rotation": [
+            0,
+            0,
+            25.0
+          ]
+        }
+      }
+    },
+    "animation.linesia_evo_tool.hold_third_person": {
+      "loop": true,
+      "bones": {
+        "tool": {
+          "rotation": [
+            90,
+            0,
+            0
+          ],
+          "position": [
+            0,
+            13,
+            -3
+          ]
+        },
+        "tool_x": {
+          "rotation": [
+            0,
+            0,
+            0
+          ],
+          "position": [
+            0,
+            4.0,
+            0.5
+          ],
+          "scale": 0.85
+        },
+        "tool_y": {
+          "rotation": [
+            0,
+            90.0,
+            0
+          ]
+        },
+        "tool_z": {
+          "rotation": [
+            0,
+            0,
+            55.0
+          ]
+        }
+      }
+    },
+    "animation.linesia_evo_rod.hold_first_person": {
+      "loop": true,
+      "bones": {
+        "tool": {
+          "rotation": [
+            90,
+            60,
+            -40
+          ],
+          "position": [
+            4,
+            10,
+            4
+          ],
+          "scale": 1.5
+        },
+        "tool_x": {
+          "rotation": [
+            0,
+            0,
+            0
+          ],
+          "position": [
+            0,
+            1.6,
+            -0.8
+          ],
+          "scale": 0.68
+        },
+        "tool_y": {
+          "rotation": [
+            0,
+            -90.0,
+            0
+          ]
+        },
+        "tool_z": {
+          "rotation": [
+            0,
+            0,
+            25.0
+          ]
+        }
+      }
+    },
+    "animation.linesia_evo_rod.hold_third_person": {
+      "loop": true,
+      "bones": {
+        "tool": {
+          "rotation": [
+            90,
+            0,
+            0
+          ],
+          "position": [
+            0,
+            13,
+            -3
+          ]
+        },
+        "tool_x": {
+          "rotation": [
+            0,
+            0,
+            0
+          ],
+          "position": [
+            0,
+            4.0,
+            2.5
+          ],
+          "scale": 0.85
+        },
+        "tool_y": {
+          "rotation": [
+            0,
+            -90.0,
+            0
+          ]
+        },
+        "tool_z": {
+          "rotation": [
+            0,
+            0,
+            55.0
+          ]
+        }
+      }
+    },
     "animation.linesia_evo_tool.wield_first_person": {
       "loop": true,
       "bones": {
@@ -41,9 +219,9 @@
       "bones": {
         "rod_tip": {
           "rotation": [
-            "13 + math.sin(q.life_time * 55) * 2.5",
             0,
-            0
+            0,
+            "-(13 + math.sin(q.life_time * 55) * 2.5)"
           ]
         }
       }
@@ -60,24 +238,24 @@
               0
             ],
             "0.07": [
-              34,
+              6,
               0,
-              6
+              -34
             ],
             "0.18": [
-              8,
+              -2,
               0,
-              -2
+              -8
             ],
             "0.30": [
-              22,
+              3,
               0,
-              3
+              -22
             ],
             "0.45": [
-              16,
               0,
-              0
+              0,
+              -16
             ]
           }
         }
@@ -89,9 +267,9 @@
       "bones": {
         "rod_tip": {
           "rotation": [
-            "21 + math.sin(q.life_time * 230) * 10",
+            "math.sin(q.life_time * 200) * 6",
             "math.sin(q.life_time * 170) * 5",
-            "math.sin(q.life_time * 200) * 6"
+            "-(21 + math.sin(q.life_time * 230) * 10)"
           ]
         }
       }
@@ -102,9 +280,9 @@
       "bones": {
         "rod_tip": {
           "rotation": [
-            "31 + math.sin(q.life_time * 900) * 8",
+            "math.sin(q.life_time * 1100) * 9",
             "math.sin(q.life_time * 760) * 7",
-            "math.sin(q.life_time * 1100) * 9"
+            "-(31 + math.sin(q.life_time * 900) * 8)"
           ]
         }
       }
