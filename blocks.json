@@ -1704,5 +1704,8 @@
   },
   "linesia:energy_accelerator": {
     "sound": "metal"
+  },
+  "linesia:energy_crafter": {
+    "sound": "wood"
   }
 }

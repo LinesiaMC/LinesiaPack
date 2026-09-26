@@ -576,6 +576,9 @@
     "linesia_energy_core_on": {
       "textures": "textures/blocks/energy/state/core_on"
     },
+    "linesia_energy_crafter": {
+      "textures": "textures/blocks/energy/crafter"
+    },
     "linesia_energy_crank": {
       "textures": "textures/blocks/energy/crank"
     },
