@@ -623,6 +623,81 @@
     "linesia_humus": {
       "textures": "textures/blocks/soil/humus"
     },
+    "linesia_sapling_arbremonde": {
+      "textures": "textures/blocks/world/grove/arbremonde/sapling"
+    },
+    "linesia_sapling_astral": {
+      "textures": "textures/blocks/world/grove/astral/sapling"
+    },
+    "linesia_sapling_bambou": {
+      "textures": "textures/blocks/world/grove/bambou/sapling"
+    },
+    "linesia_sapling_bouleaux": {
+      "textures": "textures/blocks/world/grove/bouleaux/sapling"
+    },
+    "linesia_sapling_brume": {
+      "textures": "textures/blocks/world/grove/brume/sapling"
+    },
+    "linesia_sapling_canopee": {
+      "textures": "textures/blocks/world/grove/canopee/sapling"
+    },
+    "linesia_sapling_cendre": {
+      "textures": "textures/blocks/world/grove/cendre/sapling"
+    },
+    "linesia_sapling_champignon": {
+      "textures": "textures/blocks/world/grove/champignon/sapling"
+    },
+    "linesia_sapling_chenaie": {
+      "textures": "textures/blocks/world/grove/chenaie/sapling"
+    },
+    "linesia_sapling_cristal": {
+      "textures": "textures/blocks/world/grove/cristal/sapling"
+    },
+    "linesia_sapling_cypres": {
+      "textures": "textures/blocks/world/grove/cypres/sapling"
+    },
+    "linesia_sapling_ebene": {
+      "textures": "textures/blocks/world/grove/ebene/sapling"
+    },
+    "linesia_sapling_erabliere": {
+      "textures": "textures/blocks/world/grove/erabliere/sapling"
+    },
+    "linesia_sapling_hameau": {
+      "textures": "textures/blocks/world/grove/hameau/sapling"
+    },
+    "linesia_sapling_mangrove": {
+      "textures": "textures/blocks/world/grove/mangrove/sapling"
+    },
+    "linesia_sapling_neant": {
+      "textures": "textures/blocks/world/grove/neant/sapling"
+    },
+    "linesia_sapling_noyeraie": {
+      "textures": "textures/blocks/world/grove/noyeraie/sapling"
+    },
+    "linesia_sapling_oliveraie": {
+      "textures": "textures/blocks/world/grove/oliveraie/sapling"
+    },
+    "linesia_sapling_ossements": {
+      "textures": "textures/blocks/world/grove/ossements/sapling"
+    },
+    "linesia_sapling_pinede": {
+      "textures": "textures/blocks/world/grove/pinede/sapling"
+    },
+    "linesia_sapling_sakura": {
+      "textures": "textures/blocks/world/grove/sakura/sapling"
+    },
+    "linesia_sapling_sanguine": {
+      "textures": "textures/blocks/world/grove/sanguine/sapling"
+    },
+    "linesia_sapling_saulaie": {
+      "textures": "textures/blocks/world/grove/saulaie/sapling"
+    },
+    "linesia_sapling_sequoias": {
+      "textures": "textures/blocks/world/grove/sequoias/sapling"
+    },
+    "linesia_sapling_taiga": {
+      "textures": "textures/blocks/world/grove/taiga/sapling"
+    },
     "linesia_terre_ancienne": {
       "textures": "textures/blocks/soil/terre_ancienne"
     },
