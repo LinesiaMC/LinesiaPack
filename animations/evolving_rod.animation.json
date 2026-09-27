@@ -1,0 +1,489 @@
+{
+  "format_version": "1.10.0",
+  "animations": {
+    "animation.linesia_evo_rod.hold_first_person": {
+      "loop": true,
+      "bones": {
+        "tool": {
+          "rotation": [
+            137.52,
+            60.91,
+            -56.0
+          ],
+          "position": [
+            -6.08,
+            4.3,
+            -5.42
+          ],
+          "scale": 1.0
+        }
+      }
+    },
+    "animation.linesia_evo_rod.hold_third_person": {
+      "loop": true,
+      "bones": {
+        "tool": {
+          "rotation": [
+            70.36,
+            6.88,
+            2.25
+          ],
+          "position": [
+            0,
+            0,
+            0
+          ],
+          "scale": 0.9
+        }
+      }
+    },
+    "animation.linesia_evo_rod.idle": {
+      "loop": true,
+      "animation_length": 4.0,
+      "bones": {
+        "lure": {
+          "rotation": [
+            "(c.is_first_person ? -58.78 : -127.55) + math.sin(q.life_time * 110) * 7",
+            "c.is_first_person ? 1.12 : 4.43",
+            "(c.is_first_person ? -1.85 : -174.27) + math.sin(q.life_time * 80) * 5"
+          ]
+        }
+      }
+    },
+    "animation.linesia_evo_rod.line": {
+      "loop": true,
+      "animation_length": 4.0,
+      "bones": {
+        "lure": {
+          "scale": [
+            0,
+            0,
+            0
+          ]
+        },
+        "reel_spool": {
+          "rotation": [
+            0,
+            "q.anim_time < 0.9 ? q.anim_time * 1500 - q.anim_time * q.anim_time * 833 : 675",
+            0
+          ]
+        },
+        "rod_tip": {
+          "rotation": [
+            "4 + math.sin(q.life_time * 55) * 1.5",
+            0,
+            0
+          ]
+        }
+      }
+    },
+    "animation.linesia_evo_rod.bite": {
+      "loop": "hold_on_last_frame",
+      "animation_length": 0.45,
+      "bones": {
+        "lure": {
+          "scale": [
+            0,
+            0,
+            0
+          ]
+        },
+        "rod_mid": {
+          "rotation": {
+            "0.0": [
+              0,
+              0,
+              0
+            ],
+            "0.07": [
+              12,
+              0,
+              0
+            ],
+            "0.18": [
+              3,
+              0,
+              0
+            ],
+            "0.3": [
+              8,
+              0,
+              0
+            ],
+            "0.45": [
+              6,
+              0,
+              0
+            ]
+          }
+        },
+        "rod_tip": {
+          "rotation": {
+            "0.0": [
+              0,
+              0,
+              0
+            ],
+            "0.07": [
+              26,
+              0,
+              4
+            ],
+            "0.18": [
+              6,
+              0,
+              -2
+            ],
+            "0.3": [
+              17,
+              0,
+              2
+            ],
+            "0.45": [
+              12,
+              0,
+              0
+            ]
+          }
+        }
+      }
+    },
+    "animation.linesia_evo_rod.fight": {
+      "loop": true,
+      "animation_length": 2.0,
+      "bones": {
+        "lure": {
+          "scale": [
+            0,
+            0,
+            0
+          ]
+        },
+        "rod": {
+          "rotation": [
+            "-4 + math.sin(q.life_time * 90) * 2",
+            0,
+            0
+          ]
+        },
+        "rod_mid": {
+          "rotation": [
+            "10 + math.sin(q.life_time * 230) * 4",
+            "math.sin(q.life_time * 170) * 3",
+            0
+          ]
+        },
+        "rod_tip": {
+          "rotation": [
+            "17 + math.sin(q.life_time * 230) * 7",
+            "math.sin(q.life_time * 170) * 4",
+            "math.sin(q.life_time * 200) * 5"
+          ]
+        },
+        "reel_crank": {
+          "rotation": [
+            "q.anim_time * 540",
+            0,
+            0
+          ]
+        },
+        "reel_spool": {
+          "rotation": [
+            0,
+            "q.anim_time * 360",
+            0
+          ]
+        }
+      }
+    },
+    "animation.linesia_evo_rod.strain": {
+      "loop": true,
+      "animation_length": 1.0,
+      "bones": {
+        "lure": {
+          "scale": [
+            0,
+            0,
+            0
+          ]
+        },
+        "rod": {
+          "rotation": [
+            "-7 + math.sin(q.life_time * 700) * 1.5",
+            0,
+            0
+          ]
+        },
+        "rod_mid": {
+          "rotation": [
+            "17 + math.sin(q.life_time * 900) * 4",
+            "math.sin(q.life_time * 760) * 4",
+            0
+          ]
+        },
+        "rod_tip": {
+          "rotation": [
+            "27 + math.sin(q.life_time * 900) * 7",
+            "math.sin(q.life_time * 760) * 6",
+            "math.sin(q.life_time * 1100) * 7"
+          ]
+        },
+        "reel_crank": {
+          "rotation": [
+            "q.anim_time * 150",
+            0,
+            0
+          ]
+        }
+      }
+    },
+    "animation.linesia_evo_rod.casting": {
+      "loop": "hold_on_last_frame",
+      "animation_length": 0.6,
+      "bones": {
+        "rod": {
+          "rotation": {
+            "0.0": [
+              0,
+              0,
+              0
+            ],
+            "0.18": [
+              -48,
+              0,
+              4
+            ],
+            "0.3": [
+              22,
+              0,
+              -2
+            ],
+            "0.42": [
+              -6,
+              0,
+              0
+            ],
+            "0.6": [
+              0,
+              0,
+              0
+            ]
+          }
+        },
+        "rod_mid": {
+          "rotation": {
+            "0.0": [
+              0,
+              0,
+              0
+            ],
+            "0.12": [
+              6,
+              0,
+              0
+            ],
+            "0.22": [
+              -9,
+              0,
+              0
+            ],
+            "0.3": [
+              12,
+              0,
+              0
+            ],
+            "0.4": [
+              -5,
+              0,
+              0
+            ],
+            "0.55": [
+              0,
+              0,
+              0
+            ]
+          }
+        },
+        "rod_tip": {
+          "rotation": {
+            "0.0": [
+              0,
+              0,
+              0
+            ],
+            "0.14": [
+              12,
+              0,
+              0
+            ],
+            "0.24": [
+              -18,
+              0,
+              0
+            ],
+            "0.32": [
+              24,
+              0,
+              0
+            ],
+            "0.42": [
+              -10,
+              0,
+              0
+            ],
+            "0.55": [
+              0,
+              0,
+              0
+            ]
+          }
+        },
+        "lure": {
+          "rotation": [
+            "c.is_first_person ? -58.78 : -127.55",
+            "c.is_first_person ? 1.12 : 4.43",
+            "c.is_first_person ? -1.85 : -174.27"
+          ],
+          "scale": {
+            "0.0": [
+              1,
+              1,
+              1
+            ],
+            "0.275": [
+              1,
+              1,
+              1
+            ],
+            "0.300": [
+              0,
+              0,
+              0
+            ]
+          }
+        },
+        "reel_spool": {
+          "rotation": {
+            "0.300": [
+              0,
+              0,
+              0
+            ],
+            "0.600": [
+              0,
+              540,
+              0
+            ]
+          }
+        }
+      }
+    },
+    "animation.linesia_evo_rod.reeling": {
+      "loop": true,
+      "animation_length": 2.0,
+      "bones": {
+        "lure": {
+          "scale": [
+            0,
+            0,
+            0
+          ]
+        },
+        "rod": {
+          "rotation": [
+            -7,
+            0,
+            0
+          ]
+        },
+        "rod_tip": {
+          "rotation": [
+            "6 + math.sin(q.life_time * 400) * 1.5",
+            0,
+            0
+          ]
+        },
+        "reel_crank": {
+          "rotation": [
+            "q.anim_time * 1080",
+            0,
+            0
+          ]
+        },
+        "reel_spool": {
+          "rotation": [
+            0,
+            "-q.anim_time * 720",
+            0
+          ]
+        }
+      }
+    },
+    "animation.linesia_evo_rod.snapped": {
+      "loop": "hold_on_last_frame",
+      "animation_length": 0.5,
+      "bones": {
+        "lure": {
+          "scale": [
+            0,
+            0,
+            0
+          ]
+        },
+        "rod": {
+          "rotation": {
+            "0.0": [
+              0,
+              0,
+              0
+            ],
+            "0.08": [
+              -22,
+              0,
+              0
+            ],
+            "0.25": [
+              6,
+              0,
+              0
+            ],
+            "0.45": [
+              0,
+              0,
+              0
+            ]
+          }
+        },
+        "rod_tip": {
+          "rotation": {
+            "0.0": [
+              -20,
+              0,
+              0
+            ],
+            "0.1": [
+              14,
+              0,
+              0
+            ],
+            "0.2": [
+              -8,
+              0,
+              0
+            ],
+            "0.32": [
+              4,
+              0,
+              0
+            ],
+            "0.45": [
+              0,
+              0,
+              0
+            ]
+          }
+        }
+      }
+    }
+  }
+}
