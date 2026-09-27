@@ -30,27 +30,14 @@
       "initial_state": "idle",
       "states": {
         "idle": {
-          "transitions": [
-            {
-              "cast": "q.mark_variant == 1"
-            },
-            {
-              "bite": "q.mark_variant == 2"
-            },
-            {
-              "fight": "q.mark_variant == 3"
-            },
-            {
-              "strain": "q.mark_variant == 4"
-            }
-          ]
-        },
-        "cast": {
           "animations": [
-            "rod_cast"
+            "rod_idle"
           ],
           "transitions": [
             {
+              "line": "q.mark_variant == 1"
+            },
+            {
               "bite": "q.mark_variant == 2"
             },
             {
@@ -60,7 +47,41 @@
               "strain": "q.mark_variant == 4"
             },
             {
+              "casting": "q.mark_variant == 5"
+            },
+            {
+              "reeling": "q.mark_variant == 6"
+            },
+            {
+              "snapped": "q.mark_variant == 7"
+            }
+          ]
+        },
+        "line": {
+          "animations": [
+            "rod_line"
+          ],
+          "transitions": [
+            {
               "idle": "q.mark_variant == 0"
+            },
+            {
+              "bite": "q.mark_variant == 2"
+            },
+            {
+              "fight": "q.mark_variant == 3"
+            },
+            {
+              "strain": "q.mark_variant == 4"
+            },
+            {
+              "casting": "q.mark_variant == 5"
+            },
+            {
+              "reeling": "q.mark_variant == 6"
+            },
+            {
+              "snapped": "q.mark_variant == 7"
             }
           ]
         },
@@ -70,7 +91,10 @@
           ],
           "transitions": [
             {
-              "cast": "q.mark_variant == 1"
+              "idle": "q.mark_variant == 0"
+            },
+            {
+              "line": "q.mark_variant == 1"
             },
             {
               "fight": "q.mark_variant == 3"
@@ -79,7 +103,13 @@
               "strain": "q.mark_variant == 4"
             },
             {
-              "idle": "q.mark_variant == 0"
+              "casting": "q.mark_variant == 5"
+            },
+            {
+              "reeling": "q.mark_variant == 6"
+            },
+            {
+              "snapped": "q.mark_variant == 7"
             }
           ]
         },
@@ -89,7 +119,10 @@
           ],
           "transitions": [
             {
-              "cast": "q.mark_variant == 1"
+              "idle": "q.mark_variant == 0"
+            },
+            {
+              "line": "q.mark_variant == 1"
             },
             {
               "bite": "q.mark_variant == 2"
@@ -98,7 +131,13 @@
               "strain": "q.mark_variant == 4"
             },
             {
-              "idle": "q.mark_variant == 0"
+              "casting": "q.mark_variant == 5"
+            },
+            {
+              "reeling": "q.mark_variant == 6"
+            },
+            {
+              "snapped": "q.mark_variant == 7"
             }
           ]
         },
@@ -108,7 +147,10 @@
           ],
           "transitions": [
             {
-              "cast": "q.mark_variant == 1"
+              "idle": "q.mark_variant == 0"
+            },
+            {
+              "line": "q.mark_variant == 1"
             },
             {
               "bite": "q.mark_variant == 2"
@@ -117,7 +159,97 @@
               "fight": "q.mark_variant == 3"
             },
             {
+              "casting": "q.mark_variant == 5"
+            },
+            {
+              "reeling": "q.mark_variant == 6"
+            },
+            {
+              "snapped": "q.mark_variant == 7"
+            }
+          ]
+        },
+        "casting": {
+          "animations": [
+            "rod_casting"
+          ],
+          "transitions": [
+            {
               "idle": "q.mark_variant == 0"
+            },
+            {
+              "line": "q.mark_variant == 1"
+            },
+            {
+              "bite": "q.mark_variant == 2"
+            },
+            {
+              "fight": "q.mark_variant == 3"
+            },
+            {
+              "strain": "q.mark_variant == 4"
+            },
+            {
+              "reeling": "q.mark_variant == 6"
+            },
+            {
+              "snapped": "q.mark_variant == 7"
+            }
+          ]
+        },
+        "reeling": {
+          "animations": [
+            "rod_reeling"
+          ],
+          "transitions": [
+            {
+              "idle": "q.mark_variant == 0"
+            },
+            {
+              "line": "q.mark_variant == 1"
+            },
+            {
+              "bite": "q.mark_variant == 2"
+            },
+            {
+              "fight": "q.mark_variant == 3"
+            },
+            {
+              "strain": "q.mark_variant == 4"
+            },
+            {
+              "casting": "q.mark_variant == 5"
+            },
+            {
+              "snapped": "q.mark_variant == 7"
+            }
+          ]
+        },
+        "snapped": {
+          "animations": [
+            "rod_snapped"
+          ],
+          "transitions": [
+            {
+              "idle": "q.mark_variant == 0"
+            },
+            {
+              "line": "q.mark_variant == 1"
+            },
+            {
+              "bite": "q.mark_variant == 2"
+            },
+            {
+              "fight": "q.mark_variant == 3"
+            },
+            {
+              "strain": "q.mark_variant == 4"
+            },
+            {
+              "casting": "q.mark_variant == 5"
+            },
+            {
+              "reeling": "q.mark_variant == 6"
             }
           ]
         }

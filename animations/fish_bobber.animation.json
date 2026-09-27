@@ -1,0 +1,137 @@
+{
+  "format_version": "1.10.0",
+  "animations": {
+    "animation.linesia_fish_bobber.flight": {
+      "loop": true,
+      "bones": {
+        "bob": {
+          "rotation": [
+            "q.life_time * 480",
+            0,
+            "q.life_time * 330"
+          ]
+        }
+      }
+    },
+    "animation.linesia_fish_bobber.float": {
+      "loop": true,
+      "bones": {
+        "bob": {
+          "position": [
+            0,
+            "math.sin(q.life_time * 110) * 0.35 - 0.35",
+            0
+          ],
+          "rotation": [
+            "math.sin(q.life_time * 80) * 6",
+            0,
+            "math.cos(q.life_time * 95) * 6"
+          ]
+        }
+      }
+    },
+    "animation.linesia_fish_bobber.bite": {
+      "loop": true,
+      "bones": {
+        "bob": {
+          "position": [
+            0,
+            "-0.4 - math.abs(math.sin(q.life_time * 520)) * 1.8",
+            0
+          ],
+          "rotation": [
+            "math.sin(q.life_time * 610) * 14",
+            0,
+            "math.sin(q.life_time * 470) * 10"
+          ]
+        }
+      }
+    },
+    "animation.linesia_fish_bobber.fight": {
+      "loop": true,
+      "bones": {
+        "bob": {
+          "position": [
+            0,
+            "-2.4 + math.sin(q.life_time * 300) * 0.7",
+            0
+          ],
+          "rotation": [
+            "math.sin(q.life_time * 420) * 18",
+            0,
+            "math.sin(q.life_time * 350) * 16"
+          ]
+        }
+      }
+    },
+    "animation.linesia_fish_bobber.strain": {
+      "loop": true,
+      "bones": {
+        "bob": {
+          "position": [
+            0,
+            "-3.4 + math.sin(q.life_time * 700) * 0.6",
+            0
+          ],
+          "rotation": [
+            "math.sin(q.life_time * 900) * 26",
+            0,
+            "math.sin(q.life_time * 760) * 24"
+          ]
+        }
+      }
+    },
+    "animation.linesia_fish_bobber.reel": {
+      "loop": true,
+      "bones": {
+        "bob": {
+          "position": [
+            0,
+            -3.74,
+            0
+          ],
+          "rotation": [
+            "math.sin(q.life_time * 260) * 24",
+            0,
+            "math.cos(q.life_time * 210) * 16"
+          ]
+        }
+      }
+    },
+    "animation.linesia_fish_bobber.sink": {
+      "loop": "hold_on_last_frame",
+      "animation_length": 1.5,
+      "bones": {
+        "bob": {
+          "position": [
+            0,
+            "-0.4 - q.anim_time * 5",
+            0
+          ],
+          "rotation": [
+            "q.anim_time * 40",
+            0,
+            "math.sin(q.life_time * 200) * 20"
+          ]
+        }
+      }
+    },
+    "animation.linesia_fish_bobber.ground": {
+      "loop": true,
+      "bones": {
+        "bob": {
+          "position": [
+            0,
+            1.54,
+            0
+          ],
+          "rotation": [
+            0,
+            0,
+            78
+          ]
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,234 @@
+{
+  "format_version": "1.10.0",
+  "animation_controllers": {
+    "controller.animation.linesia_fish_bobber.state": {
+      "initial_state": "flight",
+      "states": {
+        "flight": {
+          "animations": [
+            "s_flight"
+          ],
+          "transitions": [
+            {
+              "float": "q.mark_variant == 1"
+            },
+            {
+              "bite": "q.mark_variant == 2"
+            },
+            {
+              "fight": "q.mark_variant == 3"
+            },
+            {
+              "strain": "q.mark_variant == 4"
+            },
+            {
+              "reel": "q.mark_variant == 5"
+            },
+            {
+              "sink": "q.mark_variant == 6"
+            },
+            {
+              "ground": "q.mark_variant == 7"
+            }
+          ]
+        },
+        "float": {
+          "animations": [
+            "s_float"
+          ],
+          "transitions": [
+            {
+              "flight": "q.mark_variant == 0"
+            },
+            {
+              "bite": "q.mark_variant == 2"
+            },
+            {
+              "fight": "q.mark_variant == 3"
+            },
+            {
+              "strain": "q.mark_variant == 4"
+            },
+            {
+              "reel": "q.mark_variant == 5"
+            },
+            {
+              "sink": "q.mark_variant == 6"
+            },
+            {
+              "ground": "q.mark_variant == 7"
+            }
+          ]
+        },
+        "bite": {
+          "animations": [
+            "s_bite"
+          ],
+          "transitions": [
+            {
+              "flight": "q.mark_variant == 0"
+            },
+            {
+              "float": "q.mark_variant == 1"
+            },
+            {
+              "fight": "q.mark_variant == 3"
+            },
+            {
+              "strain": "q.mark_variant == 4"
+            },
+            {
+              "reel": "q.mark_variant == 5"
+            },
+            {
+              "sink": "q.mark_variant == 6"
+            },
+            {
+              "ground": "q.mark_variant == 7"
+            }
+          ]
+        },
+        "fight": {
+          "animations": [
+            "s_fight"
+          ],
+          "transitions": [
+            {
+              "flight": "q.mark_variant == 0"
+            },
+            {
+              "float": "q.mark_variant == 1"
+            },
+            {
+              "bite": "q.mark_variant == 2"
+            },
+            {
+              "strain": "q.mark_variant == 4"
+            },
+            {
+              "reel": "q.mark_variant == 5"
+            },
+            {
+              "sink": "q.mark_variant == 6"
+            },
+            {
+              "ground": "q.mark_variant == 7"
+            }
+          ]
+        },
+        "strain": {
+          "animations": [
+            "s_strain"
+          ],
+          "transitions": [
+            {
+              "flight": "q.mark_variant == 0"
+            },
+            {
+              "float": "q.mark_variant == 1"
+            },
+            {
+              "bite": "q.mark_variant == 2"
+            },
+            {
+              "fight": "q.mark_variant == 3"
+            },
+            {
+              "reel": "q.mark_variant == 5"
+            },
+            {
+              "sink": "q.mark_variant == 6"
+            },
+            {
+              "ground": "q.mark_variant == 7"
+            }
+          ]
+        },
+        "reel": {
+          "animations": [
+            "s_reel"
+          ],
+          "transitions": [
+            {
+              "flight": "q.mark_variant == 0"
+            },
+            {
+              "float": "q.mark_variant == 1"
+            },
+            {
+              "bite": "q.mark_variant == 2"
+            },
+            {
+              "fight": "q.mark_variant == 3"
+            },
+            {
+              "strain": "q.mark_variant == 4"
+            },
+            {
+              "sink": "q.mark_variant == 6"
+            },
+            {
+              "ground": "q.mark_variant == 7"
+            }
+          ]
+        },
+        "sink": {
+          "animations": [
+            "s_sink"
+          ],
+          "transitions": [
+            {
+              "flight": "q.mark_variant == 0"
+            },
+            {
+              "float": "q.mark_variant == 1"
+            },
+            {
+              "bite": "q.mark_variant == 2"
+            },
+            {
+              "fight": "q.mark_variant == 3"
+            },
+            {
+              "strain": "q.mark_variant == 4"
+            },
+            {
+              "reel": "q.mark_variant == 5"
+            },
+            {
+              "ground": "q.mark_variant == 7"
+            }
+          ]
+        },
+        "ground": {
+          "animations": [
+            "s_ground"
+          ],
+          "transitions": [
+            {
+              "flight": "q.mark_variant == 0"
+            },
+            {
+              "float": "q.mark_variant == 1"
+            },
+            {
+              "bite": "q.mark_variant == 2"
+            },
+            {
+              "fight": "q.mark_variant == 3"
+            },
+            {
+              "strain": "q.mark_variant == 4"
+            },
+            {
+              "reel": "q.mark_variant == 5"
+            },
+            {
+              "sink": "q.mark_variant == 6"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

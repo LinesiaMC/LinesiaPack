@@ -1,0 +1,32 @@
+{
+  "format_version": "1.10.0",
+  "render_controllers": {
+    "controller.render.linesia_fish_bobber": {
+      "arrays": {
+        "textures": {
+          "Array.skins": [
+            "Texture.t1",
+            "Texture.t2",
+            "Texture.t3",
+            "Texture.t4",
+            "Texture.t5",
+            "Texture.t6",
+            "Texture.t7",
+            "Texture.t8",
+            "Texture.t9",
+            "Texture.t10"
+          ]
+        }
+      },
+      "geometry": "Geometry.default",
+      "materials": [
+        {
+          "*": "Material.default"
+        }
+      ],
+      "textures": [
+        "Array.skins[math.clamp(q.variant - 1, 0, 9)]"
+      ]
+    }
+  }
+}

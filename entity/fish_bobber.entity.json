@@ -1,0 +1,45 @@
+{
+  "format_version": "1.10.0",
+  "minecraft:client_entity": {
+    "description": {
+      "identifier": "linesia:fish_bobber",
+      "materials": {
+        "default": "entity_alphatest"
+      },
+      "textures": {
+        "t1": "textures/entity/evolving/fishing_rod_1",
+        "t2": "textures/entity/evolving/fishing_rod_2",
+        "t3": "textures/entity/evolving/fishing_rod_3",
+        "t4": "textures/entity/evolving/fishing_rod_4",
+        "t5": "textures/entity/evolving/fishing_rod_5",
+        "t6": "textures/entity/evolving/fishing_rod_6",
+        "t7": "textures/entity/evolving/fishing_rod_7",
+        "t8": "textures/entity/evolving/fishing_rod_8",
+        "t9": "textures/entity/evolving/fishing_rod_9",
+        "t10": "textures/entity/evolving/fishing_rod_10"
+      },
+      "geometry": {
+        "default": "geometry.linesia_fish_bobber"
+      },
+      "animations": {
+        "s_flight": "animation.linesia_fish_bobber.flight",
+        "s_float": "animation.linesia_fish_bobber.float",
+        "s_bite": "animation.linesia_fish_bobber.bite",
+        "s_fight": "animation.linesia_fish_bobber.fight",
+        "s_strain": "animation.linesia_fish_bobber.strain",
+        "s_reel": "animation.linesia_fish_bobber.reel",
+        "s_sink": "animation.linesia_fish_bobber.sink",
+        "s_ground": "animation.linesia_fish_bobber.ground",
+        "state": "controller.animation.linesia_fish_bobber.state"
+      },
+      "scripts": {
+        "animate": [
+          "state"
+        ]
+      },
+      "render_controllers": [
+        "controller.render.linesia_fish_bobber"
+      ]
+    }
+  }
+}

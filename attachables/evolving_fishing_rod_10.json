@@ -19,10 +19,14 @@
         "hold_first_person": "animation.linesia_evo_rod.hold_first_person",
         "hold_third_person": "animation.linesia_evo_rod.hold_third_person",
         "rod": "controller.animation.linesia_evo_rod.state",
-        "rod_cast": "animation.linesia_evo_rod.cast",
+        "rod_idle": "animation.linesia_evo_rod.idle",
+        "rod_line": "animation.linesia_evo_rod.line",
         "rod_bite": "animation.linesia_evo_rod.bite",
         "rod_fight": "animation.linesia_evo_rod.fight",
         "rod_strain": "animation.linesia_evo_rod.strain",
+        "rod_casting": "animation.linesia_evo_rod.casting",
+        "rod_reeling": "animation.linesia_evo_rod.reeling",
+        "rod_snapped": "animation.linesia_evo_rod.snapped",
         "fx": "animation.linesia_evo_tool.fx_10"
       },
       "scripts": {
