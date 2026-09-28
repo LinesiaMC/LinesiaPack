@@ -522,6 +522,12 @@
     "linesia_energy_accelerator": {
       "textures": "textures/blocks/energy/accelerator"
     },
+    "linesia_energy_airlock": {
+      "textures": "textures/blocks/energy/airlock"
+    },
+    "linesia_energy_alarm": {
+      "textures": "textures/blocks/energy/alarm"
+    },
     "linesia_energy_battery": {
       "textures": "textures/blocks/energy/battery"
     },
@@ -552,17 +558,20 @@
     "linesia_energy_biogas": {
       "textures": "textures/blocks/energy/biogas"
     },
+    "linesia_energy_blast_door": {
+      "textures": "textures/blocks/energy/blast_door"
+    },
     "linesia_energy_boiler": {
       "textures": "textures/blocks/energy/boiler"
     },
-    "linesia_energy_cable": {
-      "textures": "textures/blocks/energy/cable"
+    "linesia_energy_cable_amethyst": {
+      "textures": "textures/blocks/energy/cable_amethyst"
     },
-    "linesia_energy_cable_crystal": {
-      "textures": "textures/blocks/energy/cable_crystal"
+    "linesia_energy_cable_onyx": {
+      "textures": "textures/blocks/energy/cable_onyx"
     },
-    "linesia_energy_cable_gold": {
-      "textures": "textures/blocks/energy/cable_gold"
+    "linesia_energy_cable_ruby": {
+      "textures": "textures/blocks/energy/cable_ruby"
     },
     "linesia_energy_conveyor": {
       "textures": "textures/blocks/energy/conveyor"
@@ -582,8 +591,20 @@
     "linesia_energy_crank": {
       "textures": "textures/blocks/energy/crank"
     },
+    "linesia_energy_door_cell": {
+      "textures": "textures/blocks/energy/door_cell"
+    },
     "linesia_energy_drill": {
       "textures": "textures/blocks/energy/drill"
+    },
+    "linesia_energy_eye_alert": {
+      "textures": "textures/blocks/energy/state/eye_alert"
+    },
+    "linesia_energy_eye_off": {
+      "textures": "textures/blocks/energy/state/eye_off"
+    },
+    "linesia_energy_eye_watch": {
+      "textures": "textures/blocks/energy/state/eye_watch"
     },
     "linesia_energy_fire_blocked": {
       "textures": "textures/blocks/energy/state/fire_blocked"
@@ -597,32 +618,32 @@
     "linesia_energy_fisher": {
       "textures": "textures/blocks/energy/fisher"
     },
-    "linesia_energy_flow_copper_off": {
-      "textures": "textures/blocks/energy/state/flow_copper_off"
+    "linesia_energy_flow_amethyst_off": {
+      "textures": "textures/blocks/energy/state/flow_amethyst_off"
     },
-    "linesia_energy_flow_copper_on": {
-      "textures": "textures/blocks/energy/state/flow_copper_on"
+    "linesia_energy_flow_amethyst_on": {
+      "textures": "textures/blocks/energy/state/flow_amethyst_on"
     },
-    "linesia_energy_flow_copper_overload": {
-      "textures": "textures/blocks/energy/state/flow_copper_overload"
+    "linesia_energy_flow_amethyst_overload": {
+      "textures": "textures/blocks/energy/state/flow_amethyst_overload"
     },
-    "linesia_energy_flow_crystal_off": {
-      "textures": "textures/blocks/energy/state/flow_crystal_off"
+    "linesia_energy_flow_onyx_off": {
+      "textures": "textures/blocks/energy/state/flow_onyx_off"
     },
-    "linesia_energy_flow_crystal_on": {
-      "textures": "textures/blocks/energy/state/flow_crystal_on"
+    "linesia_energy_flow_onyx_on": {
+      "textures": "textures/blocks/energy/state/flow_onyx_on"
     },
-    "linesia_energy_flow_crystal_overload": {
-      "textures": "textures/blocks/energy/state/flow_crystal_overload"
+    "linesia_energy_flow_onyx_overload": {
+      "textures": "textures/blocks/energy/state/flow_onyx_overload"
     },
-    "linesia_energy_flow_gold_off": {
-      "textures": "textures/blocks/energy/state/flow_gold_off"
+    "linesia_energy_flow_ruby_off": {
+      "textures": "textures/blocks/energy/state/flow_ruby_off"
     },
-    "linesia_energy_flow_gold_on": {
-      "textures": "textures/blocks/energy/state/flow_gold_on"
+    "linesia_energy_flow_ruby_on": {
+      "textures": "textures/blocks/energy/state/flow_ruby_on"
     },
-    "linesia_energy_flow_gold_overload": {
-      "textures": "textures/blocks/energy/state/flow_gold_overload"
+    "linesia_energy_flow_ruby_overload": {
+      "textures": "textures/blocks/energy/state/flow_ruby_overload"
     },
     "linesia_energy_gauge_0": {
       "textures": "textures/blocks/energy/state/gauge_0"
@@ -660,6 +681,12 @@
     "linesia_energy_harvester": {
       "textures": "textures/blocks/energy/harvester"
     },
+    "linesia_energy_lamp_off": {
+      "textures": "textures/blocks/energy/state/lamp_off"
+    },
+    "linesia_energy_lamp_on": {
+      "textures": "textures/blocks/energy/state/lamp_on"
+    },
     "linesia_energy_lava_off": {
       "textures": "textures/blocks/energy/state/lava_off"
     },
@@ -674,6 +701,9 @@
     },
     "linesia_energy_pipe_filter": {
       "textures": "textures/blocks/energy/pipe_filter"
+    },
+    "linesia_energy_portcullis": {
+      "textures": "textures/blocks/energy/portcullis"
     },
     "linesia_energy_reactor": {
       "textures": "textures/blocks/energy/reactor"
@@ -701,6 +731,9 @@
     },
     "linesia_energy_screen_on": {
       "textures": "textures/blocks/energy/state/screen_on"
+    },
+    "linesia_energy_sensor": {
+      "textures": "textures/blocks/energy/sensor"
     },
     "linesia_energy_solar": {
       "textures": "textures/blocks/energy/solar"

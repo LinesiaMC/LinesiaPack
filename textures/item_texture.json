@@ -440,14 +440,35 @@
     "key_tree_sapling": {
       "textures": "textures/blocks/sapling/key_tree_sapling"
     },
+    "linesia_energy_cell": {
+      "textures": "textures/items/energy/cell"
+    },
+    "linesia_energy_cell_fragment": {
+      "textures": "textures/items/energy/cell_fragment"
+    },
+    "linesia_energy_circuit": {
+      "textures": "textures/items/energy/circuit"
+    },
+    "linesia_energy_circuit_fragment": {
+      "textures": "textures/items/energy/circuit_fragment"
+    },
     "linesia_energy_module_efficiency": {
       "textures": "textures/items/energy/module_efficiency"
     },
     "linesia_energy_module_range": {
       "textures": "textures/items/energy/module_range"
     },
+    "linesia_energy_module_sell": {
+      "textures": "textures/items/energy/module_sell"
+    },
     "linesia_energy_module_speed": {
       "textures": "textures/items/energy/module_speed"
+    },
+    "linesia_energy_rubber": {
+      "textures": "textures/items/energy/rubber"
+    },
+    "linesia_energy_sap": {
+      "textures": "textures/items/energy/sap"
     },
     "linesia_energy_wrench": {
       "textures": "textures/items/energy/wrench"

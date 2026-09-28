@@ -144,38 +144,56 @@
     "blend_frames": false
   },
   {
-    "flipbook_texture": "textures/blocks/energy/state/flow_copper_on",
-    "atlas_tile": "linesia_energy_flow_copper_on",
+    "flipbook_texture": "textures/blocks/energy/state/eye_watch",
+    "atlas_tile": "linesia_energy_eye_watch",
+    "ticks_per_frame": 3,
+    "blend_frames": false
+  },
+  {
+    "flipbook_texture": "textures/blocks/energy/state/eye_alert",
+    "atlas_tile": "linesia_energy_eye_alert",
+    "ticks_per_frame": 3,
+    "blend_frames": false
+  },
+  {
+    "flipbook_texture": "textures/blocks/energy/state/lamp_on",
+    "atlas_tile": "linesia_energy_lamp_on",
+    "ticks_per_frame": 3,
+    "blend_frames": false
+  },
+  {
+    "flipbook_texture": "textures/blocks/energy/state/flow_amethyst_on",
+    "atlas_tile": "linesia_energy_flow_amethyst_on",
     "ticks_per_frame": 2,
     "blend_frames": false
   },
   {
-    "flipbook_texture": "textures/blocks/energy/state/flow_copper_overload",
-    "atlas_tile": "linesia_energy_flow_copper_overload",
+    "flipbook_texture": "textures/blocks/energy/state/flow_amethyst_overload",
+    "atlas_tile": "linesia_energy_flow_amethyst_overload",
     "ticks_per_frame": 2,
     "blend_frames": false
   },
   {
-    "flipbook_texture": "textures/blocks/energy/state/flow_gold_on",
-    "atlas_tile": "linesia_energy_flow_gold_on",
+    "flipbook_texture": "textures/blocks/energy/state/flow_ruby_on",
+    "atlas_tile": "linesia_energy_flow_ruby_on",
     "ticks_per_frame": 2,
     "blend_frames": false
   },
   {
-    "flipbook_texture": "textures/blocks/energy/state/flow_gold_overload",
-    "atlas_tile": "linesia_energy_flow_gold_overload",
+    "flipbook_texture": "textures/blocks/energy/state/flow_ruby_overload",
+    "atlas_tile": "linesia_energy_flow_ruby_overload",
     "ticks_per_frame": 2,
     "blend_frames": false
   },
   {
-    "flipbook_texture": "textures/blocks/energy/state/flow_crystal_on",
-    "atlas_tile": "linesia_energy_flow_crystal_on",
+    "flipbook_texture": "textures/blocks/energy/state/flow_onyx_on",
+    "atlas_tile": "linesia_energy_flow_onyx_on",
     "ticks_per_frame": 2,
     "blend_frames": false
   },
   {
-    "flipbook_texture": "textures/blocks/energy/state/flow_crystal_overload",
-    "atlas_tile": "linesia_energy_flow_crystal_overload",
+    "flipbook_texture": "textures/blocks/energy/state/flow_onyx_overload",
+    "atlas_tile": "linesia_energy_flow_onyx_overload",
     "ticks_per_frame": 2,
     "blend_frames": false
   }

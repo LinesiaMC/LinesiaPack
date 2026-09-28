@@ -1663,14 +1663,14 @@
   "linesia:energy_battery_crystal": {
     "sound": "metal"
   },
-  "linesia:energy_cable": {
-    "sound": "copper"
-  },
-  "linesia:energy_cable_gold": {
-    "sound": "copper"
-  },
-  "linesia:energy_cable_crystal": {
+  "linesia:energy_cable_amethyst": {
     "sound": "amethyst_block"
+  },
+  "linesia:energy_cable_ruby": {
+    "sound": "copper"
+  },
+  "linesia:energy_cable_onyx": {
+    "sound": "stone"
   },
   "linesia:energy_pipe": {
     "sound": "glass"
@@ -1707,5 +1707,23 @@
   },
   "linesia:energy_crafter": {
     "sound": "wood"
+  },
+  "linesia:energy_sensor": {
+    "sound": "metal"
+  },
+  "linesia:energy_alarm": {
+    "sound": "metal"
+  },
+  "linesia:energy_blast_door": {
+    "sound": "metal"
+  },
+  "linesia:energy_portcullis": {
+    "sound": "metal"
+  },
+  "linesia:energy_airlock": {
+    "sound": "metal"
+  },
+  "linesia:energy_door_cell": {
+    "sound": "metal"
   }
 }
