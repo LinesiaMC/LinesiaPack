@@ -3,9 +3,6 @@
   "padding": 8,
   "resource_pack_name": "vanilla",
   "texture_data": {
-    "amethyste_ore": {
-      "textures": "textures/blocks/amethyste_ore"
-    },
     "ash_sapling": {
       "textures": "textures/blocks/sapling/ash_sapling"
     },
@@ -3120,15 +3117,6 @@
     "maple_sapling": {
       "textures": "textures/blocks/sapling/maple_sapling"
     },
-    "nether_onyx_random_ore": {
-      "textures": "textures/blocks/nether_onyx_random_ore"
-    },
-    "nether_rubis_ore": {
-      "textures": "textures/blocks/nether_rubis_ore"
-    },
-    "nether_rubis_random_ore": {
-      "textures": "textures/blocks/nether_rubis_random_ore"
-    },
     "obsidian2": {
       "textures": "textures/blocks/obsidian"
     },
@@ -3183,12 +3171,6 @@
     "obsidian_trapdoor_2": {
       "textures": "textures/blocks/obsidian_trapdoor_2"
     },
-    "onyx_ore": {
-      "textures": "textures/blocks/onyx_ore"
-    },
-    "onyx_random_ore": {
-      "textures": "textures/blocks/onyx_random_ore"
-    },
     "onyx_tree_sapling": {
       "textures": "textures/blocks/sapling/onyx_tree_sapling"
     },
@@ -3209,12 +3191,6 @@
     },
     "rosewood_sapling": {
       "textures": "textures/blocks/sapling/rosewood_sapling"
-    },
-    "rubis_ore": {
-      "textures": "textures/blocks/rubis_ore"
-    },
-    "rubis_random_ore": {
-      "textures": "textures/blocks/rubis_random_ore"
     },
     "rubis_tree_sapling": {
       "textures": "textures/blocks/sapling/rubis_tree_sapling"

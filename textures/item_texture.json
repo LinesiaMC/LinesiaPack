@@ -731,9 +731,6 @@
     "magma_fish": {
       "textures": "textures/items/fish/magma_fish"
     },
-    "magma_larva": {
-      "textures": "textures/items/fish/magma_larva"
-    },
     "mahogany_bark": {
       "textures": "textures/items/wood_bark/mahogany_bark"
     },

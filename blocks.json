@@ -20,26 +20,6 @@
     "textures": "enderman_generator",
     "sound": "stone"
   },
-  "linesia:amethyste_ore": {
-    "textures": "amethyste_ore",
-    "sound": "stone"
-  },
-  "linesia:rubis_ore": {
-    "textures": "rubis_ore",
-    "sound": "stone"
-  },
-  "linesia:onyx_ore": {
-    "textures": "onyx_ore",
-    "sound": "stone"
-  },
-  "linesia:rubis_random_ore": {
-    "textures": "rubis_random_ore",
-    "sound": "stone"
-  },
-  "linesia:onyx_random_ore": {
-    "textures": "onyx_random_ore",
-    "sound": "stone"
-  },
   "linesia:ore_generator_t1": {
     "sound": "stone"
   },
@@ -47,18 +27,6 @@
     "sound": "stone"
   },
   "linesia:ore_generator_t3": {
-    "sound": "stone"
-  },
-  "linesia:nether_rubis_random_ore": {
-    "textures": "nether_rubis_random_ore",
-    "sound": "stone"
-  },
-  "linesia:nether_rubis_ore": {
-    "textures": "nether_rubis_ore",
-    "sound": "stone"
-  },
-  "linesia:nether_onyx_random_ore": {
-    "textures": "nether_onyx_random_ore",
     "sound": "stone"
   },
   "linesia:humus": {
