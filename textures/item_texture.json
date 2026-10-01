@@ -125,9 +125,6 @@
     "chorus_bulb": {
       "textures": "textures/items/end/chorus_bulb"
     },
-    "diamant_axe": {
-      "textures": "textures/items/diamond_axe"
-    },
     "diamant_boots": {
       "textures": "textures/items/diamond_boots"
     },
@@ -164,9 +161,6 @@
     "diamant_helmet_tenebreux": {
       "textures": "textures/items/armors/diamant_helmet_tenebreux"
     },
-    "diamant_hoe": {
-      "textures": "textures/items/diamond_hoe"
-    },
     "diamant_leggings": {
       "textures": "textures/items/diamond_leggings"
     },
@@ -178,12 +172,6 @@
     },
     "diamant_leggings_tenebreux": {
       "textures": "textures/items/armors/diamant_leggings_tenebreux"
-    },
-    "diamant_pickaxe": {
-      "textures": "textures/items/diamond_pickaxe"
-    },
-    "diamant_shovel": {
-      "textures": "textures/items/diamond_shovel"
     },
     "diamant_sword": {
       "textures": "textures/items/diamond_sword"

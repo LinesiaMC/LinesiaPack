@@ -15,9 +15,12 @@
         "default": "geometry.linesia_evo_sword_3"
       },
       "animations": {
-        "wield": "controller.animation.linesia_evo_tool.wield",
-        "hold_first_person": "animation.linesia_evo_tool.hold_first_person",
-        "hold_third_person": "animation.linesia_evo_tool.hold_third_person"
+        "wield": "controller.animation.linesia_evo_tool.held",
+        "hold_first_person": "animation.linesia_evo_tool.hold_first_person_blade",
+        "hold_third_person": "animation.linesia_evo_tool.hold_third_person",
+        "breathe_first_person": "animation.linesia_evo_tool.breathe_first_person",
+        "swing_first_person": "animation.linesia_evo_tool.swing_first_person",
+        "swing_third_person": "animation.linesia_evo_tool.swing_third_person"
       },
       "scripts": {
         "animate": [

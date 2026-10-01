@@ -1,0 +1,111 @@
+{
+  "format_version": "1.10.0",
+  "animations": {
+    "animation.linesia_evo_tool.breathe_first_person": {
+      "loop": true,
+      "bones": {
+        "tool_body": {
+          "rotation": [
+            "math.sin((c.owning_entity->q.life_time) * 90) * 1.4",
+            "math.sin((c.owning_entity->q.life_time) * 180 + 40.0) * 1.1",
+            "math.cos((c.owning_entity->q.life_time) * 90) * 0.7"
+          ],
+          "position": [
+            0,
+            "math.sin((c.owning_entity->q.life_time) * 90 + 90.0) * 0.2",
+            0
+          ]
+        }
+      }
+    },
+    "animation.linesia_evo_tool.swing_first_person": {
+      "loop": true,
+      "bones": {
+        "tool_body": {
+          "rotation": [
+            0,
+            "math.sin((c.owning_entity->v.attack_time) * 180.0) * -10.0",
+            "math.sin((c.owning_entity->v.attack_time) * 180.0) * 16.0"
+          ]
+        }
+      }
+    },
+    "animation.linesia_evo_tool.swing_third_person": {
+      "loop": true,
+      "bones": {
+        "tool_body": {
+          "rotation": [
+            "math.sin((c.owning_entity->v.attack_time) * 180.0) * -8.0",
+            0,
+            "math.sin((c.owning_entity->v.attack_time) * 180.0) * 26.0"
+          ],
+          "position": [
+            0,
+            "math.sin((c.owning_entity->v.attack_time) * 180.0) * 0.6",
+            0
+          ]
+        }
+      }
+    },
+    "animation.linesia_evo_tool.shards": {
+      "loop": true,
+      "bones": {
+        "tool_shards": {
+          "rotation": [
+            0,
+            "math.sin((c.owning_entity->q.life_time) * 60) * 28.0",
+            0
+          ]
+        },
+        "tool_shard_0": {
+          "position": [
+            0,
+            "math.sin((c.owning_entity->q.life_time) * 120.0 + 0) * 0.45",
+            0
+          ],
+          "rotation": [
+            0,
+            "math.sin((c.owning_entity->q.life_time) * 90.0 + 0) * 35.0",
+            "math.sin((c.owning_entity->q.life_time) * 60.0 + 0) * 14.0"
+          ]
+        },
+        "tool_shard_1": {
+          "position": [
+            0,
+            "math.sin((c.owning_entity->q.life_time) * 120.0 + 97) * 0.45",
+            0
+          ],
+          "rotation": [
+            0,
+            "math.sin((c.owning_entity->q.life_time) * 90.0 + 61) * 35.0",
+            "math.sin((c.owning_entity->q.life_time) * 60.0 + 83) * 14.0"
+          ]
+        },
+        "tool_shard_2": {
+          "position": [
+            0,
+            "math.sin((c.owning_entity->q.life_time) * 120.0 + 194) * 0.45",
+            0
+          ],
+          "rotation": [
+            0,
+            "math.sin((c.owning_entity->q.life_time) * 90.0 + 122) * 35.0",
+            "math.sin((c.owning_entity->q.life_time) * 60.0 + 166) * 14.0"
+          ]
+        },
+        "tool_shard_3": {
+          "position": [
+            0,
+            "math.sin((c.owning_entity->q.life_time) * 120.0 + 291) * 0.45",
+            0
+          ],
+          "rotation": [
+            0,
+            "math.sin((c.owning_entity->q.life_time) * 90.0 + 183) * 35.0",
+            "math.sin((c.owning_entity->q.life_time) * 60.0 + 249) * 14.0"
+          ]
+        }
+      }
+    }
+  }
+}

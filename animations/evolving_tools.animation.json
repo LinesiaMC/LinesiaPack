@@ -63,6 +63,24 @@
         }
       }
     },
+    "animation.linesia_evo_tool.hold_first_person_blade": {
+      "loop": true,
+      "bones": {
+        "tool": {
+          "rotation": [
+            137.89,
+            8.27,
+            -57.62
+          ],
+          "position": [
+            -2.78,
+            10.2,
+            -4.67
+          ],
+          "scale": 1.0
+        }
+      }
+    },
     "animation.linesia_evo_tool.wield_first_person": {
       "loop": true,
       "bones": {

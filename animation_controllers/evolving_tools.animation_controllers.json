@@ -77,6 +77,96 @@
           ]
         }
       }
+    },
+    "controller.animation.linesia_evo_tool.held": {
+      "initial_state": "first_person",
+      "states": {
+        "first_person": {
+          "animations": [
+            "hold_first_person",
+            "breathe_first_person",
+            "swing_first_person"
+          ],
+          "transitions": [
+            {
+              "third_person": "!c.is_first_person"
+            }
+          ]
+        },
+        "third_person": {
+          "animations": [
+            "hold_third_person",
+            "swing_third_person"
+          ],
+          "transitions": [
+            {
+              "first_person": "c.is_first_person"
+            }
+          ]
+        }
+      }
+    },
+    "controller.animation.linesia_evo_tool.held_fx_9": {
+      "initial_state": "first_person",
+      "states": {
+        "first_person": {
+          "animations": [
+            "hold_first_person",
+            "breathe_first_person",
+            "swing_first_person",
+            "shards"
+          ],
+          "transitions": [
+            {
+              "third_person": "!c.is_first_person"
+            }
+          ]
+        },
+        "third_person": {
+          "animations": [
+            "hold_third_person",
+            "swing_third_person",
+            "shards",
+            "fx"
+          ],
+          "transitions": [
+            {
+              "first_person": "c.is_first_person"
+            }
+          ]
+        }
+      }
+    },
+    "controller.animation.linesia_evo_tool.held_fx_10": {
+      "initial_state": "first_person",
+      "states": {
+        "first_person": {
+          "animations": [
+            "hold_first_person",
+            "breathe_first_person",
+            "swing_first_person",
+            "shards"
+          ],
+          "transitions": [
+            {
+              "third_person": "!c.is_first_person"
+            }
+          ]
+        },
+        "third_person": {
+          "animations": [
+            "hold_third_person",
+            "swing_third_person",
+            "shards",
+            "fx"
+          ],
+          "transitions": [
+            {
+              "first_person": "c.is_first_person"
+            }
+          ]
+        }
+      }
     }
   }
 }
