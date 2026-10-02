@@ -1006,6 +1006,21 @@
     },
     "zombie_gemme": {
       "textures": "textures/items/item/zombie_gemme"
+    },
+    "extend_wand_amethyste": {
+      "textures": "textures/items/item/extend_wand_amethyste"
+    },
+    "extend_wand_rubis": {
+      "textures": "textures/items/item/extend_wand_rubis"
+    },
+    "extend_wand_onyx": {
+      "textures": "textures/items/item/extend_wand_onyx"
+    },
+    "dynamite": {
+      "textures": "textures/items/item/dynamite"
+    },
+    "destruction_stick": {
+      "textures": "textures/items/item/destruction_stick"
     }
   }
 }
