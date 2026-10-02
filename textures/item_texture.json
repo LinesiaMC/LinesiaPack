@@ -125,6 +125,9 @@
     "chorus_bulb": {
       "textures": "textures/items/end/chorus_bulb"
     },
+    "destruction_stick": {
+      "textures": "textures/items/item/destruction_stick"
+    },
     "diamant_boots": {
       "textures": "textures/items/diamond_boots"
     },
@@ -196,6 +199,9 @@
     },
     "double_xp_potion_pecheur": {
       "textures": "textures/items/doublexp/double_xp_potion_pecheur"
+    },
+    "dynamite": {
+      "textures": "textures/items/item/dynamite"
     },
     "effects_stick": {
       "textures": "textures/items/stick/effects_stick"
@@ -361,6 +367,15 @@
     },
     "evolving_sword_9": {
       "textures": "textures/items/evolving/sword_9"
+    },
+    "extend_wand_amethyste": {
+      "textures": "textures/items/item/extend_wand_amethyste"
+    },
+    "extend_wand_onyx": {
+      "textures": "textures/items/item/extend_wand_onyx"
+    },
+    "extend_wand_rubis": {
+      "textures": "textures/items/item/extend_wand_rubis"
     },
     "farm_boots": {
       "textures": "textures/items/armors/farm_boots"
@@ -631,6 +646,36 @@
     },
     "linesia_humus": {
       "textures": "textures/blocks/soil/humus"
+    },
+    "linesia_replay_back": {
+      "textures": "textures/items/replay/back"
+    },
+    "linesia_replay_camera": {
+      "textures": "textures/items/replay/camera"
+    },
+    "linesia_replay_events": {
+      "textures": "textures/items/replay/events"
+    },
+    "linesia_replay_exit": {
+      "textures": "textures/items/replay/exit"
+    },
+    "linesia_replay_forward": {
+      "textures": "textures/items/replay/forward"
+    },
+    "linesia_replay_menu": {
+      "textures": "textures/items/replay/menu"
+    },
+    "linesia_replay_pause": {
+      "textures": "textures/items/replay/pause"
+    },
+    "linesia_replay_play": {
+      "textures": "textures/items/replay/play"
+    },
+    "linesia_replay_players": {
+      "textures": "textures/items/replay/players"
+    },
+    "linesia_replay_speed": {
+      "textures": "textures/items/replay/speed"
     },
     "linesia_sapling_arbremonde": {
       "textures": "textures/blocks/world/grove/arbremonde/sapling"
@@ -1006,21 +1051,6 @@
     },
     "zombie_gemme": {
       "textures": "textures/items/item/zombie_gemme"
-    },
-    "extend_wand_amethyste": {
-      "textures": "textures/items/item/extend_wand_amethyste"
-    },
-    "extend_wand_rubis": {
-      "textures": "textures/items/item/extend_wand_rubis"
-    },
-    "extend_wand_onyx": {
-      "textures": "textures/items/item/extend_wand_onyx"
-    },
-    "dynamite": {
-      "textures": "textures/items/item/dynamite"
-    },
-    "destruction_stick": {
-      "textures": "textures/items/item/destruction_stick"
     }
   }
 }
