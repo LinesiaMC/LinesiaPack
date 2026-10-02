@@ -1693,5 +1693,35 @@
   },
   "linesia:energy_door_cell": {
     "sound": "metal"
+  },
+  "linesia:totem_bear_x": {
+    "sound": "wood"
+  },
+  "linesia:totem_bear_z": {
+    "sound": "wood"
+  },
+  "linesia:totem_wolf_x": {
+    "sound": "wood"
+  },
+  "linesia:totem_wolf_z": {
+    "sound": "wood"
+  },
+  "linesia:totem_frog_x": {
+    "sound": "wood"
+  },
+  "linesia:totem_frog_z": {
+    "sound": "wood"
+  },
+  "linesia:totem_owl_x": {
+    "sound": "wood"
+  },
+  "linesia:totem_owl_z": {
+    "sound": "wood"
+  },
+  "linesia:totem_sun_x": {
+    "sound": "wood"
+  },
+  "linesia:totem_sun_z": {
+    "sound": "wood"
   }
 }

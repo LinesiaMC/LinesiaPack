@@ -2337,6 +2337,39 @@
     "linesia_terreau_sylvestre": {
       "textures": "textures/blocks/soil/terreau_sylvestre"
     },
+    "linesia_totem_bear_face": {
+      "textures": "textures/blocks/event/totem/bear_face"
+    },
+    "linesia_totem_bear_side": {
+      "textures": "textures/blocks/event/totem/bear_side"
+    },
+    "linesia_totem_end": {
+      "textures": "textures/blocks/event/totem/end"
+    },
+    "linesia_totem_frog_face": {
+      "textures": "textures/blocks/event/totem/frog_face"
+    },
+    "linesia_totem_frog_side": {
+      "textures": "textures/blocks/event/totem/frog_side"
+    },
+    "linesia_totem_owl_face": {
+      "textures": "textures/blocks/event/totem/owl_face"
+    },
+    "linesia_totem_owl_side": {
+      "textures": "textures/blocks/event/totem/owl_side"
+    },
+    "linesia_totem_sun_face": {
+      "textures": "textures/blocks/event/totem/sun_face"
+    },
+    "linesia_totem_sun_side": {
+      "textures": "textures/blocks/event/totem/sun_side"
+    },
+    "linesia_totem_wolf_face": {
+      "textures": "textures/blocks/event/totem/wolf_face"
+    },
+    "linesia_totem_wolf_side": {
+      "textures": "textures/blocks/event/totem/wolf_side"
+    },
     "linesia_vslab_acacia_planks": {
       "textures": "textures/blocks/planks_acacia"
     },
