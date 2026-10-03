@@ -107,9 +107,6 @@
     "cash": {
       "textures": "textures/items/item/cash"
     },
-    "cash_token": {
-      "textures": "textures/items/item/cash_token"
-    },
     "cassia_bark": {
       "textures": "textures/items/wood_bark/cassia_bark"
     },
@@ -775,9 +772,6 @@
     },
     "maple_sapling": {
       "textures": "textures/blocks/sapling/maple_sapling"
-    },
-    "monolith": {
-      "textures": "textures/items/item/monolith"
     },
     "onyx_apple": {
       "textures": "textures/items/apple/onyx_apple"

@@ -3150,60 +3150,6 @@
     "maple_sapling": {
       "textures": "textures/blocks/sapling/maple_sapling"
     },
-    "obsidian2": {
-      "textures": "textures/blocks/obsidian"
-    },
-    "obsidian2_1": {
-      "textures": "textures/blocks/obsidian_1"
-    },
-    "obsidian2_2": {
-      "textures": "textures/blocks/obsidian_2"
-    },
-    "obsidian_door_1_lower": {
-      "textures": "textures/blocks/obsidian_1"
-    },
-    "obsidian_door_1_upper": {
-      "textures": "textures/blocks/obsidian_1_door_upper"
-    },
-    "obsidian_door_2_lower": {
-      "textures": "textures/blocks/obsidian_2"
-    },
-    "obsidian_door_2_upper": {
-      "textures": "textures/blocks/obsidian_2_door_upper"
-    },
-    "obsidian_door_lower": {
-      "textures": "textures/blocks/obsidian"
-    },
-    "obsidian_door_upper": {
-      "textures": "textures/blocks/obsidian_door_upper"
-    },
-    "obsidian_fence": {
-      "textures": "textures/blocks/obsidian"
-    },
-    "obsidian_fence_1": {
-      "textures": "textures/blocks/obsidian_1"
-    },
-    "obsidian_fence_2": {
-      "textures": "textures/blocks/obsidian_2"
-    },
-    "obsidian_fence_gate": {
-      "textures": "textures/blocks/obsidian"
-    },
-    "obsidian_fence_gate_1": {
-      "textures": "textures/blocks/obsidian_1"
-    },
-    "obsidian_fence_gate_2": {
-      "textures": "textures/blocks/obsidian_2"
-    },
-    "obsidian_trapdoor": {
-      "textures": "textures/blocks/obsidian_trapdoor"
-    },
-    "obsidian_trapdoor_1": {
-      "textures": "textures/blocks/obsidian_trapdoor_1"
-    },
-    "obsidian_trapdoor_2": {
-      "textures": "textures/blocks/obsidian_trapdoor_2"
-    },
     "onyx_tree_sapling": {
       "textures": "textures/blocks/sapling/onyx_tree_sapling"
     },
@@ -3248,9 +3194,6 @@
     },
     "whiter_generator": {
       "textures": "textures/blocks/whiter_generator"
-    },
-    "worm_dirt": {
-      "textures": "textures/blocks/worm_dirt"
     },
     "zombie_generator": {
       "textures": "textures/blocks/zombie_generator"
