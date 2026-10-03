@@ -440,6 +440,246 @@
     "key_tree_sapling": {
       "textures": "textures/blocks/sapling/key_tree_sapling"
     },
+    "linesia_egg_airdrop": {
+      "textures": "textures/items/eggs/airdrop"
+    },
+    "linesia_egg_alien": {
+      "textures": "textures/items/eggs/alien"
+    },
+    "linesia_egg_apothecary": {
+      "textures": "textures/items/eggs/apothecary"
+    },
+    "linesia_egg_apothecary_dye": {
+      "textures": "textures/items/eggs/apothecary_dye"
+    },
+    "linesia_egg_banker": {
+      "textures": "textures/items/eggs/banker"
+    },
+    "linesia_egg_banner": {
+      "textures": "textures/items/eggs/banner"
+    },
+    "linesia_egg_borin": {
+      "textures": "textures/items/eggs/borin"
+    },
+    "linesia_egg_capsula": {
+      "textures": "textures/items/eggs/capsula"
+    },
+    "linesia_egg_citadel": {
+      "textures": "textures/items/eggs/citadel"
+    },
+    "linesia_egg_computer": {
+      "textures": "textures/items/eggs/computer"
+    },
+    "linesia_egg_countdown_empyree": {
+      "textures": "textures/items/eggs/countdown_empyree"
+    },
+    "linesia_egg_cup": {
+      "textures": "textures/items/eggs/cup"
+    },
+    "linesia_egg_deco_cosmetic": {
+      "textures": "textures/items/eggs/deco_cosmetic"
+    },
+    "linesia_egg_domination": {
+      "textures": "textures/items/eggs/domination"
+    },
+    "linesia_egg_earth": {
+      "textures": "textures/items/eggs/earth"
+    },
+    "linesia_egg_eldric": {
+      "textures": "textures/items/eggs/eldric"
+    },
+    "linesia_egg_eldric_deco": {
+      "textures": "textures/items/eggs/eldric_deco"
+    },
+    "linesia_egg_event_deco": {
+      "textures": "textures/items/eggs/event_deco"
+    },
+    "linesia_egg_fisherman": {
+      "textures": "textures/items/eggs/fisherman"
+    },
+    "linesia_egg_fisherman_dye": {
+      "textures": "textures/items/eggs/fisherman_dye"
+    },
+    "linesia_egg_florist": {
+      "textures": "textures/items/eggs/florist"
+    },
+    "linesia_egg_florist_dye": {
+      "textures": "textures/items/eggs/florist_dye"
+    },
+    "linesia_egg_fonderie_empyree": {
+      "textures": "textures/items/eggs/fonderie_empyree"
+    },
+    "linesia_egg_george": {
+      "textures": "textures/items/eggs/george"
+    },
+    "linesia_egg_grocery": {
+      "textures": "textures/items/eggs/grocery"
+    },
+    "linesia_egg_grocery_dye": {
+      "textures": "textures/items/eggs/grocery_dye"
+    },
+    "linesia_egg_guard": {
+      "textures": "textures/items/eggs/guard"
+    },
+    "linesia_egg_hub_boat": {
+      "textures": "textures/items/eggs/hub_boat"
+    },
+    "linesia_egg_hub_crystal": {
+      "textures": "textures/items/eggs/hub_crystal"
+    },
+    "linesia_egg_hub_dummy_mob": {
+      "textures": "textures/items/eggs/hub_dummy_mob"
+    },
+    "linesia_egg_hub_dummy_pvp": {
+      "textures": "textures/items/eggs/hub_dummy_pvp"
+    },
+    "linesia_egg_hub_enchant_station": {
+      "textures": "textures/items/eggs/hub_enchant_station"
+    },
+    "linesia_egg_hub_forge": {
+      "textures": "textures/items/eggs/hub_forge"
+    },
+    "linesia_egg_hub_guide": {
+      "textures": "textures/items/eggs/hub_guide"
+    },
+    "linesia_egg_hub_mannequin": {
+      "textures": "textures/items/eggs/hub_mannequin"
+    },
+    "linesia_egg_hub_portal_farm": {
+      "textures": "textures/items/eggs/hub_portal_farm"
+    },
+    "linesia_egg_hub_portal_fish": {
+      "textures": "textures/items/eggs/hub_portal_fish"
+    },
+    "linesia_egg_hub_portal_mine": {
+      "textures": "textures/items/eggs/hub_portal_mine"
+    },
+    "linesia_egg_hub_portal_mob": {
+      "textures": "textures/items/eggs/hub_portal_mob"
+    },
+    "linesia_egg_hub_portal_pvp": {
+      "textures": "textures/items/eggs/hub_portal_pvp"
+    },
+    "linesia_egg_hub_portal_shovel": {
+      "textures": "textures/items/eggs/hub_portal_shovel"
+    },
+    "linesia_egg_hub_portal_tree": {
+      "textures": "textures/items/eggs/hub_portal_tree"
+    },
+    "linesia_egg_hub_windmill": {
+      "textures": "textures/items/eggs/hub_windmill"
+    },
+    "linesia_egg_island": {
+      "textures": "textures/items/eggs/island"
+    },
+    "linesia_egg_large_banner": {
+      "textures": "textures/items/eggs/large_banner"
+    },
+    "linesia_egg_light_ground": {
+      "textures": "textures/items/eggs/light_ground"
+    },
+    "linesia_egg_liora": {
+      "textures": "textures/items/eggs/liora"
+    },
+    "linesia_egg_liora_deco": {
+      "textures": "textures/items/eggs/liora_deco"
+    },
+    "linesia_egg_master_quest": {
+      "textures": "textures/items/eggs/master_quest"
+    },
+    "linesia_egg_mayor": {
+      "textures": "textures/items/eggs/mayor"
+    },
+    "linesia_egg_merchant_armor": {
+      "textures": "textures/items/eggs/merchant_armor"
+    },
+    "linesia_egg_merchant_basic": {
+      "textures": "textures/items/eggs/merchant_basic"
+    },
+    "linesia_egg_merchant_forbidden": {
+      "textures": "textures/items/eggs/merchant_forbidden"
+    },
+    "linesia_egg_merchant_jewerly": {
+      "textures": "textures/items/eggs/merchant_jewerly"
+    },
+    "linesia_egg_merchant_pet": {
+      "textures": "textures/items/eggs/merchant_pet"
+    },
+    "linesia_egg_merchant_potion": {
+      "textures": "textures/items/eggs/merchant_potion"
+    },
+    "linesia_egg_merchant_wandering": {
+      "textures": "textures/items/eggs/merchant_wandering"
+    },
+    "linesia_egg_merchant_weapon": {
+      "textures": "textures/items/eggs/merchant_weapon"
+    },
+    "linesia_egg_nave": {
+      "textures": "textures/items/eggs/nave"
+    },
+    "linesia_egg_ondin": {
+      "textures": "textures/items/eggs/ondin"
+    },
+    "linesia_egg_outpost": {
+      "textures": "textures/items/eggs/outpost"
+    },
+    "linesia_egg_portal_dungeon": {
+      "textures": "textures/items/eggs/portal_dungeon"
+    },
+    "linesia_egg_portal_empyree": {
+      "textures": "textures/items/eggs/portal_empyree"
+    },
+    "linesia_egg_portal_sanctuary": {
+      "textures": "textures/items/eggs/portal_sanctuary"
+    },
+    "linesia_egg_portal_unstable": {
+      "textures": "textures/items/eggs/portal_unstable"
+    },
+    "linesia_egg_portal_warzone": {
+      "textures": "textures/items/eggs/portal_warzone"
+    },
+    "linesia_egg_seraphin": {
+      "textures": "textures/items/eggs/seraphin"
+    },
+    "linesia_egg_sign_combat": {
+      "textures": "textures/items/eggs/sign_combat"
+    },
+    "linesia_egg_sign_dimension": {
+      "textures": "textures/items/eggs/sign_dimension"
+    },
+    "linesia_egg_sign_farmzone": {
+      "textures": "textures/items/eggs/sign_farmzone"
+    },
+    "linesia_egg_sign_mine": {
+      "textures": "textures/items/eggs/sign_mine"
+    },
+    "linesia_egg_sparky": {
+      "textures": "textures/items/eggs/sparky"
+    },
+    "linesia_egg_sparky_statue": {
+      "textures": "textures/items/eggs/sparky_statue"
+    },
+    "linesia_egg_sylven": {
+      "textures": "textures/items/eggs/sylven"
+    },
+    "linesia_egg_thorin": {
+      "textures": "textures/items/eggs/thorin"
+    },
+    "linesia_egg_velena": {
+      "textures": "textures/items/eggs/velena"
+    },
+    "linesia_egg_velena_deco": {
+      "textures": "textures/items/eggs/velena_deco"
+    },
+    "linesia_egg_villager_f": {
+      "textures": "textures/items/eggs/villager_f"
+    },
+    "linesia_egg_villager_m": {
+      "textures": "textures/items/eggs/villager_m"
+    },
+    "linesia_egg_wumpus": {
+      "textures": "textures/items/eggs/wumpus"
+    },
     "linesia_energy_cell": {
       "textures": "textures/items/energy/cell"
     },
