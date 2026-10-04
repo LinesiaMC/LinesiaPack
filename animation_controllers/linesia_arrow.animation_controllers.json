@@ -1,0 +1,29 @@
+{
+  "format_version": "1.10.0",
+  "animation_controllers": {
+    "controller.animation.linesia_arrow.trail": {
+      "initial_state": "rest",
+      "states": {
+        "rest": {
+          "transitions": [
+            {
+              "fly": "(q.ground_speed + math.abs(q.vertical_speed)) > 4 && q.shake_time <= 0"
+            }
+          ]
+        },
+        "fly": {
+          "particle_effects": [
+            {
+              "effect": "trail"
+            }
+          ],
+          "transitions": [
+            {
+              "rest": "(q.ground_speed + math.abs(q.vertical_speed)) < 1 || q.shake_time > 0"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "format_version": "1.8.0",
+  "animations": {
+    "animation.linesia_ender_pearl.spin": {
+      "loop": true,
+      "bones": {
+        "orb": {
+          "rotation": [
+            "q.life_time * 540",
+            "q.life_time * 380",
+            0
+          ],
+          "scale": [
+            0.8,
+            0.8,
+            0.8
+          ]
+        }
+      }
+    },
+    "animation.linesia_ender_pearl.fx": {
+      "loop": "hold_on_last_frame",
+      "animation_length": 0.05,
+      "particle_effects": {
+        "0.0": [
+          {
+            "effect": "trail",
+            "locator": "core"
+          },
+          {
+            "effect": "sparkle",
+            "locator": "core"
+          }
+        ]
+      }
+    }
+  }
+}

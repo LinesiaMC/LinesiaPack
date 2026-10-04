@@ -1,0 +1,35 @@
+{
+  "format_version": "1.21.0",
+  "minecraft:client_entity": {
+    "description": {
+      "identifier": "minecraft:ender_pearl",
+      "min_engine_version": "1.13.0",
+      "materials": {
+        "default": "entity_emissive_alpha"
+      },
+      "textures": {
+        "default": "textures/entity/projectiles/ender_pearl"
+      },
+      "geometry": {
+        "default": "geometry.linesia_ender_pearl"
+      },
+      "render_controllers": [
+        "controller.render.default"
+      ],
+      "animations": {
+        "spin": "animation.linesia_ender_pearl.spin",
+        "fx": "animation.linesia_ender_pearl.fx"
+      },
+      "scripts": {
+        "animate": [
+          "spin",
+          "fx"
+        ]
+      },
+      "particle_effects": {
+        "trail": "linesia:ender_pearl_trail",
+        "sparkle": "linesia:ender_pearl_sparkle"
+      }
+    }
+  }
+}
