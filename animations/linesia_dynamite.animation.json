@@ -1,0 +1,33 @@
+{
+  "format_version": "1.8.0",
+  "animations": {
+    "animation.linesia_dynamite.spin": {
+      "loop": true,
+      "bones": {
+        "stick": {
+          "rotation": [
+            "q.life_time * 560",
+            0,
+            "q.life_time * 260"
+          ]
+        }
+      }
+    },
+    "animation.linesia_dynamite.fx": {
+      "loop": "hold_on_last_frame",
+      "animation_length": 0.05,
+      "particle_effects": {
+        "0.0": [
+          {
+            "effect": "spark",
+            "locator": "fuse"
+          },
+          {
+            "effect": "smoke",
+            "locator": "fuse"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -7,17 +7,26 @@
         "default": "entity_alphatest"
       },
       "textures": {
-        "default": "textures/items/item/web_trap"
+        "default": "textures/entity/projectiles/web_trap"
       },
       "geometry": {
-        "default": "geometry.item_sprite"
+        "default": "geometry.linesia_web_trap"
       },
-      "render_controllers": ["controller.render.item_sprite"],
+      "render_controllers": [
+        "controller.render.default"
+      ],
       "animations": {
-        "flying": "animation.actor.billboard"
+        "spin": "animation.linesia_web_trap.spin",
+        "fx": "animation.linesia_web_trap.fx"
       },
       "scripts": {
-        "animate": ["flying"]
+        "animate": [
+          "spin",
+          "fx"
+        ]
+      },
+      "particle_effects": {
+        "trail": "linesia:web_trap_trail"
       }
     }
   }

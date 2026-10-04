@@ -4,20 +4,31 @@
     "description": {
       "identifier": "minecraft:switch_ball",
       "materials": {
-        "default": "entity_alphatest"
+        "default": "entity_emissive_alpha"
       },
       "textures": {
-        "default": "textures/items/item/switch_ball"
+        "default": "textures/entity/projectiles/switch_ball"
       },
       "geometry": {
-        "default": "geometry.item_sprite"
+        "default": "geometry.linesia_switch_ball"
       },
-      "render_controllers": ["controller.render.item_sprite"],
+      "render_controllers": [
+        "controller.render.default"
+      ],
       "animations": {
-        "flying": "animation.actor.billboard"
+        "spin": "animation.linesia_switch_ball.spin",
+        "fx": "animation.linesia_switch_ball.fx"
       },
       "scripts": {
-        "animate": ["flying"]
+        "animate": [
+          "spin",
+          "fx"
+        ]
+      },
+      "particle_effects": {
+        "glow": "linesia:switch_ball_glow",
+        "trail": "linesia:switch_ball_trail",
+        "sparkle": "linesia:switch_ball_sparkle"
       }
     }
   }

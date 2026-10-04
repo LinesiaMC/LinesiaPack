@@ -1,0 +1,29 @@
+{
+  "format_version": "1.8.0",
+  "animations": {
+    "animation.linesia_web_trap.spin": {
+      "loop": true,
+      "bones": {
+        "web": {
+          "rotation": [
+            "q.life_time * 240",
+            "q.life_time * 420",
+            0
+          ]
+        }
+      }
+    },
+    "animation.linesia_web_trap.fx": {
+      "loop": "hold_on_last_frame",
+      "animation_length": 0.05,
+      "particle_effects": {
+        "0.0": [
+          {
+            "effect": "trail",
+            "locator": "core"
+          }
+        ]
+      }
+    }
+  }
+}

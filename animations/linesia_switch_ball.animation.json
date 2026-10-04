@@ -1,0 +1,42 @@
+{
+  "format_version": "1.8.0",
+  "animations": {
+    "animation.linesia_switch_ball.spin": {
+      "loop": true,
+      "bones": {
+        "orb": {
+          "rotation": [
+            "q.life_time * 760",
+            "q.life_time * 520",
+            "q.life_time * 300"
+          ],
+          "scale": [
+            "1 + math.sin(q.life_time * 1400) * 0.06",
+            "1 + math.sin(q.life_time * 1400) * 0.06",
+            "1 + math.sin(q.life_time * 1400) * 0.06"
+          ]
+        }
+      }
+    },
+    "animation.linesia_switch_ball.fx": {
+      "loop": "hold_on_last_frame",
+      "animation_length": 0.05,
+      "particle_effects": {
+        "0.0": [
+          {
+            "effect": "glow",
+            "locator": "core"
+          },
+          {
+            "effect": "trail",
+            "locator": "core"
+          },
+          {
+            "effect": "sparkle",
+            "locator": "core"
+          }
+        ]
+      }
+    }
+  }
+}

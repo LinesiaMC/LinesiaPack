@@ -7,21 +7,27 @@
         "default": "entity_alphatest"
       },
       "textures": {
-        "default": "textures/items/item/dynamite"
+        "default": "textures/entity/projectiles/dynamite"
       },
       "geometry": {
-        "default": "geometry.item_sprite"
+        "default": "geometry.linesia_dynamite"
       },
       "render_controllers": [
-        "controller.render.item_sprite"
+        "controller.render.default"
       ],
       "animations": {
-        "flying": "animation.actor.billboard"
+        "spin": "animation.linesia_dynamite.spin",
+        "fx": "animation.linesia_dynamite.fx"
       },
       "scripts": {
         "animate": [
-          "flying"
+          "spin",
+          "fx"
         ]
+      },
+      "particle_effects": {
+        "spark": "linesia:dynamite_spark",
+        "smoke": "linesia:dynamite_smoke"
       }
     }
   }
