@@ -8,9 +8,6 @@
     "amethyste_apple": {
       "textures": "textures/items/apple/amethyste_apple"
     },
-    "amethyste_axe": {
-      "textures": "textures/items/tools/amethyste_axe"
-    },
     "amethyste_boots": {
       "textures": "textures/items/armors/amethyste_boots"
     },
@@ -47,9 +44,6 @@
     "amethyste_helmet_tenebreux": {
       "textures": "textures/items/armors/amethyste_helmet_tenebreux"
     },
-    "amethyste_hoe": {
-      "textures": "textures/items/tools/amethyste_hoe"
-    },
     "amethyste_ingot": {
       "textures": "textures/items/ingot/amethyste_ingot"
     },
@@ -64,12 +58,6 @@
     },
     "amethyste_leggings_tenebreux": {
       "textures": "textures/items/armors/amethyste_leggings_tenebreux"
-    },
-    "amethyste_pickaxe": {
-      "textures": "textures/items/tools/amethyste_pickaxe"
-    },
-    "amethyste_shovel": {
-      "textures": "textures/items/tools/amethyste_shovel"
     },
     "amethyste_sword": {
       "textures": "textures/items/sword/amethyste_sword"
@@ -89,14 +77,8 @@
     "ash_bark": {
       "textures": "textures/items/wood_bark/ash_bark"
     },
-    "ash_sapling": {
-      "textures": "textures/blocks/sapling/ash_sapling"
-    },
     "astral_bark": {
       "textures": "textures/items/wood_bark/astral_bark"
-    },
-    "astral_sapling": {
-      "textures": "textures/blocks/sapling/astral_sapling"
     },
     "bump": {
       "textures": "textures/items/stick/bump"
@@ -115,9 +97,6 @@
     },
     "cedar_bark": {
       "textures": "textures/items/wood_bark/cedar_bark"
-    },
-    "cedar_sapling": {
-      "textures": "textures/blocks/sapling/cedar_sapling"
     },
     "chorus_bulb": {
       "textures": "textures/items/end/chorus_bulb"
@@ -436,9 +415,6 @@
     },
     "key_rare": {
       "textures": "textures/items/key/key_rare"
-    },
-    "key_tree_sapling": {
-      "textures": "textures/blocks/sapling/key_tree_sapling"
     },
     "linesia_egg_airdrop": {
       "textures": "textures/items/eggs/airdrop"
@@ -881,9 +857,6 @@
     "linesia_golden_sheaf": {
       "textures": "textures/items/farm/golden_sheaf"
     },
-    "linesia_humus": {
-      "textures": "textures/blocks/soil/humus"
-    },
     "linesia_replay_back": {
       "textures": "textures/items/replay/back"
     },
@@ -989,35 +962,17 @@
     "linesia_sapling_taiga": {
       "textures": "textures/blocks/world/grove/taiga/sapling"
     },
-    "linesia_terre_ancienne": {
-      "textures": "textures/blocks/soil/terre_ancienne"
-    },
-    "linesia_terre_primordiale": {
-      "textures": "textures/blocks/soil/terre_primordiale"
-    },
-    "linesia_terreau_sylvestre": {
-      "textures": "textures/blocks/soil/terreau_sylvestre"
-    },
     "magma_fish": {
       "textures": "textures/items/fish/magma_fish"
     },
     "mahogany_bark": {
       "textures": "textures/items/wood_bark/mahogany_bark"
     },
-    "mahogany_sapling": {
-      "textures": "textures/blocks/sapling/mahogany_sapling"
-    },
     "maple_bark": {
       "textures": "textures/items/wood_bark/maple_bark"
     },
-    "maple_sapling": {
-      "textures": "textures/blocks/sapling/maple_sapling"
-    },
     "onyx_apple": {
       "textures": "textures/items/apple/onyx_apple"
-    },
-    "onyx_axe": {
-      "textures": "textures/items/tools/onyx_axe"
     },
     "onyx_boots": {
       "textures": "textures/items/armors/onyx_boots"
@@ -1061,9 +1016,6 @@
     "onyx_helmet_tenebreux": {
       "textures": "textures/items/armors/onyx_helmet_tenebreux"
     },
-    "onyx_hoe": {
-      "textures": "textures/items/tools/onyx_hoe"
-    },
     "onyx_ingot": {
       "textures": "textures/items/ingot/onyx_ingot"
     },
@@ -1079,17 +1031,8 @@
     "onyx_leggings_tenebreux": {
       "textures": "textures/items/armors/onyx_leggings_tenebreux"
     },
-    "onyx_pickaxe": {
-      "textures": "textures/items/tools/onyx_pickaxe"
-    },
-    "onyx_shovel": {
-      "textures": "textures/items/tools/onyx_shovel"
-    },
     "onyx_sword": {
       "textures": "textures/items/sword/onyx_sword"
-    },
-    "onyx_tree_sapling": {
-      "textures": "textures/blocks/sapling/onyx_tree_sapling"
     },
     "perch": {
       "textures": "textures/items/fish/perch"
@@ -1106,9 +1049,6 @@
     "rain_tree_bark": {
       "textures": "textures/items/wood_bark/rain_tree_bark"
     },
-    "rain_tree_sapling": {
-      "textures": "textures/blocks/sapling/rain_tree_sapling"
-    },
     "red_shrooma": {
       "textures": "textures/items/fish/red_shrooma"
     },
@@ -1121,14 +1061,8 @@
     "rosewood_bark": {
       "textures": "textures/items/wood_bark/rosewood_bark"
     },
-    "rosewood_sapling": {
-      "textures": "textures/blocks/sapling/rosewood_sapling"
-    },
     "rubis_apple": {
       "textures": "textures/items/apple/rubis_apple"
-    },
-    "rubis_axe": {
-      "textures": "textures/items/tools/rubis_axe"
     },
     "rubis_boots": {
       "textures": "textures/items/armors/rubis_boots"
@@ -1172,9 +1106,6 @@
     "rubis_helmet_tenebreux": {
       "textures": "textures/items/armors/rubis_helmet_tenebreux"
     },
-    "rubis_hoe": {
-      "textures": "textures/items/tools/rubis_hoe"
-    },
     "rubis_ingot": {
       "textures": "textures/items/ingot/rubis_ingot"
     },
@@ -1190,17 +1121,8 @@
     "rubis_leggings_tenebreux": {
       "textures": "textures/items/armors/rubis_leggings_tenebreux"
     },
-    "rubis_pickaxe": {
-      "textures": "textures/items/tools/rubis_pickaxe"
-    },
-    "rubis_shovel": {
-      "textures": "textures/items/tools/rubis_shovel"
-    },
     "rubis_sword": {
       "textures": "textures/items/sword/rubis_sword"
-    },
-    "rubis_tree_sapling": {
-      "textures": "textures/blocks/sapling/rubis_tree_sapling"
     },
     "sapling_oak": {
       "textures": "textures/blocks/sapling_oak"
@@ -1250,9 +1172,6 @@
     "teak_bark": {
       "textures": "textures/items/wood_bark/teak_bark"
     },
-    "teak_sapling": {
-      "textures": "textures/blocks/sapling/teak_sapling"
-    },
     "tp_stick": {
       "textures": "textures/items/stick/tp_stick"
     },
@@ -1265,14 +1184,8 @@
     "voidwood_bark": {
       "textures": "textures/items/wood_bark/voidwood_bark"
     },
-    "voidwood_sapling": {
-      "textures": "textures/blocks/sapling/voidwood_sapling"
-    },
     "walnut_bark": {
       "textures": "textures/items/wood_bark/walnut_bark"
-    },
-    "walnut_sapling": {
-      "textures": "textures/blocks/sapling/walnut_sapling"
     },
     "web_trap": {
       "textures": "textures/items/item/web_trap"

@@ -3,12 +3,6 @@
   "padding": 8,
   "resource_pack_name": "vanilla",
   "texture_data": {
-    "ash_sapling": {
-      "textures": "textures/blocks/sapling/ash_sapling"
-    },
-    "astral_sapling": {
-      "textures": "textures/blocks/sapling/astral_sapling"
-    },
     "block_anti_pearl": {
       "textures": "textures/blocks/block_anti_pearl"
     },
@@ -17,9 +11,6 @@
     },
     "block_elevator": {
       "textures": "textures/blocks/block_elevator"
-    },
-    "cedar_sapling": {
-      "textures": "textures/blocks/sapling/cedar_sapling"
     },
     "chorus_root": {
       "textures": "textures/blocks/end/chorus_root"
@@ -35,9 +26,6 @@
     },
     "enderman_generator": {
       "textures": "textures/blocks/enderman_generator"
-    },
-    "key_tree_sapling": {
-      "textures": "textures/blocks/sapling/key_tree_sapling"
     },
     "linesia_cove_abysse_emblem": {
       "textures": "textures/blocks/world/cove/abysse/emblem"
@@ -1836,9 +1824,6 @@
     "linesia_hub_tuto_wheat_young": {
       "textures": "textures/blocks/wheat_stage_2"
     },
-    "linesia_humus": {
-      "textures": "textures/blocks/soil/humus"
-    },
     "linesia_lair_abysse_emblem": {
       "textures": "textures/blocks/world/lair/abysse/emblem"
     },
@@ -2327,15 +2312,6 @@
     },
     "linesia_mine_volcan_rubis_ore": {
       "textures": "textures/blocks/world/mine/volcan/rubis_ore"
-    },
-    "linesia_terre_ancienne": {
-      "textures": "textures/blocks/soil/terre_ancienne"
-    },
-    "linesia_terre_primordiale": {
-      "textures": "textures/blocks/soil/terre_primordiale"
-    },
-    "linesia_terreau_sylvestre": {
-      "textures": "textures/blocks/soil/terreau_sylvestre"
     },
     "linesia_totem_bear_face": {
       "textures": "textures/blocks/event/totem/bear_face"
@@ -3144,15 +3120,6 @@
     "linesia_wood_taiga_stump_top": {
       "textures": "textures/blocks/world/grove/taiga/stump_top"
     },
-    "mahogany_sapling": {
-      "textures": "textures/blocks/sapling/mahogany_sapling"
-    },
-    "maple_sapling": {
-      "textures": "textures/blocks/sapling/maple_sapling"
-    },
-    "onyx_tree_sapling": {
-      "textures": "textures/blocks/sapling/onyx_tree_sapling"
-    },
     "ore_generator_t1": {
       "textures": "textures/blocks/ore_generator_t1"
     },
@@ -3165,32 +3132,14 @@
     "pigman_generator": {
       "textures": "textures/blocks/pigman_generator"
     },
-    "rain_tree_sapling": {
-      "textures": "textures/blocks/sapling/rain_tree_sapling"
-    },
-    "rosewood_sapling": {
-      "textures": "textures/blocks/sapling/rosewood_sapling"
-    },
-    "rubis_tree_sapling": {
-      "textures": "textures/blocks/sapling/rubis_tree_sapling"
-    },
     "sapling_oak": {
       "textures": "textures/blocks/sapling_oak"
-    },
-    "teak_sapling": {
-      "textures": "textures/blocks/sapling/teak_sapling"
     },
     "void_bloom": {
       "textures": "textures/blocks/end/void_bloom"
     },
     "void_bloom_cut": {
       "textures": "textures/blocks/end/void_bloom_cut"
-    },
-    "voidwood_sapling": {
-      "textures": "textures/blocks/sapling/voidwood_sapling"
-    },
-    "walnut_sapling": {
-      "textures": "textures/blocks/sapling/walnut_sapling"
     },
     "whiter_generator": {
       "textures": "textures/blocks/whiter_generator"

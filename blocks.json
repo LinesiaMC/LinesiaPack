@@ -29,30 +29,6 @@
   "linesia:ore_generator_t3": {
     "sound": "stone"
   },
-  "linesia:humus": {
-    "textures": "linesia_humus",
-    "sound": "gravel"
-  },
-  "linesia:terreau_sylvestre": {
-    "textures": "linesia_terreau_sylvestre",
-    "sound": "gravel"
-  },
-  "linesia:terre_ancienne": {
-    "textures": "linesia_terre_ancienne",
-    "sound": "gravel"
-  },
-  "linesia:terre_primordiale": {
-    "textures": "linesia_terre_primordiale",
-    "sound": "gravel"
-  },
-  "linesia:composteur": {
-    "textures": {
-      "up": "composter_top",
-      "down": "composter_bottom",
-      "side": "composter_side"
-    },
-    "sound": "wood"
-  },
   "linesia:gate_forcefield": {
     "sound": "glass"
   },
