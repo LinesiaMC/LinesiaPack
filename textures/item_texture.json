@@ -689,6 +689,9 @@
     "linesia_energy_wrench": {
       "textures": "textures/items/energy/wrench"
     },
+    "linesia_faction_standard": {
+      "textures": "textures/items/faction/standard"
+    },
     "linesia_fish_ablette": {
       "textures": "textures/items/fish/ablette"
     },
