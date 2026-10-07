@@ -10,10 +10,10 @@ profileScreen.header=Profilo
 
 commands.help.header=§d- §fElenco comandi pagina §1(§d%1$d§f/§d%2$d§e) §d-
 commands.help.footer=§dUsa /help (pagina) per visualizzare la pagina di aiuto.
-container.enderchest=§d- §fEnder Chest §d-
+container.enderchest=§d- §fCassa dell'End §d-
 
 #OGGETTI/BLOCCHI SPECIALI
-tile.sponge.dry.name=Blocco Anti-Pearl
+tile.sponge.dry.name=Blocco anti-perla
 tile.end_stone.name=Ascensore
 
 tile.emerald_ore.name=Minerale di Ametista
@@ -34,10 +34,10 @@ tile.linesia:generator_tier_diamond.name=Generatore in Diamante
 tile.linesia:generator_tier_or.name=Generatore in Oro
 tile.linesia:generator_tier_stone.name=Generatore in Pietra
 
-item.amethyste_sword.name=Amethyst Sword
-item.rubis_sword.name=Rubis Sword
-item.onyx_sword.name=Onyx Sword
-item.healing_heart.name=Healing Heart
+item.amethyste_sword.name=Spada di ametista
+item.rubis_sword.name=Spada di rubino
+item.onyx_sword.name=Spada di onice
+item.healing_heart.name=Cuore curativo
 
 effect.villageHero=Potion de Double XP
 
