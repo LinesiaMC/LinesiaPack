@@ -446,9 +446,6 @@
     "linesia_egg_computer": {
       "textures": "textures/items/eggs/computer"
     },
-    "linesia_egg_countdown_empyree": {
-      "textures": "textures/items/eggs/countdown_empyree"
-    },
     "linesia_egg_cup": {
       "textures": "textures/items/eggs/cup"
     },
@@ -481,9 +478,6 @@
     },
     "linesia_egg_florist_dye": {
       "textures": "textures/items/eggs/florist_dye"
-    },
-    "linesia_egg_fonderie_empyree": {
-      "textures": "textures/items/eggs/fonderie_empyree"
     },
     "linesia_egg_george": {
       "textures": "textures/items/eggs/george"
@@ -602,9 +596,6 @@
     "linesia_egg_portal_dungeon": {
       "textures": "textures/items/eggs/portal_dungeon"
     },
-    "linesia_egg_portal_empyree": {
-      "textures": "textures/items/eggs/portal_empyree"
-    },
     "linesia_egg_portal_sanctuary": {
       "textures": "textures/items/eggs/portal_sanctuary"
     },
@@ -613,9 +604,6 @@
     },
     "linesia_egg_portal_warzone": {
       "textures": "textures/items/eggs/portal_warzone"
-    },
-    "linesia_egg_seraphin": {
-      "textures": "textures/items/eggs/seraphin"
     },
     "linesia_egg_sign_combat": {
       "textures": "textures/items/eggs/sign_combat"
