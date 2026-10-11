@@ -155,9 +155,6 @@
     "diamant_sword": {
       "textures": "textures/items/diamond_sword"
     },
-    "disc_werenoi": {
-      "textures": "textures/items/record/disc_werenoi"
-    },
     "double_xp_potion": {
       "textures": "textures/items/doublexp/double_xp_potion"
     },
