@@ -41,10 +41,6 @@ item.healing_heart.name=Cuore curativo
 
 effect.villageHero=Potion de Double XP
 
-#FATTORIA
-item.nether_wart.name=Seme di Onice
-tile.soul_sand.name=Terra Arricchita
-
 # OBSI
 tile.linesia:obsidian2.name=Obsidienne
 tile.linesia:obsidian_fence.name=Clôture en obsidienne

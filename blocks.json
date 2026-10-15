@@ -1696,5 +1696,11 @@
   },
   "linesia:totem_sun_z": {
     "sound": "wood"
+  },
+  "linesia:enriched_soil": {
+    "sound": "gravel"
+  },
+  "linesia:onyx_crop": {
+    "sound": "amethyst_cluster"
   }
 }

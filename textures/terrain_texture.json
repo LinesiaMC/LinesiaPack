@@ -732,6 +732,12 @@
     "linesia_energy_wind": {
       "textures": "textures/blocks/energy/wind"
     },
+    "linesia_enriched_soil_side": {
+      "textures": "textures/blocks/farm/enriched_soil_side"
+    },
+    "linesia_enriched_soil_top": {
+      "textures": "textures/blocks/farm/enriched_soil_top"
+    },
     "linesia_farm_ames_emblem": {
       "textures": "textures/blocks/world/farm/ames/emblem"
     },
@@ -2309,6 +2315,18 @@
     },
     "linesia_mine_volcan_rubis_ore": {
       "textures": "textures/blocks/world/mine/volcan/rubis_ore"
+    },
+    "linesia_onyx_crop_0": {
+      "textures": "textures/blocks/farm/onyx_crop_stage_0"
+    },
+    "linesia_onyx_crop_1": {
+      "textures": "textures/blocks/farm/onyx_crop_stage_1"
+    },
+    "linesia_onyx_crop_2": {
+      "textures": "textures/blocks/farm/onyx_crop_stage_2"
+    },
+    "linesia_onyx_crop_3": {
+      "textures": "textures/blocks/farm/onyx_crop_stage_3"
     },
     "linesia_totem_bear_face": {
       "textures": "textures/blocks/event/totem/bear_face"

@@ -416,6 +416,36 @@
     "key_rare": {
       "textures": "textures/items/key/key_rare"
     },
+    "linesia_crop_gem_beetroot": {
+      "textures": "textures/items/farm/crop_gem_beetroot"
+    },
+    "linesia_crop_gem_carrot": {
+      "textures": "textures/items/farm/crop_gem_carrot"
+    },
+    "linesia_crop_gem_chorus": {
+      "textures": "textures/items/farm/crop_gem_chorus"
+    },
+    "linesia_crop_gem_ender_berry": {
+      "textures": "textures/items/farm/crop_gem_ender_berry"
+    },
+    "linesia_crop_gem_melon": {
+      "textures": "textures/items/farm/crop_gem_melon"
+    },
+    "linesia_crop_gem_nether_wart": {
+      "textures": "textures/items/farm/crop_gem_nether_wart"
+    },
+    "linesia_crop_gem_potato": {
+      "textures": "textures/items/farm/crop_gem_potato"
+    },
+    "linesia_crop_gem_pumpkin": {
+      "textures": "textures/items/farm/crop_gem_pumpkin"
+    },
+    "linesia_crop_gem_void_bloom": {
+      "textures": "textures/items/farm/crop_gem_void_bloom"
+    },
+    "linesia_crop_gem_wheat": {
+      "textures": "textures/items/farm/crop_gem_wheat"
+    },
     "linesia_egg_airdrop": {
       "textures": "textures/items/eggs/airdrop"
     },
@@ -847,6 +877,9 @@
     },
     "linesia_golden_sheaf": {
       "textures": "textures/items/farm/golden_sheaf"
+    },
+    "linesia_onyx_seed": {
+      "textures": "textures/items/farm/onyx_seed"
     },
     "linesia_replay_back": {
       "textures": "textures/items/replay/back"
