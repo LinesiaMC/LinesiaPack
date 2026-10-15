@@ -350,6 +350,9 @@
     "extend_wand_rubis": {
       "textures": "textures/items/item/extend_wand_rubis"
     },
+    "faction_totem": {
+      "textures": "textures/items/item/faction_totem"
+    },
     "farm_boots": {
       "textures": "textures/items/armors/farm_boots"
     },
