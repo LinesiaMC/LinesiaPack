@@ -1592,9 +1592,6 @@
   "linesia:energy_biogas": {
     "sound": "metal"
   },
-  "linesia:energy_geothermal": {
-    "sound": "stone"
-  },
   "linesia:energy_reactor": {
     "sound": "metal"
   },

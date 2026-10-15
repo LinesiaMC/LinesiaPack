@@ -648,9 +648,6 @@
     "linesia_energy_gauge_5": {
       "textures": "textures/blocks/energy/state/gauge_5"
     },
-    "linesia_energy_geothermal": {
-      "textures": "textures/blocks/energy/geothermal"
-    },
     "linesia_energy_goo_blocked": {
       "textures": "textures/blocks/energy/state/goo_blocked"
     },
