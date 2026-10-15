@@ -70,7 +70,7 @@
         },
         "rod_tip": {
           "rotation": [
-            "4 + math.sin(q.life_time * 55) * 1.5",
+            "4 + (math.sin(q.life_time * 55) * 1.5) * (c.is_first_person ? 0.4 : 1)",
             0,
             0
           ]
@@ -161,23 +161,23 @@
         },
         "rod": {
           "rotation": [
-            "-4 + math.sin(q.life_time * 90) * 2",
+            "-4 + (math.sin(q.life_time * 90) * 2) * (c.is_first_person ? 0.4 : 1)",
             0,
             0
           ]
         },
         "rod_mid": {
           "rotation": [
-            "10 + math.sin(q.life_time * 230) * 4",
-            "math.sin(q.life_time * 170) * 3",
+            "10 + (math.sin(q.life_time * 230) * 4) * (c.is_first_person ? 0.4 : 1)",
+            "(math.sin(q.life_time * 170) * 3) * (c.is_first_person ? 0.4 : 1)",
             0
           ]
         },
         "rod_tip": {
           "rotation": [
-            "17 + math.sin(q.life_time * 230) * 7",
-            "math.sin(q.life_time * 170) * 4",
-            "math.sin(q.life_time * 200) * 5"
+            "17 + (math.sin(q.life_time * 230) * 7) * (c.is_first_person ? 0.4 : 1)",
+            "(math.sin(q.life_time * 170) * 4) * (c.is_first_person ? 0.4 : 1)",
+            "(math.sin(q.life_time * 200) * 5) * (c.is_first_person ? 0.4 : 1)"
           ]
         },
         "reel_crank": {
@@ -209,23 +209,23 @@
         },
         "rod": {
           "rotation": [
-            "-7 + math.sin(q.life_time * 700) * 1.5",
+            "-7 + (math.sin(q.life_time * 700) * 1.5) * (c.is_first_person ? 0.4 : 1)",
             0,
             0
           ]
         },
         "rod_mid": {
           "rotation": [
-            "17 + math.sin(q.life_time * 900) * 4",
-            "math.sin(q.life_time * 760) * 4",
+            "17 + (math.sin(q.life_time * 900) * 4) * (c.is_first_person ? 0.4 : 1)",
+            "(math.sin(q.life_time * 760) * 4) * (c.is_first_person ? 0.4 : 1)",
             0
           ]
         },
         "rod_tip": {
           "rotation": [
-            "27 + math.sin(q.life_time * 900) * 7",
-            "math.sin(q.life_time * 760) * 6",
-            "math.sin(q.life_time * 1100) * 7"
+            "27 + (math.sin(q.life_time * 900) * 7) * (c.is_first_person ? 0.4 : 1)",
+            "(math.sin(q.life_time * 760) * 6) * (c.is_first_person ? 0.4 : 1)",
+            "(math.sin(q.life_time * 1100) * 7) * (c.is_first_person ? 0.4 : 1)"
           ]
         },
         "reel_crank": {
@@ -398,7 +398,7 @@
         },
         "rod_tip": {
           "rotation": [
-            "6 + math.sin(q.life_time * 400) * 1.5",
+            "6 + (math.sin(q.life_time * 400) * 1.5) * (c.is_first_person ? 0.4 : 1)",
             0,
             0
           ]
