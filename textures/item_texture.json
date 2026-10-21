@@ -173,6 +173,9 @@
     "double_xp_potion_pecheur": {
       "textures": "textures/items/doublexp/double_xp_potion_pecheur"
     },
+    "double_xp_potion_terrassier": {
+      "textures": "textures/items/doublexp/double_xp_potion_terrassier"
+    },
     "dynamite": {
       "textures": "textures/items/item/dynamite"
     },
@@ -382,6 +385,9 @@
     },
     "freeze_stick": {
       "textures": "textures/items/stick/freeze_stick"
+    },
+    "gem_cheque": {
+      "textures": "textures/items/item/gem_cheque"
     },
     "god_of_stick": {
       "textures": "textures/items/stick/god_of_stick"
