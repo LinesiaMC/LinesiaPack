@@ -422,6 +422,15 @@
     "key_rare": {
       "textures": "textures/items/key/key_rare"
     },
+    "linesia_abyss_pearl": {
+      "textures": "textures/items/rare/abyss_pearl"
+    },
+    "linesia_amber_tear": {
+      "textures": "textures/items/rare/amber_tear"
+    },
+    "linesia_antique_shard": {
+      "textures": "textures/items/rare/antique_shard"
+    },
     "linesia_crop_gem_beetroot": {
       "textures": "textures/items/farm/crop_gem_beetroot"
     },
@@ -880,6 +889,12 @@
     },
     "linesia_fish_vairon": {
       "textures": "textures/items/fish/vairon"
+    },
+    "linesia_geode_crystal": {
+      "textures": "textures/items/rare/geode_crystal"
+    },
+    "linesia_golden_horn": {
+      "textures": "textures/items/rare/golden_horn"
     },
     "linesia_golden_sheaf": {
       "textures": "textures/items/farm/golden_sheaf"
