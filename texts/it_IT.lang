@@ -48,8 +48,8 @@ tile.linesia:obsidian_fence_gate.name=Portail en obsidienne
 item.linesia:obsidian_door.name=Porte en obsidienne
 tile.linesia:obsidian_trapdoor.name=Trappe en obsidienne
 
-## Bedrock vanilla tooltip hide — CLÉS RÉELLES (depuis MCBVanillaResourcePack)
-## Strict empty values pour faire disparaître la ligne entière côté client.
+## Lignes d'infobulle vanilla masquées
+## (valeur vide = ligne retirée côté client)
 
 # Sous-titre bleu "Équipement" sous le nom de l'item (= onglet créatif).
 craftingScreen.tab.equipment=
@@ -141,7 +141,7 @@ enchantment.level.8=
 enchantment.level.9=
 enchantment.level.10=
 
-## Groupes de l'inventaire créatif (tools/creative/gen.py)
+## Groupes de l'inventaire créatif
 itemGroup.name.linesia_kit_masonry=Kit: muratura
 itemGroup.name.linesia_kit_stone=Kit: pietre
 itemGroup.name.linesia_kit_wood=Kit: legno
