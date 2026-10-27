@@ -666,6 +666,45 @@
     "linesia_energy_harvester": {
       "textures": "textures/blocks/energy/harvester"
     },
+    "linesia_energy_item_accelerator": {
+      "textures": "textures/blocks/energy/item_accelerator"
+    },
+    "linesia_energy_item_biogas": {
+      "textures": "textures/blocks/energy/item_biogas"
+    },
+    "linesia_energy_item_boiler": {
+      "textures": "textures/blocks/energy/item_boiler"
+    },
+    "linesia_energy_item_crafter": {
+      "textures": "textures/blocks/energy/item_crafter"
+    },
+    "linesia_energy_item_drill": {
+      "textures": "textures/blocks/energy/item_drill"
+    },
+    "linesia_energy_item_elevator": {
+      "textures": "textures/blocks/energy/item_elevator"
+    },
+    "linesia_energy_item_fisher": {
+      "textures": "textures/blocks/energy/item_fisher"
+    },
+    "linesia_energy_item_grinder": {
+      "textures": "textures/blocks/energy/item_grinder"
+    },
+    "linesia_energy_item_harvester": {
+      "textures": "textures/blocks/energy/item_harvester"
+    },
+    "linesia_energy_item_lumber": {
+      "textures": "textures/blocks/energy/item_lumber"
+    },
+    "linesia_energy_item_reactor": {
+      "textures": "textures/blocks/energy/item_reactor"
+    },
+    "linesia_energy_item_sprinkler": {
+      "textures": "textures/blocks/energy/item_sprinkler"
+    },
+    "linesia_energy_item_vacuum": {
+      "textures": "textures/blocks/energy/item_vacuum"
+    },
     "linesia_energy_lamp_off": {
       "textures": "textures/blocks/energy/state/lamp_off"
     },
