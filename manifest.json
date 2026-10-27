@@ -4,7 +4,7 @@
 		"name": "Linesia",
 		"description": "Resource pack du serveur Linesia",
 		"uuid": "468c9804-90ec-43d6-aa82-7b4fe8558fd9",
-		"version": [2, 39, 0],
+		"version": [2, 39, 1],
 		"min_engine_version": [
 			1,
 			16,
@@ -16,7 +16,7 @@
 			"description": "Textures, modèles et objets de Linesia",
 			"type": "resources",
 			"uuid": "31c64f2d-8187-47e8-9094-f700dc55d1af",
-			"version": [2, 39, 0]
+			"version": [2, 39, 1]
 		}
 	]
 }
