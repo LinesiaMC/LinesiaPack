@@ -461,6 +461,21 @@
     "linesia_crop_gem_wheat": {
       "textures": "textures/items/farm/crop_gem_wheat"
     },
+    "linesia_dungeon_blood_vial": {
+      "textures": "textures/items/dungeon/blood_vial"
+    },
+    "linesia_dungeon_cookie": {
+      "textures": "textures/items/dungeon/cookie"
+    },
+    "linesia_dungeon_cursed_bone": {
+      "textures": "textures/items/dungeon/cursed_bone"
+    },
+    "linesia_dungeon_pumpkin_bomb": {
+      "textures": "textures/items/dungeon/pumpkin_bomb"
+    },
+    "linesia_dungeon_wisp": {
+      "textures": "textures/items/dungeon/wisp"
+    },
     "linesia_egg_airdrop": {
       "textures": "textures/items/eggs/airdrop"
     },
