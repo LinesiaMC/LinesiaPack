@@ -582,6 +582,9 @@
     "linesia_energy_drill": {
       "textures": "textures/blocks/energy/drill"
     },
+    "linesia_energy_elevator": {
+      "textures": "textures/blocks/energy/elevator"
+    },
     "linesia_energy_eye_alert": {
       "textures": "textures/blocks/energy/state/eye_alert"
     },
