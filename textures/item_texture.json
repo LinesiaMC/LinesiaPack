@@ -362,6 +362,126 @@
     "farm_chestplate": {
       "textures": "textures/items/armors/farm_chestplate"
     },
+    "farm_evo_10_boots": {
+      "textures": "textures/items/armors/farm_evo_10_boots"
+    },
+    "farm_evo_10_chestplate": {
+      "textures": "textures/items/armors/farm_evo_10_chestplate"
+    },
+    "farm_evo_10_helmet": {
+      "textures": "textures/items/armors/farm_evo_10_helmet"
+    },
+    "farm_evo_10_leggings": {
+      "textures": "textures/items/armors/farm_evo_10_leggings"
+    },
+    "farm_evo_1_boots": {
+      "textures": "textures/items/armors/farm_evo_1_boots"
+    },
+    "farm_evo_1_chestplate": {
+      "textures": "textures/items/armors/farm_evo_1_chestplate"
+    },
+    "farm_evo_1_helmet": {
+      "textures": "textures/items/armors/farm_evo_1_helmet"
+    },
+    "farm_evo_1_leggings": {
+      "textures": "textures/items/armors/farm_evo_1_leggings"
+    },
+    "farm_evo_2_boots": {
+      "textures": "textures/items/armors/farm_evo_2_boots"
+    },
+    "farm_evo_2_chestplate": {
+      "textures": "textures/items/armors/farm_evo_2_chestplate"
+    },
+    "farm_evo_2_helmet": {
+      "textures": "textures/items/armors/farm_evo_2_helmet"
+    },
+    "farm_evo_2_leggings": {
+      "textures": "textures/items/armors/farm_evo_2_leggings"
+    },
+    "farm_evo_3_boots": {
+      "textures": "textures/items/armors/farm_evo_3_boots"
+    },
+    "farm_evo_3_chestplate": {
+      "textures": "textures/items/armors/farm_evo_3_chestplate"
+    },
+    "farm_evo_3_helmet": {
+      "textures": "textures/items/armors/farm_evo_3_helmet"
+    },
+    "farm_evo_3_leggings": {
+      "textures": "textures/items/armors/farm_evo_3_leggings"
+    },
+    "farm_evo_4_boots": {
+      "textures": "textures/items/armors/farm_evo_4_boots"
+    },
+    "farm_evo_4_chestplate": {
+      "textures": "textures/items/armors/farm_evo_4_chestplate"
+    },
+    "farm_evo_4_helmet": {
+      "textures": "textures/items/armors/farm_evo_4_helmet"
+    },
+    "farm_evo_4_leggings": {
+      "textures": "textures/items/armors/farm_evo_4_leggings"
+    },
+    "farm_evo_5_boots": {
+      "textures": "textures/items/armors/farm_evo_5_boots"
+    },
+    "farm_evo_5_chestplate": {
+      "textures": "textures/items/armors/farm_evo_5_chestplate"
+    },
+    "farm_evo_5_helmet": {
+      "textures": "textures/items/armors/farm_evo_5_helmet"
+    },
+    "farm_evo_5_leggings": {
+      "textures": "textures/items/armors/farm_evo_5_leggings"
+    },
+    "farm_evo_6_boots": {
+      "textures": "textures/items/armors/farm_evo_6_boots"
+    },
+    "farm_evo_6_chestplate": {
+      "textures": "textures/items/armors/farm_evo_6_chestplate"
+    },
+    "farm_evo_6_helmet": {
+      "textures": "textures/items/armors/farm_evo_6_helmet"
+    },
+    "farm_evo_6_leggings": {
+      "textures": "textures/items/armors/farm_evo_6_leggings"
+    },
+    "farm_evo_7_boots": {
+      "textures": "textures/items/armors/farm_evo_7_boots"
+    },
+    "farm_evo_7_chestplate": {
+      "textures": "textures/items/armors/farm_evo_7_chestplate"
+    },
+    "farm_evo_7_helmet": {
+      "textures": "textures/items/armors/farm_evo_7_helmet"
+    },
+    "farm_evo_7_leggings": {
+      "textures": "textures/items/armors/farm_evo_7_leggings"
+    },
+    "farm_evo_8_boots": {
+      "textures": "textures/items/armors/farm_evo_8_boots"
+    },
+    "farm_evo_8_chestplate": {
+      "textures": "textures/items/armors/farm_evo_8_chestplate"
+    },
+    "farm_evo_8_helmet": {
+      "textures": "textures/items/armors/farm_evo_8_helmet"
+    },
+    "farm_evo_8_leggings": {
+      "textures": "textures/items/armors/farm_evo_8_leggings"
+    },
+    "farm_evo_9_boots": {
+      "textures": "textures/items/armors/farm_evo_9_boots"
+    },
+    "farm_evo_9_chestplate": {
+      "textures": "textures/items/armors/farm_evo_9_chestplate"
+    },
+    "farm_evo_9_helmet": {
+      "textures": "textures/items/armors/farm_evo_9_helmet"
+    },
+    "farm_evo_9_leggings": {
+      "textures": "textures/items/armors/farm_evo_9_leggings"
+    },
     "farm_helmet": {
       "textures": "textures/items/armors/farm_helmet"
     },
