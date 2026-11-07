@@ -839,6 +839,9 @@
     "linesia_energy_module_efficiency": {
       "textures": "textures/items/energy/module_efficiency"
     },
+    "linesia_energy_module_fortune": {
+      "textures": "textures/items/energy/module_fortune"
+    },
     "linesia_energy_module_range": {
       "textures": "textures/items/energy/module_range"
     },
