@@ -1340,6 +1340,18 @@
     "seedplanter_9": {
       "textures": "textures/items/item/seedplanter_9"
     },
+    "sell_stick_commun": {
+      "textures": "textures/items/stick/sell_stick_commun"
+    },
+    "sell_stick_epique": {
+      "textures": "textures/items/stick/sell_stick_epique"
+    },
+    "sell_stick_legendaire": {
+      "textures": "textures/items/stick/sell_stick_legendaire"
+    },
+    "sell_stick_rare": {
+      "textures": "textures/items/stick/sell_stick_rare"
+    },
     "size_stick": {
       "textures": "textures/items/stick/size_stick"
     },
