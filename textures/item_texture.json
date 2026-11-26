@@ -551,6 +551,9 @@
     "linesia_antique_shard": {
       "textures": "textures/items/rare/antique_shard"
     },
+    "linesia_colossus_shard": {
+      "textures": "textures/items/rare/colossus_shard"
+    },
     "linesia_crop_gem_beetroot": {
       "textures": "textures/items/farm/crop_gem_beetroot"
     },
